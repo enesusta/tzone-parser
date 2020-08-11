@@ -1,12 +1,15 @@
 package com.github.enesusta.tzone.parser.modal;
 
-import java.util.Arrays;
+import com.fasterxml.jackson.annotation.JsonAutoDetect;
 
-public class Province {
+import java.util.Set;
+
+@JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
+public class Province implements Comparable {
     private String provinceName;
-    private County[] counties;
+    private Set<County> counties;
 
-    public void setCounties(County[] counties) {
+    public void setCounties(Set<County> counties) {
         this.counties = counties;
     }
 
@@ -18,7 +21,14 @@ public class Province {
     public String toString() {
         return "Province{" +
             "provinceName='" + provinceName + '\'' +
-            ", counties=" + Arrays.toString(counties) +
+            ", counties=" + counties +
             '}';
+    }
+
+
+    @Override
+    public int compareTo(Object o) {
+        Province province = (Province) o;
+        return this.provinceName.compareTo(province.provinceName);
     }
 }

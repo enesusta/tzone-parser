@@ -1,36 +1,21 @@
 package com.github.enesusta.tzone.parser;
 
-import com.github.enesusta.tzone.parser.cell.TemporaryCell;
-import com.github.enesusta.tzone.parser.modal.County;
-import com.github.enesusta.tzone.parser.modal.Province;
-import org.apache.poi.ss.formula.FormulaParseException;
-import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.CellStyle;
-import org.apache.poi.ss.usermodel.CellType;
-import org.apache.poi.ss.usermodel.Comment;
-import org.apache.poi.ss.usermodel.Hyperlink;
-import org.apache.poi.ss.usermodel.RichTextString;
-import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
-import org.apache.poi.ss.util.CellAddress;
-import org.apache.poi.ss.util.CellRangeAddress;
-import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.InputStream;
-import java.time.LocalDateTime;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.Iterator;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.StreamSupport;
+
 
 public final class App {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
+
+        Consumer consumer = new ProvinceConsumer();
+        consumer.consume();
+
+    }
+}
+
+    /**public static void main(String[] args) {
+
+        Consumer provinceConsumer = new ProvinceConsumer();
 
         try (InputStream inputStream =
                  new FileInputStream("a.xlsx")) {
@@ -45,8 +30,10 @@ public final class App {
 
             itr.next();
 
+            List<Province> provinces = new LinkedList<>();
             Province province = new Province();
             province.setProvinceName("ADANA");
+            Set<County> counties = new HashSet<>();
 
             while (itr.hasNext()) {
 
@@ -58,9 +45,15 @@ public final class App {
 
 
                 if (!temp.getStringCellValue().equalsIgnoreCase(cells.get(1).getStringCellValue())) {
-                    System.out.printf("Il %s : Ilce %s\n", cells.get(0), cells.get(1));
+                    //System.out.printf("Il %s : Ilce %s\n", cells.get(0), cells.get(1));
+                    counties.add(new County(cells.get(1).getStringCellValue().trim()));
+
                     if (!provinceNameTemp.getStringCellValue().equalsIgnoreCase(cells.get(0).getStringCellValue())) {
-                        province.setProvinceName(cells.get(0).getStringCellValue());
+                        provinces.add(province);
+                        System.out.println(province);
+                        province.setProvinceName(cells.get(0).getStringCellValue().trim());
+                        province.setCounties(counties);
+                        counties.clear();
                     }
                 }
 
@@ -81,14 +74,15 @@ public final class App {
                  System.out.println(cell.getStringCellValue());
                  }
                  */
-                Thread.sleep(20);
-
-            }
 
 
-        } catch (IOException | InterruptedException e) {
+            /**
+            ObjectMapper objectMapper = new ObjectMapper();
+            objectMapper.writeValue(new File("province.json"), provinces);
+            System.out.println(provinces);
+        } catch (IOException e) {
             e.printStackTrace();
         }
 
     }
-}
+             */
