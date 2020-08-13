@@ -1,7 +1,9 @@
 package com.github.enesusta.tzone.parser;
 
 import com.github.enesusta.tzone.parser.modal.bean.AllBean;
-import com.github.enesusta.tzone.parser.modal.pojo.TownPOJO;
+import com.github.enesusta.tzone.parser.modal.bean.CountyBean;
+import com.github.enesusta.tzone.parser.modal.bean.TownBean;
+import com.github.enesusta.tzone.parser.modal.bean.VillageBean;
 import com.github.enesusta.tzone.parser.modal.pojo.VillagePOJO;
 import com.github.enesusta.tzone.parser.text.TextConsumer;
 import org.apache.commons.collections4.MultiMap;
@@ -32,8 +34,10 @@ public class VillageConsumer implements Consumer {
 
         for (VillagePOJO villagePOJO : list) {
             multiMap.put(villagePOJO.getProvinceName(), villagePOJO);
- //           System.out.printf("Il, %s = ilce %s\n", villagePOJO.getProvinceName(), villagePOJO.getDistrictName());
+            //           System.out.printf("Il, %s = ilce %s\n", villagePOJO.getProvinceName(), villagePOJO.getDistrictName());
         }
+
+        Set<CountyBean> countyBeans = new HashSet<>();
 
         multiMap.forEach((k, v) -> {
             //           System.out.println("v = " + v);
@@ -44,6 +48,10 @@ public class VillageConsumer implements Consumer {
             for (VillagePOJO villagePOJO : collection) {
                 map.put(villagePOJO.getDistrictName(), villagePOJO);
             }
+
+            CountyBean countyBean = new CountyBean();
+
+            Set<TownBean> townBeans = new HashSet<>();
 
             for (Map.Entry<String, Object> entry : map.entrySet()) {
 
@@ -56,15 +64,32 @@ public class VillageConsumer implements Consumer {
                     map1.put(villagePOJO.getTownName(), villagePOJO);
                 }
 
-                map1.forEach((c,d) -> {
+                TownBean townBean = new TownBean();
+                townBean.setTownName(entry.getKey());
+
+                map1.forEach((c, d) -> {
 
                     System.out.printf("Il %s, ilce %s, belde %s\n", k, entry.getKey(), c);
                     Collection<VillagePOJO> collSet1 = (Collection<VillagePOJO>) d;
                     Set<VillagePOJO> set2 = new HashSet<>(collSet1);
-                    System.out.println(set2);
 
+                    Set<VillageBean> villageBeans = new HashSet<>();
+
+                    for (VillagePOJO villagePOJO : set2) {
+                        VillageBean villageBean = new VillageBean();
+                        villageBean.setVillageName(villageBean.getVillageName());
+                        villageBean.setZipCode(villagePOJO.getZipCode());
+                        villageBeans.add(villageBean);
+                    }
+
+                    townBean.setVillageBeans(villageBeans);
                 });
+
+                townBeans.add(townBean);
             }
+
+            countyBean.setCountyTowns(townBeans);
+            countyBeans.add(countyBean);
 
         });
     }
