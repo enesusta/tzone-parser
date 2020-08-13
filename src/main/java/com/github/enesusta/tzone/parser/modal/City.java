@@ -2,6 +2,7 @@ package com.github.enesusta.tzone.parser.modal;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 
+
 @JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
 public class City implements Comparable<City> {
     private String cityName;

@@ -1,5 +1,6 @@
 package com.github.enesusta.tzone.parser;
 
+import com.github.enesusta.tzone.parser.modal.County;
 import com.github.enesusta.tzone.parser.modal.Province;
 import com.github.enesusta.tzone.parser.util.CellUtilityFactory;
 import org.apache.poi.ss.usermodel.Cell;
@@ -19,18 +20,31 @@ public class ProvinceConsumer extends Consumer {
     protected void consume() throws IOException {
 
         Set<Province> provinces = new TreeSet<>();
+        Set<County> counties = new TreeSet<>();
 
         for (Row row : parser.parse()) {
+
             List<Cell> cells = StreamSupport
                 .stream(row.spliterator(), false)
                 .collect(Collectors.toList());
+
             Province province = new Province();
-            province.setCounties(null);
             province.setProvinceName(CellUtilityFactory.cellToString(cells.get(0)));
-            provinces.add(province);
+
+            County county = new County();
+            county.setCountyName(CellUtilityFactory.cellToString(cells.get(1)));
+
+            counties.add(county);
+
+            boolean isChange = provinces.add(province);
+
+            if (isChange) {
+                province.setCounties(counties);
+                counties.clear();
+            }
+
         }
 
-        System.out.println(provinces);
         objectMapper.writeValue(new File("province.json"), provinces);
     }
 }
