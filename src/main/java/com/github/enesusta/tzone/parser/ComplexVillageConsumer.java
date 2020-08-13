@@ -14,7 +14,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Collection;
 import java.util.HashSet;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
 
@@ -84,12 +83,12 @@ public class ComplexVillageConsumer implements Consumer {
 
                     for (VillagePOJO villagePOJO : s3) {
                         VillageBean villageBean = new VillageBean();
-                        villageBean.setVillageName(villageBean.getVillageName());
+                        villageBean.setVillageName(villagePOJO.getVillageName());
                         villageBean.setZipCode(villagePOJO.getZipCode());
                         villageBeans.add(villageBean);
                     }
 
-                    townBean.setVillageBeans(villageBeans);
+                    townBean.setTownVillages(villageBeans);
                     townBeans.add(townBean);
 
                     /** Section 4 End */

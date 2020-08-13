@@ -82,7 +82,7 @@ public class VillageConsumer implements Consumer {
                         villageBeans.add(villageBean);
                     }
 
-                    townBean.setVillageBeans(villageBeans);
+                    townBean.setTownVillages(villageBeans);
                 });
 
                 townBeans.add(townBean);

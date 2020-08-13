@@ -4,7 +4,7 @@ import java.util.Set;
 
 public class TownBean {
     private String townName;
-    private Set<VillageBean> villageBeans;
+    private Set<VillageBean> townVillages;
 
     public String getTownName() {
         return townName;
@@ -14,19 +14,19 @@ public class TownBean {
         this.townName = townName;
     }
 
-    public Set<VillageBean> getVillageBeans() {
-        return villageBeans;
+    public Set<VillageBean> getTownVillages() {
+        return townVillages;
     }
 
-    public void setVillageBeans(Set<VillageBean> villageBeans) {
-        this.villageBeans = villageBeans;
+    public void setTownVillages(Set<VillageBean> townVillages) {
+        this.townVillages = townVillages;
     }
 
     @Override
     public String toString() {
         return "TownBean{" +
             "townName='" + townName + '\'' +
-            ", villageBeans=" + villageBeans +
+            ", villageBeans=" + townVillages +
             '}';
     }
 }
