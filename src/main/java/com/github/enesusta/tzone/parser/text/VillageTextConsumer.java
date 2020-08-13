@@ -26,7 +26,7 @@ public class VillageTextConsumer implements TextConsumer<VillagePOJO> {
 
                 VillagePOJO villagePOJO = new VillagePOJO();
                 villagePOJO.setProvinceName(arr[0]);
-                villagePOJO.setDistrictName(arr[0]);
+                villagePOJO.setDistrictName(arr[1]);
                 villagePOJO.setTownName(arr[2]);
                 villagePOJO.setVillageName(arr[3]);
                 villagePOJO.setZipCode(Integer.parseInt(arr[4]));
