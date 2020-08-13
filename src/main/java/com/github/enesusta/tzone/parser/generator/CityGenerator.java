@@ -1,6 +1,6 @@
 package com.github.enesusta.tzone.parser.generator;
 
-import com.github.enesusta.tzone.parser.modal.City;
+import com.github.enesusta.tzone.parser.modal.pojo.CityPOJO;
 import com.github.enesusta.tzone.parser.util.CellUtilityFactory;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -18,15 +18,15 @@ public class CityGenerator extends Generator {
     @Override
     public void generate() throws IOException {
 
-        Set<City> cities = new TreeSet<>();
+        Set<CityPOJO> cities = new TreeSet<>();
 
         for (Row row : parser.parse()) {
             List<Cell> cells = StreamSupport
                 .stream(row.spliterator(), false)
                 .collect(Collectors.toList());
-            City city = new City();
-            city.setCityName(CellUtilityFactory.cellToString(cells.get(0)));
-            cities.add(city);
+            CityPOJO cityPOJO = new CityPOJO();
+            cityPOJO.setCityName(CellUtilityFactory.cellToString(cells.get(0)));
+            cities.add(cityPOJO);
         }
 
         objectMapper.writeValue(new File("city.json"), cities);

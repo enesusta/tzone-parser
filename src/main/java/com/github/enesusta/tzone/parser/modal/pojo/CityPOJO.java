@@ -1,10 +1,10 @@
-package com.github.enesusta.tzone.parser.modal;
+package com.github.enesusta.tzone.parser.modal.pojo;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 
 
 @JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
-public class City implements Comparable<City> {
+public class CityPOJO implements Comparable<CityPOJO> {
     private String cityName;
     private String districtName;
 
@@ -33,7 +33,7 @@ public class City implements Comparable<City> {
     }
 
     @Override
-    public int compareTo(City o) {
+    public int compareTo(CityPOJO o) {
         return cityName.compareTo(o.cityName);
     }
 }

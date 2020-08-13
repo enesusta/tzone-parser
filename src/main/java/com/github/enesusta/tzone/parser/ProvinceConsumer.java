@@ -1,7 +1,7 @@
 package com.github.enesusta.tzone.parser;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.enesusta.tzone.parser.modal.City;
+import com.github.enesusta.tzone.parser.modal.pojo.CityPOJO;
 import com.github.enesusta.tzone.parser.modal.County;
 import com.github.enesusta.tzone.parser.modal.Province;
 import com.github.enesusta.tzone.parser.text.TextConsumer;
@@ -18,20 +18,20 @@ import java.util.Set;
 
 public class ProvinceConsumer implements Consumer {
 
-    private final TextConsumer<City> textConsumer;
+    private final TextConsumer<CityPOJO> textConsumer;
 
-    public ProvinceConsumer(final TextConsumer<City> textConsumer) {
+    public ProvinceConsumer(final TextConsumer<CityPOJO> textConsumer) {
         this.textConsumer = textConsumer;
     }
 
     @Override
     public void consume() {
 
-        List<City> list = textConsumer.consumeText("city.txt");
+        List<CityPOJO> list = textConsumer.consumeText("city.txt");
         List<Province> provinces = new LinkedList<>();
         MultiMap<String, String> multiMap = new MultiValueMap<>();
 
-        for (City c : list) {
+        for (CityPOJO c : list) {
             System.out.println(c);
             multiMap.put(c.getCityName(), c.getDistrictName());
         }

@@ -1,21 +1,20 @@
 package com.github.enesusta.tzone.parser.text;
 
-import com.github.enesusta.tzone.parser.modal.pojo.CityPOJO;
+import com.github.enesusta.tzone.parser.modal.pojo.TownPOJO;
 
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
-public class ProvinceTextConsumer implements TextConsumer<CityPOJO> {
+public class TownTextConsumer implements TextConsumer<TownPOJO> {
 
     @Override
-    public List<CityPOJO> consumeText(String filename) {
+    public List<TownPOJO> consumeText(String filename) {
 
-        List<CityPOJO> list = new ArrayList<>();
+        List<TownPOJO> list = new LinkedList<>();
 
         try (InputStream inputStream = new FileInputStream(filename)) {
 
@@ -24,12 +23,14 @@ public class ProvinceTextConsumer implements TextConsumer<CityPOJO> {
 
             while (scanner.hasNext()) {
                 String[] arr = scanner.next().split("#");
-                System.out.println(Arrays.toString(arr));
-                CityPOJO cityPOJO = new CityPOJO();
-                cityPOJO.setCityName(arr[0]);
-                cityPOJO.setDistrictName(arr[1]);
-                list.add(cityPOJO);
+
+                TownPOJO townPOJO = new TownPOJO();
+                townPOJO.setProvinceName(arr[0]);
+                townPOJO.setDistrictName(arr[1]);
+                townPOJO.setTownName(arr[2]);
+                list.add(townPOJO);
             }
+
 
         } catch (IOException e) {
             e.printStackTrace();

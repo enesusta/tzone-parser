@@ -26,7 +26,6 @@ public class ProvinceGenerator extends Generator {
         Iterator<Row> iterator = parser.parse().iterator();
 
         Cell temp = TemporaryCell.of();
-        Cell province = TemporaryCell.of();
 
         try (PrintStream printStream = new PrintStream(new FileOutputStream("city.txt"))) {
 
@@ -42,7 +41,6 @@ public class ProvinceGenerator extends Generator {
                 }
 
                 temp = cells.get(1);
-                province = cells.get(0);
             }
 
         } catch (IOException e) {
