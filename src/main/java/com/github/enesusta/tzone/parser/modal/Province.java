@@ -7,10 +7,10 @@ import java.util.Set;
 @JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
 public class Province implements Comparable<Province> {
     private String provinceName;
-    private Set<County> counties;
+    private Set<County> provinceCounties;
 
-    public void setCounties(Set<County> counties) {
-        this.counties = counties;
+    public void setProvinceCounties(Set<County> provinceCounties) {
+        this.provinceCounties = provinceCounties;
     }
 
     public void setProvinceName(String provinceName) {
@@ -21,7 +21,7 @@ public class Province implements Comparable<Province> {
     public String toString() {
         return "Province{" +
             "provinceName='" + provinceName + '\'' +
-            ", counties=" + counties +
+            ", counties=" + provinceCounties +
             '}';
     }
 
