@@ -1,5 +1,6 @@
 package com.github.enesusta.tzone.parser;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.github.enesusta.tzone.parser.modal.bean.AllBean;
 import com.github.enesusta.tzone.parser.modal.bean.CountyBean;
 import com.github.enesusta.tzone.parser.modal.bean.TownBean;
@@ -9,6 +10,8 @@ import com.github.enesusta.tzone.parser.text.TextConsumer;
 import org.apache.commons.collections4.MultiMap;
 import org.apache.commons.collections4.map.MultiValueMap;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -101,12 +104,20 @@ public class ComplexVillageConsumer implements Consumer {
             });
 
             allBean.setProvinceCounties(countyBeans);
+            allBeans.add(allBean);
 
             /** Section 2 End */
 
         });
 
         /** Section 1 End */
+
+        ObjectMapper objectMapper = new ObjectMapper();
+        try {
+            objectMapper.writeValue(new File("big.json"), allBeans);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
     }
 }

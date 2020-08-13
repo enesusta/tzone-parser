@@ -38,7 +38,7 @@ public final class App {
 //        villageGenerator.generate();
 
         TextConsumer<VillagePOJO> villagePOJOTextConsumer = new VillageTextConsumer();
-        Consumer villageConsumer = new VillageConsumer(villagePOJOTextConsumer);
+        Consumer villageConsumer = new ComplexVillageConsumer(villagePOJOTextConsumer);
         villageConsumer.consume();
 
     }
