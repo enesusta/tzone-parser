@@ -1,5 +1,9 @@
 package com.github.enesusta.tzone.parser;
 
+import com.github.enesusta.tzone.parser.generator.CityGenerator;
+import com.github.enesusta.tzone.parser.generator.Generator;
+import com.github.enesusta.tzone.parser.generator.ProvinceGenerator;
+
 import java.io.IOException;
 
 
@@ -7,10 +11,10 @@ public final class App {
 
     public static void main(String[] args) throws IOException {
 
-        Consumer consumer = new ProvinceConsumer();
-        consumer.consume();
+        Generator generator = new ProvinceGenerator();
+        generator.consume();
 
-        Consumer city = new CityConsumer();
+        Generator city = new CityGenerator();
         city.consume();
 
     }

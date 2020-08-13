@@ -6,6 +6,14 @@ import com.fasterxml.jackson.annotation.JsonAutoDetect;
 public class County implements Comparable<County> {
     private String countyName;
 
+    public County() {
+
+    }
+
+    public County(String countyName) {
+        this.countyName = countyName;
+    }
+
     public void setCountyName(String countyName) {
         this.countyName = countyName;
     }

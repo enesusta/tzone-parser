@@ -1,4 +1,4 @@
-package com.github.enesusta.tzone.parser;
+package com.github.enesusta.tzone.parser.generator;
 
 import com.github.enesusta.tzone.parser.modal.City;
 import com.github.enesusta.tzone.parser.util.CellUtilityFactory;
@@ -13,10 +13,10 @@ import java.util.TreeSet;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
-public class CityConsumer extends Consumer {
+public class CityGenerator extends Generator {
 
     @Override
-    protected void consume() throws IOException {
+    public void consume() throws IOException {
 
         Set<City> cities = new TreeSet<>();
 
