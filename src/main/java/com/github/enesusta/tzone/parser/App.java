@@ -10,6 +10,9 @@ public final class App {
         Consumer consumer = new ProvinceConsumer();
         consumer.consume();
 
+        Consumer city = new CityConsumer();
+        city.consume();
+
     }
 }
 

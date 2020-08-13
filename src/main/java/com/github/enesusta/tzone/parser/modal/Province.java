@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import java.util.Set;
 
 @JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
-public class Province implements Comparable {
+public class Province implements Comparable<Province> {
     private String provinceName;
     private Set<County> counties;
 
@@ -27,8 +27,7 @@ public class Province implements Comparable {
 
 
     @Override
-    public int compareTo(Object o) {
-        Province province = (Province) o;
-        return this.provinceName.compareTo(province.provinceName);
+    public int compareTo(Province o) {
+        return this.provinceName.compareTo(o.provinceName);
     }
 }
