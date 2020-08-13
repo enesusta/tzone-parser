@@ -73,7 +73,7 @@ public class TownConsumer implements Consumer {
                     countyDAO.setCountyTowns(townSet);
                     printStream.println();
                     countyDAOS.add(countyDAO);
-                    
+
                 }
 
 
