@@ -16,7 +16,7 @@ import java.util.stream.StreamSupport;
 public class CityGenerator extends Generator {
 
     @Override
-    public void consume() throws IOException {
+    public void generate() throws IOException {
 
         Set<City> cities = new TreeSet<>();
 
