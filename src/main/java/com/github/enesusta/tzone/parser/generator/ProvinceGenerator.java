@@ -21,13 +21,11 @@ public class ProvinceGenerator extends Generator {
     @Override
     public void generate() throws IOException {
 
-        List<Province> list = new ArrayList<>();
-
         Iterator<Row> iterator = parser.parse().iterator();
 
         Cell temp = TemporaryCell.of();
 
-        try (PrintStream printStream = new PrintStream(new FileOutputStream("city.txt"))) {
+        try (PrintStream printStream = new PrintStream(new FileOutputStream("province.txt"))) {
 
             while (iterator.hasNext()) {
 
@@ -35,18 +33,17 @@ public class ProvinceGenerator extends Generator {
                     .stream(iterator.next().spliterator(), false)
                     .collect(Collectors.toList());
 
-                if (!temp.getStringCellValue().equalsIgnoreCase(cells.get(1).getStringCellValue())) {
-                    printStream.printf("%s#%s\n", CellUtilityFactory.cellToString(cells.get(0)), CellUtilityFactory.cellToString((cells.get(1))));
- //                   boolean provinceCondition = !province.getStringCellValue().equalsIgnoreCase(cells.get(0).getStringCellValue());
+                if (!temp.getStringCellValue().equalsIgnoreCase(cells.get(0).getStringCellValue())) {
+                    String provinceName = CellUtilityFactory.cellToString(cells.get(0));
+                    printStream.printf("%s\n", provinceName);
                 }
 
-                temp = cells.get(1);
+                temp = cells.get(0);
             }
 
         } catch (IOException e) {
             e.printStackTrace();
         }
 
-        objectMapper.writeValue(new File("province.json"), list);
     }
 }

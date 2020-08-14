@@ -4,7 +4,7 @@ import com.github.enesusta.tzone.parser.generator.Generator;
 import com.github.enesusta.tzone.parser.generator.ProvinceGenerator;
 import com.github.enesusta.tzone.parser.generator.TownGenerator;
 import com.github.enesusta.tzone.parser.generator.VillageGenerator;
-import com.github.enesusta.tzone.parser.modal.pojo.CityPOJO;
+import com.github.enesusta.tzone.parser.modal.pojo.ProvincePOJO;
 import com.github.enesusta.tzone.parser.modal.pojo.TownPOJO;
 import com.github.enesusta.tzone.parser.modal.pojo.VillagePOJO;
 import com.github.enesusta.tzone.parser.text.ProvinceTextConsumer;
@@ -20,11 +20,11 @@ public final class App {
     public static void main(String[] args) throws IOException {
 
         Generator generator = new ProvinceGenerator();
-        //generator.generate();
+        generator.generate();
 
-        TextConsumer<CityPOJO> textConsumer = new ProvinceTextConsumer();
+        TextConsumer<ProvincePOJO> textConsumer = new ProvinceTextConsumer();
         Consumer consumer = new ProvinceConsumer(textConsumer);
-        //       consumer.consume();
+        consumer.consume();
 
 
         Generator townGenerator = new TownGenerator();
@@ -39,7 +39,7 @@ public final class App {
 
         TextConsumer<VillagePOJO> villagePOJOTextConsumer = new VillageTextConsumer();
         Consumer villageConsumer = new ComplexVillageConsumer(villagePOJOTextConsumer);
-        villageConsumer.consume();
+        //villageConsumer.consume();
 
     }
 }
