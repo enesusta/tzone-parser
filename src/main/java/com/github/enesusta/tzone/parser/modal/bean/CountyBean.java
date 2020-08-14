@@ -2,7 +2,7 @@ package com.github.enesusta.tzone.parser.modal.bean;
 
 import java.util.Set;
 
-public class CountyBean {
+public class CountyBean implements Comparable<CountyBean> {
     private String countyName;
     private Set<TownBean> countyTowns;
 
@@ -28,5 +28,10 @@ public class CountyBean {
             "countyName='" + countyName + '\'' +
             ", countyTowns=" + countyTowns +
             '}';
+    }
+
+    @Override
+    public int compareTo(CountyBean o) {
+        return countyName.compareTo(o.countyName);
     }
 }

@@ -1,5 +1,6 @@
 package com.github.enesusta.tzone.parser;
 
+import com.github.enesusta.tzone.parser.generator.CountyGenerator;
 import com.github.enesusta.tzone.parser.generator.Generator;
 import com.github.enesusta.tzone.parser.generator.ProvinceGenerator;
 import com.github.enesusta.tzone.parser.generator.TownGenerator;
@@ -19,12 +20,22 @@ public final class App {
 
     public static void main(String[] args) throws IOException {
 
+        /** Province Start */
+
         Generator generator = new ProvinceGenerator();
-        generator.generate();
+    //    generator.generate();
 
         TextConsumer<ProvincePOJO> textConsumer = new ProvinceTextConsumer();
         Consumer consumer = new ProvinceConsumer(textConsumer);
-        consumer.consume();
+      //  consumer.consume();
+
+        /** Province End */
+
+        /** County Start */
+
+        Generator countyGenerator = new CountyGenerator();
+        countyGenerator.generate();
+
 
 
         Generator townGenerator = new TownGenerator();

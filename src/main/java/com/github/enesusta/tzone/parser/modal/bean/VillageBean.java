@@ -1,6 +1,6 @@
 package com.github.enesusta.tzone.parser.modal.bean;
 
-public class VillageBean {
+public class VillageBean implements Comparable<VillageBean> {
     private String villageName;
     private int zipCode;
 
@@ -26,5 +26,10 @@ public class VillageBean {
             "villageName='" + villageName + '\'' +
             ", zipCode=" + zipCode +
             '}';
+    }
+
+    @Override
+    public int compareTo(VillageBean o) {
+        return villageName.compareTo(o.villageName);
     }
 }
