@@ -19,4 +19,12 @@ public class CountyPOJO {
     public void setCountyName(String countyName) {
         this.countyName = countyName;
     }
+
+    @Override
+    public String toString() {
+        return "CountyPOJO{" +
+            "provinceName='" + provinceName + '\'' +
+            ", countyName='" + countyName + '\'' +
+            '}';
+    }
 }

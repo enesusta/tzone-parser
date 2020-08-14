@@ -5,9 +5,11 @@ import com.github.enesusta.tzone.parser.generator.Generator;
 import com.github.enesusta.tzone.parser.generator.ProvinceGenerator;
 import com.github.enesusta.tzone.parser.generator.TownGenerator;
 import com.github.enesusta.tzone.parser.generator.VillageGenerator;
+import com.github.enesusta.tzone.parser.modal.pojo.CountyPOJO;
 import com.github.enesusta.tzone.parser.modal.pojo.ProvincePOJO;
 import com.github.enesusta.tzone.parser.modal.pojo.TownPOJO;
 import com.github.enesusta.tzone.parser.modal.pojo.VillagePOJO;
+import com.github.enesusta.tzone.parser.text.CountyTextConsumer;
 import com.github.enesusta.tzone.parser.text.ProvinceTextConsumer;
 import com.github.enesusta.tzone.parser.text.TextConsumer;
 import com.github.enesusta.tzone.parser.text.TownTextConsumer;
@@ -36,6 +38,11 @@ public final class App {
         Generator countyGenerator = new CountyGenerator();
         countyGenerator.generate();
 
+        TextConsumer<CountyPOJO> countyPOJOTextConsumer = new CountyTextConsumer();
+        Consumer countyConsumer = new CountyConsumer(countyPOJOTextConsumer);
+        countyConsumer.consume();
+
+        /** County End */
 
 
         Generator townGenerator = new TownGenerator();

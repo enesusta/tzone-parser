@@ -26,7 +26,7 @@ public class CountyTextConsumer implements TextConsumer<CountyPOJO> {
 
                 CountyPOJO countyPOJO = new CountyPOJO();
                 countyPOJO.setProvinceName(arr[0]);
-                countyPOJO.setCountyName(arr[0]);
+                countyPOJO.setCountyName(arr[1]);
 
                 list.add(countyPOJO);
             }
