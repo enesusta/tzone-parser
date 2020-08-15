@@ -5,18 +5,18 @@ import com.fasterxml.jackson.annotation.JsonAutoDetect;
 
 @JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
 public class ProvincePOJO implements Comparable<ProvincePOJO> {
-    private String cityName;
+    private String provinceName;
 
-    public void setCityName(String cityName) {
-        this.cityName = cityName;
+    public void setProvinceName(String provinceName) {
+        this.provinceName = provinceName;
     }
 
-    public String getCityName() {
-        return cityName;
+    public String getProvinceName() {
+        return provinceName;
     }
 
     @Override
     public int compareTo(ProvincePOJO o) {
-        return cityName.compareTo(o.cityName);
+        return provinceName.compareTo(o.provinceName);
     }
 }

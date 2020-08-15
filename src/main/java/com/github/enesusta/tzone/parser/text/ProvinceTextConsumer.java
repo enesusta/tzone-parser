@@ -23,7 +23,7 @@ public class ProvinceTextConsumer implements TextConsumer<ProvincePOJO> {
 
             while (scanner.hasNext()) {
                 ProvincePOJO provincePOJO = new ProvincePOJO();
-                provincePOJO.setCityName(scanner.next());
+                provincePOJO.setProvinceName(scanner.next());
                 list.add(provincePOJO);
             }
 

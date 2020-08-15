@@ -25,11 +25,11 @@ public final class Main {
         /** Province Start */
 
         Generator generator = new ProvinceGenerator();
-        //    generator.generate();
+        generator.generate();
 
         TextConsumer<ProvincePOJO> textConsumer = new ProvinceTextConsumer();
         Consumer consumer = new ProvinceConsumer(textConsumer);
-        //  consumer.consume();
+        consumer.consume();
 
         /** Province End */
 
@@ -48,7 +48,7 @@ public final class Main {
         /** Town Start */
 
         Generator townGenerator = new TownGenerator();
-      //  townGenerator.generate();
+        //  townGenerator.generate();
 
         TextConsumer<TownPOJO> townPOJOTextConsumer = new TownTextConsumer();
         Consumer townConsumer = new ComplexTownConsumer(townPOJOTextConsumer);
@@ -63,7 +63,7 @@ public final class Main {
 
         TextConsumer<VillagePOJO> villagePOJOTextConsumer = new VillageTextConsumer();
         Consumer villageConsumer = new ComplexVillageConsumer(villagePOJOTextConsumer);
-        villageConsumer.consume();
+        // villageConsumer.consume();
 
         /** Village End */
 
