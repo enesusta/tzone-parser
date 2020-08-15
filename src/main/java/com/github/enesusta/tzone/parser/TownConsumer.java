@@ -50,7 +50,7 @@ public class TownConsumer implements Consumer {
 
 
                 for (TownPOJO townPOJO : collection) {
-                    map.put(townPOJO.getDistrictName(), townPOJO.getTownName());
+                    map.put(townPOJO.getCountyName(), townPOJO.getTownName());
                 }
 
                 for (Map.Entry<String, Object> entry : map.entrySet()) {

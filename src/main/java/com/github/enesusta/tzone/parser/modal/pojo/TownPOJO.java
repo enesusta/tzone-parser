@@ -2,7 +2,7 @@ package com.github.enesusta.tzone.parser.modal.pojo;
 
 public class TownPOJO {
     private String provinceName;
-    private String districtName;
+    private String countyName;
     private String townName;
 
     public String getProvinceName() {
@@ -13,12 +13,12 @@ public class TownPOJO {
         this.provinceName = provinceName;
     }
 
-    public String getDistrictName() {
-        return districtName;
+    public String getCountyName() {
+        return countyName;
     }
 
-    public void setDistrictName(String districtName) {
-        this.districtName = districtName;
+    public void setCountyName(String countyName) {
+        this.countyName = countyName;
     }
 
     public String getTownName() {
@@ -33,7 +33,7 @@ public class TownPOJO {
     public String toString() {
         return "TownPOJO{" +
             "provinceName='" + provinceName + '\'' +
-            ", districtName='" + districtName + '\'' +
+            ", districtName='" + countyName + '\'' +
             ", townName='" + townName + '\'' +
             '}';
     }

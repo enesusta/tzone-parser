@@ -16,6 +16,7 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+import java.util.TreeSet;
 
 @SuppressWarnings("Duplicates")
 public class ComplexVillageConsumer implements Consumer {
@@ -37,12 +38,10 @@ public class ComplexVillageConsumer implements Consumer {
 
         for (VillagePOJO villagePOJO : list) mapSectionOne.put(villagePOJO.getProvinceName(), villagePOJO);
 
-        Set<AllBean> allBeans = new HashSet<>();
+        Set<AllBean> allBeans = new TreeSet<>();
 
         mapSectionOne.forEach((k1, v1) -> {
 
-            AllBean allBean = new AllBean();
-            allBean.setProvinceName(k1);
 
             /** Section 2 Start */
 
@@ -52,7 +51,7 @@ public class ComplexVillageConsumer implements Consumer {
 
             for (VillagePOJO villagePOJO : s1) mapSectionTwo.put(villagePOJO.getDistrictName(), villagePOJO);
 
-            Set<CountyBean> countyBeans = new HashSet<>();
+            Set<CountyBean> countyBeans = new TreeSet<>();
 
             mapSectionTwo.forEach((k2, v2) -> {
 
@@ -64,10 +63,7 @@ public class ComplexVillageConsumer implements Consumer {
 
                 for (VillagePOJO villagePOJO : s2) mapSectionThree.put(villagePOJO.getTownName(), villagePOJO);
 
-                CountyBean countyBean = new CountyBean();
-                countyBean.setCountyName(k2);
-
-                Set<TownBean> townBeans = new HashSet<>();
+                Set<TownBean> townBeans = new TreeSet<>();
 
                 mapSectionThree.forEach((k3, v3) -> {
 
@@ -76,10 +72,7 @@ public class ComplexVillageConsumer implements Consumer {
                     Collection<VillagePOJO> c3 = (Collection<VillagePOJO>) v3;
                     Set<VillagePOJO> s3 = new HashSet<>(c3);
 
-                    TownBean townBean = new TownBean();
-                    townBean.setTownName(k3);
-
-                    Set<VillageBean> villageBeans = new HashSet<>();
+                    Set<VillageBean> villageBeans = new TreeSet<>();
 
                     for (VillagePOJO villagePOJO : s3) {
                         VillageBean villageBean = new VillageBean();
@@ -88,6 +81,8 @@ public class ComplexVillageConsumer implements Consumer {
                         villageBeans.add(villageBean);
                     }
 
+                    TownBean townBean = new TownBean();
+                    townBean.setTownName(k3);
                     townBean.setTownVillages(villageBeans);
                     townBeans.add(townBean);
 
@@ -95,6 +90,8 @@ public class ComplexVillageConsumer implements Consumer {
 
                 });
 
+                CountyBean countyBean = new CountyBean();
+                countyBean.setCountyName(k2);
                 countyBean.setCountyTowns(townBeans);
                 countyBeans.add(countyBean);
 
@@ -102,6 +99,8 @@ public class ComplexVillageConsumer implements Consumer {
 
             });
 
+            AllBean allBean = new AllBean();
+            allBean.setProvinceName(k1);
             allBean.setProvinceCounties(countyBeans);
             allBeans.add(allBean);
 
@@ -113,7 +112,7 @@ public class ComplexVillageConsumer implements Consumer {
 
         ObjectMapper objectMapper = new ObjectMapper();
         try {
-            objectMapper.writeValue(new File("big.json"), allBeans);
+            objectMapper.writeValue(new File("village.json"), allBeans);
         } catch (IOException e) {
             e.printStackTrace();
         }

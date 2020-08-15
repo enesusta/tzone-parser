@@ -1,973 +1,2445 @@
-Il: Antalya, District Konyaaltı = |Arapsuyu||Liman|
-Il: Antalya, District Elmalı = |Akçay||Elmalı|
-Il: Antalya, District Serik = |Serik|
-Il: Antalya, District Gazipaşa = |Gazipaşa|
-Il: Antalya, District Kumluca = |Kumluca||Mavikent|
-Il: Antalya, District Kaş = |Cemre||Gömbe||Kalkan||Kaş||Kınık||Ova||Yeşilköy|
-Il: Antalya, District Gündoğmuş = |Gündoğmuş|
-Il: Antalya, District Alanya = |Alanya||Avsallar||Demirtaş||Kestel||Mahmutlar|
-Il: Antalya, District Döşemealtı = |Döşemealtı|
-Il: Antalya, District Kemer = |Beldibi||Beycik||Çamyuva||Göynük||Kemer||Tekirova|
-Il: Antalya, District Manavgat = |Çolaklı||Manavgat||Side||Taşağıl|
-Il: Antalya, District Demre = |Davazlar||Demre||Kale|
-Il: Antalya, District Muratpaşa = |Bahçelievler||Çarşı||Eskisanayi||Fener||Gençlik||Kızıltoprak||Lara||Meltem||Meydankavağı|
-Il: Antalya, District Aksu = |Aksu|
-Il: Antalya, District Korkuteli = |Korkuteli|
-Il: Antalya, District İbradı = |Aydınkent|
-Il: Antalya, District Finike = |Finike|
-Il: Antalya, District Kepez = |Ahatlı||Altınova||Dokuma||Duraliler||Düdenbaşı||Erenköy||Sütçüler||Varsak||Yeniemek|
-Il: Antalya, District Akseki = |Akseki||Cevizli|
-Il: Samsun, District Havza = |Havza|
-Il: Samsun, District Ayvacık = |Ayvacık|
-Il: Samsun, District Asarcık = |Asarcık|
-Il: Samsun, District Kavak = |Kavak|
-Il: Samsun, District 19 mayıs = |19 mayıs ballıca|
-Il: Samsun, District İlkadım = |Bahçelievler||İstasyon||Kadıköy||Kale||Liman||Rasathane||Unkapanı||Yeşilkent|
-Il: Samsun, District Ladik = |Ladik|
-Il: Samsun, District Atakum = |Atakum||Kurupelit|
-Il: Samsun, District Canik = |Canik|
-Il: Samsun, District Alaçam = |Alaçam|
-Il: Samsun, District Terme = |Terme|
-Il: Samsun, District Tekkeköy = |Aşağıçinik||Büyüklü||Kutlukent||Tekkeköy|
-Il: Samsun, District Bafra = |Bafra|
-Il: Samsun, District Yakakent = |Yakakent|
-Il: Samsun, District Çarşamba = |Çarşamba|
-Il: Samsun, District Vezirköprü = |Merkezköyler||Vezirköprü|
-Il: Samsun, District Salıpazarı = |Salıpazarı|
-Il: Nevşehir, District Avanos = |Avanos||Çalış||Kalaba||Merkezköyler||Özkonak|
-Il: Nevşehir, District Hacıbektaş = |Hacıbektaş||Merkezköyler|
-Il: Nevşehir, District Acıgöl = |Acıgöl||Karapınar||Merkezköyler||Tatlarin|
-Il: Nevşehir, District Ürgüp = |Merkezköyler||Ortahisar||Ürgüp|
-Il: Nevşehir, District Gülşehir = |Gülşehir||Merkezköyler|
-Il: Nevşehir, District Kozaklı = |Kozaklı||Merkezköyler|
-Il: Nevşehir, District Derinkuyu = |Derinkuyu||Merkezköyler|
-Il: Nevşehir, District Merkez = |Camicedit||Çarşı||Göre||Göreme||Kavak||Kaymaklı||Merkezköyler||Nar||Sulusaray||Uçhisar|
-Il: Van, District Özalp = |Özalp|
-Il: Van, District Saray = |Saray|
-Il: Van, District Çatak = |Çatak|
-Il: Van, District Bahçesaray = |Bahçesaray|
-Il: Van, District Tuşba = |İskele||İstasyon|
-Il: Van, District Başkale = |Başkale|
-Il: Van, District Muradiye = |Muradiye|
-Il: Van, District Erciş = |Erciş|
-Il: Van, District Edremit = |Gümüşdere||Süphan|
-Il: Van, District Gevaş = |Gevaş|
-Il: Van, District İpekyolu = |Erçek||Valimitatbey|
-Il: Van, District Gürpınar = |Gürpınar|
-Il: Van, District Çaldıran = |Çaldıran|
-Il: Burdur, District Gölhisar = |Gölhisar||Merkezköyler|
-Il: Burdur, District Kemer = |Kemer||Merkezköyler|
-Il: Burdur, District Bucak = |Bucak||Kızılkaya||Kocaaliler||Merkezköyler|
-Il: Burdur, District Karamanlı = |Karamanlı||Merkezköyler|
-Il: Burdur, District Çeltikçi = |Çeltikçi||Merkezköyler|
-Il: Burdur, District Altınyayla = |Dirmil||Merkezköyler|
-Il: Burdur, District Tefenni = |Merkezköyler||Tefenni|
-Il: Burdur, District Yeşilova = |Merkezköyler||Yeşilova|
-Il: Burdur, District Ağlasun = |Ağlasun||Merkezköyler|
-Il: Burdur, District Çavdır = |Çavdır||Merkezköyler|
-Il: Burdur, District Merkez = |Bahçelievler||Çeşmedamı||Merkezköyler||Sanayi||Yenice|
-Il: Iğdır, District Karakoyunlu = |Karakoyunlu||Merkezköyler|
-Il: Iğdır, District Aralık = |Aralık||Merkezköyler|
-Il: Iğdır, District Tuzluca = |Tuzluca|
-Il: Iğdır, District Merkez = |Iğdır||Merkezköyler|
-Il: Giresun, District Keşap = |Keşap||Merkezköyler|
-Il: Giresun, District Tirebolu = |Merkezköyler||Tirebolu|
-Il: Giresun, District Eynesil = |Eynesil||Merkezköyler|
-Il: Giresun, District Yağlıdere = |Merkezköyler||Yağlıdere|
-Il: Giresun, District Merkez = |Aksu||Batlama||Merkezköyler|
-Il: Giresun, District Piraziz = |Piraziz|
-Il: Giresun, District Çanakçı = |Çanakçı|
-Il: Giresun, District Şebinkarahisar = |Merkezköyler||Şebinkarahisar|
-Il: Giresun, District Doğankent = |Doğankent||Merkezköyler|
-Il: Giresun, District Görele = |Görele||Merkezköyler|
-Il: Giresun, District Güce = |Güce||Merkezköyler|
-Il: Giresun, District Çamoluk = |Çamoluk||Merkezköyler|
-Il: Giresun, District Espiye = |Espiye||Merkezköyler|
-Il: Giresun, District Alucra = |Alucra||Merkezköyler|
-Il: Giresun, District Bulancak = |Bulancak||Kovanlık||Merkezköyler|
-Il: Giresun, District Dereli = |Dereli||Merkezköyler|
-Il: Kilis, District Elbeyli = |Elbeyli||Merkezköyler|
-Il: Kilis, District Polateli = |Merkezköyler||Polateli|
-Il: Kilis, District Musabeyli = |Musabeyli|
-Il: Kilis, District Merkez = |Kilis||Merkezköyler|
-Il: Sakarya, District Karasu = |Karasu|
-Il: Sakarya, District Kocaali = |Kocaali|
-Il: Sakarya, District Ferizli = |Ferizli|
-Il: Sakarya, District Karapürçek = |Karapürçek|
-Il: Sakarya, District Hendek = |Hendek|
-Il: Sakarya, District Söğütlü = |Söğütlü|
-Il: Sakarya, District Serdivan = |Serdivan||Yazlık|
-Il: Sakarya, District Akyazı = |Akyazı|
-Il: Sakarya, District Sapanca = |Sapanca|
-Il: Sakarya, District Kaynarca = |Kaynarca|
-Il: Sakarya, District Taraklı = |Taraklı|
-Il: Sakarya, District Arifiye = |Arifiye|
-Il: Sakarya, District Geyve = |Geyve|
-Il: Sakarya, District Adapazarı = |Adapazarı||Karaman|
-Il: Sakarya, District Pamukova = |Pamukova|
-Il: Sakarya, District Erenler = |Erenler|
-Il: Bilecik, District Yenipazar = |Merkezköyler||Yenipazar|
-Il: Bilecik, District Söğüt = |Merkezköyler||Söğüt|
-Il: Bilecik, District İnhisar = |İnhisar||Merkezköyler|
-Il: Bilecik, District Osmaneli = |Osmaneli|
-Il: Bilecik, District Bozüyük = |Bozüyük||Dodurga||Merkezköyler|
-Il: Bilecik, District Gölpazarı = |Gölpazarı||Merkezköyler|
-Il: Bilecik, District Merkez = |Bilecik||Merkezköyler|
-Il: Bilecik, District Pazaryeri = |Merkezköyler||Pazaryeri|
-Il: Zonguldak, District Gökçebey = |Gökçebey||Merkezköyler|
-Il: Zonguldak, District Çaycuma = |Çaycuma||Hisarönü(filyos)||Merkezköyler||Perşembe||Saltukova|
-Il: Zonguldak, District Devrek = |Devrek||Eğerci||Merkezköyler|
-Il: Zonguldak, District Ereğli = |Karadenizereğli||Merkezköyler||Ormanlı|
-Il: Zonguldak, District Alaplı = |Alaplı||Merkezköyler|
-Il: Zonguldak, District Kozlu = |Kozlu||Merkezköyler|
-Il: Zonguldak, District Kilimli = |Kilimli||Merkezköyler|
-Il: Zonguldak, District Merkez = |Beycuma||Merkezköyler||Zonguldak|
-Il: Bingöl, District Karlıova = |Karlıova||Merkezköyler|
-Il: Bingöl, District Kiğı = |Kiğı||Merkezköyler|
-Il: Bingöl, District Solhan = |Merkezköyler||Solhan|
-Il: Bingöl, District Yayladere = |Merkezköyler||Yayladere|
-Il: Bingöl, District Genç = |Genç||Merkezköyler|
-Il: Bingöl, District Adaklı = |Adaklı||Merkezköyler|
-Il: Bingöl, District Yedisu = |Merkezköyler||Yedisu|
-Il: Bingöl, District Merkez = |Ağaçeli||Bingöl||Merkezköyler||Sancak|
-Il: Elazığ, District Arıcak = |Arıcak||Merkezköyler|
-Il: Elazığ, District Maden = |Maden||Merkezköyler|
-Il: Elazığ, District Keban = |Keban||Merkezköyler|
-Il: Elazığ, District Alacakaya = |Alacakaya||Merkezköyler|
-Il: Elazığ, District Baskil = |Baskil||Merkezköyler|
-Il: Elazığ, District Ağın = |Ağın||Merkezköyler|
-Il: Elazığ, District Kovancılar = |Kovancılar||Merkezköyler|
-Il: Elazığ, District Karakoçan = |Karakoçan||Merkezköyler|
-Il: Elazığ, District Merkez = |Abdullahpaşa||Aksaray||Doğukent||Hankendi||Harput||İzzetpaşa||Merkezköyler||Mollakendi||Mustafapaşa||Nailbey||Sürsürü|
-Il: Elazığ, District Palu = |Beyhanı||Merkezköyler||Palu|
-Il: Elazığ, District Sivrice = |Merkezköyler||Sivrice|
-Il: Manisa, District Alaşehir = |Alaşehir||Kavaklıdere||Kemaliye||Killik||Piyadeler||Uluderbent||Yeşilyurt|
-Il: Manisa, District Şehzadeler = |Aşağıçobanisa||Çarşı||Hacıhaliller||Karaağaçlı||Karaköy||Karaoğlanlı||Kuzey||Sancaklıbozköy||Şehzadeler|
-Il: Manisa, District Gölmarmara = |Gölmarmara|
-Il: Manisa, District Kırkağaç = |Bakır||Gelenbe||İlyaslar||Karakurt||Kırkağaç|
-Il: Manisa, District Gördes = |Çiçekli||Gördes||Güneşli||Kayacık|
-Il: Manisa, District Yunusemre = |50.yıl||Laleli||Muradiye||Tevfikiye||Üçpınar||Yunusemre|
-Il: Manisa, District Selendi = |Selendi|
-Il: Manisa, District Demirci = |Demirci||Durhasan||Mahmutlar|
-Il: Manisa, District Ahmetli = |Ahmetli||Gökkaya|
-Il: Manisa, District Sarıgöl = |Sarıgöl|
-Il: Manisa, District Akhisar = |Akhisar|
-Il: Manisa, District Salihli = |Adala||Durasıllı||Poyraz||Salihli||Sart|
-Il: Manisa, District Soma = |Avdan||Cenkyeri||Soma||Turgutalp||Yağcılı|
-Il: Manisa, District Turgutlu = |Derbent||Turgutlu||Urganlı|
-Il: Manisa, District Kula = |Kula|
-Il: Manisa, District Köprübaşı = |Köprübaşı|
-Il: Manisa, District Saruhanlı = |Alibeyli||Büyükbelen||Dilek||Gökçeköy||Gümülceli||Hacırahmanlı||Halitpaşa||İshakçelebi||Koldere||Kumkuyucak||Mütevelli||Nuriye||Paşaköy||Saruhanlı|
-Il: Bitlis, District Güroymak = |Güroymak||Merkezköyler|
-Il: Bitlis, District Adilcevaz = |Adilcevaz||Merkezköyler|
-Il: Bitlis, District Tatvan = |Merkezköyler||Tatvan||Yelkenli|
-Il: Bitlis, District Ahlat = |Ahlat||Merkezköyler||Ovakışla|
-Il: Bitlis, District Hizan = |Hizan||Merkezköyler|
-Il: Bitlis, District Mutki = |Geyikpınar||Merkezköyler||Meydan||Mutki|
-Il: Bitlis, District Merkez = |Bitlis||Bölükyazı||Merkezköyler|
-Il: Kars, District Sarıkamış = |Sarıkamış|
-Il: Kars, District Arpaçay = |Arpaçay||Merkezköyler|
-Il: Kars, District Digor = |Digor||Merkezköyler|
-Il: Kars, District Kağızman = |Kağızman||Merkezköyler|
-Il: Kars, District Susuz = |Merkezköyler||Susuz|
-Il: Kars, District Akyaka = |Akyaka||Merkezköyler|
-Il: Kars, District Merkez = |Kars||Merkezköyler|
-Il: Kars, District Selim = |Merkezköyler||Selim|
-Il: Kastamonu, District Küre = |Küre||Merkezköyler|
-Il: Kastamonu, District Ağlı = |Ağlı||Merkezköyler|
-Il: Kastamonu, District İnebolu = |İnebolu||Merkezköyler|
-Il: Kastamonu, District Doğanyurt = |Doğanyurt||Merkezköyler|
-Il: Kastamonu, District Hanönü = |Gökçeağaç||Merkezköyler|
-Il: Kastamonu, District Cide = |Cide||Merkezköyler|
-Il: Kastamonu, District Araç = |Araç||Merkezköyler|
-Il: Kastamonu, District Azdavay = |Azdavay||Merkezköyler|
-Il: Kastamonu, District Şenpazar = |Merkezköyler||Şenpazar|
-Il: Kastamonu, District Seydiler = |Merkezköyler||Seydiler|
-Il: Kastamonu, District Merkez = |Akmescit||Cebrail||Kuzeykent||Merkezköyler|
-Il: Kastamonu, District Abana = |Abana||Merkezköyler|
-Il: Kastamonu, District Tosya = |Merkezköyler||Tosya|
-Il: Kastamonu, District Daday = |Daday||Merkezköyler|
-Il: Kastamonu, District Devrekani = |Devrekani||Merkezköyler|
-Il: Kastamonu, District Taşköprü = |Merkezköyler||Taşköprü|
-Il: Kastamonu, District Bozkurt = |Bozkurt||Merkezköyler|
-Il: Kastamonu, District Çatalzeytin = |Çatalzeytin||Merkezköyler|
-Il: Kastamonu, District İhsangazi = |İhsangazi||Merkezköyler|
-Il: Kastamonu, District Pınarbaşı = |Pınarbaşı|
-Il: Kayseri, District Bünyan = |Bünyan|
-Il: Kayseri, District Kocasinan = |Ankarayoluköyler||Argıncık||Beyazşehir||Erkilet||Erkilet köyler||Fevzi çakmak||Güneşli||Kazım karabekir||Sanayi||Valilik||Yeni mahalle||Yenişehir|
-Il: Kayseri, District Develi = |Develi|
-Il: Kayseri, District Sarıoğlan = |Sarıoğlan|
-Il: Kayseri, District Özvatan = |Çukur|
-Il: Kayseri, District Yeşilhisar = |Yeşilhisar|
-Il: Kayseri, District Tomarza = |Tomarza|
-Il: Kayseri, District Yahyalı = |Yahyalı|
-Il: Kayseri, District Hacılar = |Hacılar||Hacılar köyler|
-Il: Kayseri, District Melikgazi = |Battalgazi||Belsin||Çarşı||Gesi||Gürpınar||Hisarcık||Hürriyet||İldem||Kazım karabekir||Kılıçaslan||Mimarsinan|
-Il: Kayseri, District Sarız = |Sarız|
-Il: Kayseri, District Akkışla = |Akkışla|
-Il: Kayseri, District Felahiye = |Felahiye|
-Il: Kayseri, District Talas = |Talas||Talas köyler|
-Il: Kayseri, District Pınarbaşı = |Pınarbaşı|
-Il: Kayseri, District İncesu = |İncesu|
-Il: Düzce, District Kaynaşlı = |Kaynaşlı||Merkezköyler|
-Il: Düzce, District Çilimli = |Çilimli||Merkezköyler|
-Il: Düzce, District Gölyaka = |Gölyaka||Merkez köyler|
-Il: Düzce, District Akçakoca = |Akçakoca||Merkezköyler|
-Il: Düzce, District Gümüşova = |Gümüşova||Merkezköyler|
-Il: Düzce, District Yığılca = |Merkezköyler||Yığılca|
-Il: Düzce, District Cumayeri = |Cumayeri||Merkezköyler|
-Il: Düzce, District Merkez = |Aziziyegünlü||Beyciler||Beyköy||Boğaziçi||Kalıcıkonutlar||Konuralp|
-Il: Muş, District Korkut = |Korkut||Merkezköyler|
-Il: Muş, District Bulanık = |Bulanık||Erentepe||Merkezköyler|
-Il: Muş, District Malazgirt = |Aktuzla||Karahasan||Malazgirt||Merkezköyler||Nurettin|
-Il: Muş, District Varto = |Çaylar||Merkezköyler||Varto|
-Il: Muş, District Hasköy = |Hasköy||Merkezköyler|
-Il: Muş, District Merkez = |Merkez||Merkezköyler|
-Il: Çankırı, District Bayramören = |Bayramören||Merkezköyler|
-Il: Çankırı, District Yapraklı = |Merkezköyler||Yapraklı|
-Il: Çankırı, District Şabanözü = |Merkezköyler||Şabanözü|
-Il: Çankırı, District Kızılırmak = |Kızılırmak||Merkezköyler|
-Il: Çankırı, District Atkaracalar = |Atkaracalar||Merkezköyler|
-Il: Çankırı, District Orta = |Merkezköyler||Orta|
-Il: Çankırı, District Çerkeş = |Çerkeş||Merkezköyler|
-Il: Çankırı, District Ilgaz = |Ilgaz||Merkezköyler|
-Il: Çankırı, District Eldivan = |Eldivan||Merkezköyler|
-Il: Çankırı, District Kurşunlu = |Kurşunlu||Merkezköyler|
-Il: Çankırı, District Korgun = |Korgun||Merkezköyler|
-Il: Çankırı, District Merkez = |Çarşı||Merkezköyler||Taşmescit|
-Il: Denizli, District Bekilli = |Bekilli|
-Il: Denizli, District Baklan = |Baklan|
-Il: Denizli, District Sarayköy = |Sarayköy|
-Il: Denizli, District Acıpayam = |Acıpayam|
-Il: Denizli, District Honaz = |Honaz|
-Il: Denizli, District Kale = |Kale|
-Il: Denizli, District Çal = |Çal|
-Il: Denizli, District Çameli = |Çameli|
-Il: Denizli, District Güney = |Güney|
-Il: Denizli, District Çivril = |Çivril|
-Il: Denizli, District Beyağaç = |Beyağaç|
-Il: Denizli, District Çardak = |Çardak|
-Il: Denizli, District Tavas = |Tavas|
-Il: Denizli, District Babadağ = |Babadağ|
-Il: Denizli, District Bozkurt = |Bozkurt|
-Il: Denizli, District Merkezefendi = |Adalet||Gümüşler||Saraylar||Sümer||Üçler||Üzerlik|
-Il: Denizli, District Pamukkale = |Akköy||Çeşmebaşı||İstiklal||Karşıyaka||Kınıklı|
-Il: Denizli, District Buldan = |Buldan|
-Il: Denizli, District Serinhisar = |Serinhisar|
-Il: Afyonkarahisar, District Bayat = |Bayat||Merkezköyler|
-Il: Afyonkarahisar, District Sandıklı = |Merkezköyler||Sandıklı|
-Il: Afyonkarahisar, District Bolvadin = |Bolvadin||Merkezköyler|
-Il: Afyonkarahisar, District İscehisar = |İscehisar||Merkezköyler|
-Il: Afyonkarahisar, District Şuhut = |Karaadilli||Merkezköyler||Şuhut|
-Il: Afyonkarahisar, District Evciler = |Evciler||Merkezköyler|
-Il: Afyonkarahisar, District Başmakçı = |Başmakçı||Merkezköyler|
-Il: Afyonkarahisar, District Sultandağı = |Merkezköyler||Sultandağı|
-Il: Afyonkarahisar, District Merkez = |Adliye||Çarşı||Fatih||Kale||Merkezköyler||Uydukent|
-Il: Afyonkarahisar, District Kızılören = |Kızılören||Merkezköyler|
-Il: Afyonkarahisar, District Hocalar = |Hocalar||Merkezköyler|
-Il: Afyonkarahisar, District Çobanlar = |Çobanlar||Merkezköyler|
-Il: Afyonkarahisar, District Dinar = |Dinar||Haydarlı||Merkezköyler||Tatarlı|
-Il: Afyonkarahisar, District Dazkırı = |Dazkırı||Merkezköyler|
-Il: Afyonkarahisar, District İhsaniye = |Döğer||İhsaniye||Merkezköyler|
-Il: Afyonkarahisar, District Sinanpaşa = |Merkezköyler||Sinanpaşa||Taşoluk||Tınaztepe|
-Il: Afyonkarahisar, District Emirdağ = |Emirdağ||Merkezköyler|
-Il: Afyonkarahisar, District Çay = |Çay||Karacaören||Merkezköyler|
-Il: Amasya, District Hamamözü = |Hamamözü||Merkezköyler|
-Il: Amasya, District Taşova = |Merkezköyler||Taşova|
-Il: Amasya, District Suluova = |Merkezköyler||Suluova|
-Il: Amasya, District Merzifon = |Merzifon|
-Il: Amasya, District Göynücek = |Göynücek||Merkezköyler|
-Il: Amasya, District Gümüşhacıköy = |Gümüşhacıköy||Merkezköyler|
-Il: Amasya, District Merkez = |Dereboyu||Gen.hikmetakıncı||Gökmedrese||Merkezköyler|
-Il: Aksaray, District Eskil = |Eskil||Merkezköyler|
-Il: Aksaray, District Güzelyurt = |Güzelyurt||Merkezköyler|
-Il: Aksaray, District Sarıyahşi = |Merkezköyler||Sarıyahşi|
-Il: Aksaray, District Gülağaç = |Gülağaç||Merkezköyler|
-Il: Aksaray, District Ortaköy = |Balcı||Merkezköyler||Ortaköy|
-Il: Aksaray, District Ağaçören = |Ağaçören||Merkezköyler|
-Il: Aksaray, District Sultanhanı = |Sultanhanı|
-Il: Aksaray, District Merkez = |Bağlıkaya||Çarşı||Helvadere||Merkezköyler||Sanayi||Taşpınar||Yeşilova|
-Il: Artvin, District Yusufeli = |Merkezköyler||Yusufeli|
-Il: Artvin, District Kemalpaşa = |Kemalpaşa||Merkezköyler|
-Il: Artvin, District Hopa = |Hopa||Merkezköyler|
-Il: Artvin, District Borçka = |Borçka||Merkezköyler|
-Il: Artvin, District Ardanuç = |Ardanuç||Merkezköyler|
-Il: Artvin, District Şavşat = |Şavşat|
-Il: Artvin, District Arhavi = |Arhavi||Merkezköyler|
-Il: Artvin, District Merkez = |Artvin||Merkezköyler|
-Il: Artvin, District Murgul = |Göktaş||Merkezköyler|
-Il: Çanakkale, District Ayvacık = |Ayvacık||Küçükkuyu||Merkezköyler|
-Il: Çanakkale, District Eceabat = |Eceabat||Merkezköyler|
-Il: Çanakkale, District Bozcaada = |Bozcaada|
-Il: Çanakkale, District Lapseki = |Lapseki||Merkezköyler||Umurbey|
-Il: Çanakkale, District Çan = |Çan||Merkezköyler|
-Il: Çanakkale, District Gökçeada = |İmroz||Merkezköyler|
-Il: Çanakkale, District Bayramiç = |Bayramiç||Evciler||Merkezköyler||Yiğitler|
-Il: Çanakkale, District Gelibolu = |Evreşe||Gelibolu||Merkezköyler|
-Il: Çanakkale, District Yenice = |Kalkım||Merkezköyler||Yenice|
-Il: Çanakkale, District Biga = |Biga||Gümüşçay||Karabiga||Merkezköyler|
-Il: Çanakkale, District Ezine = |Ezine||Geyikli||Merkezköyler|
-Il: Çanakkale, District Merkez = |Barbaros||Cevatpaşa||Kepez||Merkezköyler|
-Il: Hakkari, District Çukurca = |Çığlı||Çukurca||Merkezköyler|
-Il: Hakkari, District Şemdinli = |Şemdinli|
-Il: Hakkari, District Yüksekova = |Esendere||Merkezköyler||Yüksekova|
-Il: Hakkari, District Derecik = |Derecik||Merkezköyler|
-Il: Hakkari, District Merkez = |Hakkari||Merkezköyler|
-Il: Trabzon, District Akçaabat = |Akçaabat|
-Il: Trabzon, District Maçka = |Maçka|
-Il: Trabzon, District Tonya = |Tonya|
-Il: Trabzon, District Hayrat = |Hayrat|
-Il: Trabzon, District Çarşıbaşı = |Çarşıbaşı|
-Il: Trabzon, District Düzköy = |Düzköy|
-Il: Trabzon, District Arsin = |Arsin|
-Il: Trabzon, District Beşikdüzü = |Beşikdüzü|
-Il: Trabzon, District Şalpazarı = |Şalpazarı|
-Il: Trabzon, District Of = |Of|
-Il: Trabzon, District Vakfıkebir = |Vakfıkebir|
-Il: Trabzon, District Ortahisar = |Beşirli||Bostancı||Boztepe||Çarşı||Erdoğdu|
-Il: Trabzon, District Sürmene = |Sürmene|
-Il: Trabzon, District Dernekpazarı = |Dernekpazarı|
-Il: Trabzon, District Yomra = |Yomra|
-Il: Trabzon, District Çaykara = |Çaykara|
-Il: Trabzon, District Köprübaşı = |Köprübaşı|
-Il: Trabzon, District Araklı = |Araklı|
-Il: Tunceli, District Pertek = |Merkezköyler||Pertek|
-Il: Tunceli, District Nazımiye = |Merkezköyler||Nazımiye|
-Il: Tunceli, District Mazgirt = |Mazgirt||Merkezköyler|
-Il: Tunceli, District Çemişgezek = |Çemişgezek||Merkezköyler|
-Il: Tunceli, District Ovacık = |Merkezköyler||Ovacık|
-Il: Tunceli, District Pülümür = |Merkezköyler||Pülümür|
-Il: Tunceli, District Hozat = |Hozat||Merkezköyler|
-Il: Tunceli, District Merkez = |Tunceli|
-Il: Aydın, District Yenipazar = |Yenipazar|
-Il: Aydın, District İncirliova = |İncirliova|
-Il: Aydın, District Çine = |Çine|
-Il: Aydın, District Karacasu = |Karacasu|
-Il: Aydın, District Kuşadası = |Kuşadası|
-Il: Aydın, District Didim = |Akyeniköy||Yenihisar|
-Il: Aydın, District Buharkent = |Çubukdağı|
-Il: Aydın, District Köşk = |Köşk|
-Il: Aydın, District Nazilli = |Nazilli||Sümer|
-Il: Aydın, District Söke = |Söke|
-Il: Aydın, District Sultanhisar = |Sultanhisar|
-Il: Aydın, District Germencik = |Germencik||Ortaklar|
-Il: Aydın, District Koçarlı = |Koçarlı|
-Il: Aydın, District Bozdoğan = |Bozdoğan|
-Il: Aydın, District Karpuzlu = |Karpuzlu|
-Il: Aydın, District Kuyucak = |Kuyucak|
-Il: Aydın, District Efeler = |Çarşı||Kurtuluş||Sanayi||Umurlu|
-Il: Konya, District Yunak = |Yunak|
-Il: Konya, District Seydişehir = |Alaylar||Seydişehir||Seyitharun|
-Il: Konya, District Kadınhanı = |Kadınhanı|
-Il: Konya, District Taşkent = |Taşkent|
-Il: Konya, District Güneysınır = |Güneysınır|
-Il: Konya, District Bozkır = |Bozkır|
-Il: Konya, District Karatay = |Erenler||Fevziçakmak||Karatay||Mevlana||Selimiye|
-Il: Konya, District Meram = |Alaaddin||Gödene||Kaşınhanı||Lalebahçe||Meram||Taşcami||Yaka|
-Il: Konya, District Derbent = |Derbent|
-Il: Konya, District Sarayönü = |İstasyon||Sarayönü|
-Il: Konya, District Ereğli = |Ereğli||Gülbahçe||Sümer|
-Il: Konya, District Altınekin = |Altınekin|
-Il: Konya, District Ilgın = |Argıthanı||Camiatik||Çiğil||Ilgın|
-Il: Konya, District Karapınar = |Karapınar|
-Il: Konya, District Halkapınar = |Halkapınar|
-Il: Konya, District Selçuklu = |Aydınlık||Bosna||Büyükkayacık||Cumhuriyet||Fatih||Horozluhan||Kampüs||Mimar sinan||Nalçacı||Selçuklu||Sille||Tatköy||Yazır|
-Il: Konya, District Ahırlı = |Ahırlı||Akkise|
-Il: Konya, District Doğanhisar = |Başköy||Doğanhisar||Karaağa|
-Il: Konya, District Hüyük = |Hüyük||İmrenler||Kıreli|
-Il: Konya, District Emirgazi = |Emirgazi|
-Il: Konya, District Tuzlukçu = |Tuzlukçu|
-Il: Konya, District Çumra = |Bardakçı||Çumra||İçeri çumra|
-Il: Konya, District Yalıhüyük = |Yalıhüyük|
-Il: Konya, District Beyşehir = |Beyşehir||Hamidiye|
-Il: Konya, District Hadim = |Hadim|
-Il: Konya, District Akşehir = |Akşehir||Kızılca||Nasreddin|
-Il: Konya, District Cihanbeyli = |Cihanbeyli||Cumhuriyet||Yeniceoba|
-Il: Konya, District Akören = |Akören|
-Il: Konya, District Kulu = |Alparslan||Kulu||Ömeranlı|
-Il: Konya, District Derebucak = |Derebucak|
-Il: Konya, District Çeltik = |Çeltik|
-Il: Bolu, District Dörtdivan = |Dörtdivan||Merkezköyler|
-Il: Bolu, District Yeniçağa = |Merkezköyler||Yeniçağa|
-Il: Bolu, District Göynük = |Göynük||Merkezköyler|
-Il: Bolu, District Seben = |Merkezköyler||Seben|
-Il: Bolu, District Kıbrıscık = |Kıbrıscık||Merkezköyler|
-Il: Bolu, District Mengen = |Gökçesu||Mengen||Merkezköyler|
-Il: Bolu, District Gerede = |Gerede||Merkezköyler|
-Il: Bolu, District Mudurnu = |Mudurnu|
-Il: Bolu, District Merkez = |Aşağısoku||İhsaniye||Karacasu||Karamanlı||Merkezköyler|
-Il: Çorum, District Bayat = |Bayat||Merkezköyler|
-Il: Çorum, District Uğurludağ = |Merkezköyler||Uğurludağ|
-Il: Çorum, District Boğazkale = |Boğazkale||Merkezköyler|
-Il: Çorum, District Kargı = |Kargı||Merkezköyler|
-Il: Çorum, District Laçin = |Laçin||Merkezköyler|
-Il: Çorum, District İskilip = |İskilip||Merkezköyler|
-Il: Çorum, District Merkez = |Gülabibey||Karakeçili||Merkezköyler||Ulukavak||Yeniyol|
-Il: Çorum, District Alaca = |Alaca||Merkezköyler|
-Il: Çorum, District Osmancık = |Merkezköyler||Osmancık|
-Il: Çorum, District Sungurlu = |Merkezköyler||Sungurlu|
-Il: Çorum, District Dodurga = |Dodurga||Merkezköyler|
-Il: Çorum, District Ortaköy = |Ortaköy|
-Il: Çorum, District Oğuzlar = |Karaören||Merkezköyler|
-Il: Çorum, District Mecitözü = |Mecitözü||Merkezköyler|
-Il: Adıyaman, District Sincik = |Merkezköyler||Sincik|
-Il: Adıyaman, District Çelikhan = |Çelikhan||Merkezköyler|
-Il: Adıyaman, District Kahta = |Akıncılar||Kahta||Merkezköyler|
-Il: Adıyaman, District Tut = |Merkezköyler||Tut|
-Il: Adıyaman, District Besni = |Besni||Çakırhüyük||Merkezköyler||Suvarlı||Şambayat|
-Il: Adıyaman, District Samsat = |Merkezköyler||Samsat|
-Il: Adıyaman, District Gerger = |Gerger||Merkezköyler|
-Il: Adıyaman, District Gölbaşı = |Belören||Gölbaşı||Harmanlı||Merkezköyler|
-Il: Adıyaman, District Merkez = |Akpınar||Eskisaray||İmamağa||Kömür||Kuyucak||Merkez köyler||Sümerevler||Yenisanayi|
-Il: Edirne, District Keşan = |Keşan||Mecidiye||Merkezköyler||Yerlisu|
-Il: Edirne, District Lalapaşa = |Lalapaşa||Merkezköyler|
-Il: Edirne, District İpsala = |İpsala||Merkezköyler|
-Il: Edirne, District Meriç = |Küplü||Meriç||Merkezköyler|
-Il: Edirne, District Uzunköprü = |Aşçıoğlu||Çöpköy||Hamidiye||Kırcasalih||Merkezköyler||Uzunköprü|
-Il: Edirne, District Enez = |Enez||Merkezköyler|
-Il: Edirne, District Havsa = |Hasköy||Havsa||Merkezköyler|
-Il: Edirne, District Merkez = |Edirne||Merkezköyler|
-Il: Edirne, District Süloğlu = |Süloğlu|
-Il: Tokat, District Artova = |Artova||Merkezköyler|
-Il: Tokat, District Niksar = |Gökçeli||Merkezköyler||Niksar|
-Il: Tokat, District Yeşilyurt = |Merkezköyler||Yeşilyurt|
-Il: Tokat, District Sulusaray = |Merkezköyler||Sulusaray|
-Il: Tokat, District Zile = |Merkezköyler||Zile|
-Il: Tokat, District Erbaa = |Erbaa||Karayaka||Merkezköyler|
-Il: Tokat, District Almus = |Almus||Merkezköyler|
-Il: Tokat, District Reşadiye = |Bereketli||Merkezköyler||Reşadiye|
-Il: Tokat, District Başçiftlik = |Başçiftlik||Merkezköyler|
-Il: Tokat, District Merkez = |Geyras||Gökdere||Karşıyaka||Merkezköyler|
-Il: Tokat, District Pazar = |Merkezköyler||Pazar|
-Il: Tokat, District Turhal = |Merkezköyler||Turhal|
-Il: Diyarbakır, District Çermik = |Çermik|
-Il: Diyarbakır, District Bağlar = |Alipınar||Körhat||Selahattineyyubi|
-Il: Diyarbakır, District Kayapınar = |Kayapınar|
-Il: Diyarbakır, District Kulp = |Kulp|
-Il: Diyarbakır, District Silvan = |Silvan|
-Il: Diyarbakır, District Sur = |Balıkçılarbaşı||Suriçi|
-Il: Diyarbakır, District Kocaköy = |Kocaköy|
-Il: Diyarbakır, District Çınar = |Çınar|
-Il: Diyarbakır, District Çüngüş = |Çüngüş|
-Il: Diyarbakır, District Hani = |Hani|
-Il: Diyarbakır, District Ergani = |Ergani|
-Il: Diyarbakır, District Dicle = |Dicle|
-Il: Diyarbakır, District Bismil = |Bismil|
-Il: Diyarbakır, District Yenişehir = |Cumhuriyet||Şehitlik||Yenişehir|
-Il: Diyarbakır, District Hazro = |Hazro|
-Il: Diyarbakır, District Lice = |Lice|
-Il: Diyarbakır, District Eğil = |Eğil|
-Il: Kırşehir, District Boztepe = |Boztepe||Merkezköyler|
-Il: Kırşehir, District Çiçekdağı = |Çiçekdağı||Merkezköyler|
-Il: Kırşehir, District Akpınar = |Akpınar||Merkezköyler|
-Il: Kırşehir, District Kaman = |Kaman||Merkezköyler|
-Il: Kırşehir, District Akçakent = |Akçakent||Kösefakılı||Merkezköyler|
-Il: Kırşehir, District Mucur = |Mucur|
-Il: Kırşehir, District Merkez = |Çarşı||Merkezköyler|
-Il: Sivas, District Gemerek = |Çepni||Eğerci||Gemerek||İnkışla||Merkezköyler||Sızır||Yeniçubuk|
-Il: Sivas, District Altınyayla = |Altınyayla||Merkezköyler|
-Il: Sivas, District Hafik = |Hafik||Merkezköyler|
-Il: Sivas, District Şarkışla = |Merkezköyler||Şarkışla|
-Il: Sivas, District Merkez = |Alibaba||Aydoğan||Çarşı||Kümbet||Merkez-köyler||Yenişehir|
-Il: Sivas, District Yıldızeli = |Merkezköyler||Yıldızeli|
-Il: Sivas, District Gürün = |Gürün||Merkezköyler|
-Il: Sivas, District Akıncılar = |Akıncılar||Merkezköyler|
-Il: Sivas, District Gölova = |Gölova||Merkezköyler|
-Il: Sivas, District Divriği = |Divriği||Merkezköyler|
-Il: Sivas, District Koyulhisar = |Koyulhisar||Merkezköyler|
-Il: Sivas, District Suşehri = |Merkezköyler||Suşehri|
-Il: Sivas, District Zara = |Merkezköyler||Zara|
-Il: Sivas, District İmranlı = |İmranlı||Merkezköyler|
-Il: Sivas, District Ulaş = |Merkezköyler||Ulaş|
-Il: Sivas, District Doğanşar = |Doğanşar||Merkezköyler|
-Il: Sivas, District Kangal = |Kangal||Merkezköyler|
-Il: Şanlıurfa, District Eyyübiye = |Çarşı||Eyyübiye|
-Il: Şanlıurfa, District Haliliye = |Bağlarbaşı||Bahçelievler||Şairnabi||Yenişehir|
-Il: Şanlıurfa, District Viranşehir = |Viranşehir|
-Il: Şanlıurfa, District Karaköprü = |Karaköprü|
-Il: Şanlıurfa, District Suruç = |Suruç|
-Il: Şanlıurfa, District Akçakale = |Akçakale|
-Il: Şanlıurfa, District Ceylanpınar = |Ceylanpınar|
-Il: Şanlıurfa, District Halfeti = |Halfeti|
-Il: Şanlıurfa, District Harran = |Harran|
-Il: Şanlıurfa, District Hilvan = |Hilvan|
-Il: Şanlıurfa, District Siverek = |Siverek|
-Il: Şanlıurfa, District Birecik = |Birecik|
-Il: Şanlıurfa, District Bozova = |Bozova||Yaylak|
-Il: Bursa, District Büyükorhan = |Büyükorhan|
-Il: Bursa, District Kestel = |Kestel|
-Il: Bursa, District Gürsu = |Gürsu|
-Il: Bursa, District Yıldırım = |Arabayatağı||Beyazıt||Davutkadı||Duaçınar||Esenevler||Ortabağlar||Setbaşı||Yıldırım|
-Il: Bursa, District Mudanya = |Mudanya|
-Il: Bursa, District İnegöl = |İnegöl|
-Il: Bursa, District Orhangazi = |Orhangazi|
-Il: Bursa, District Osmangazi = |Alemdar||Altıparmak||Bağlarbaşı||Bahar||Balıklı||Çarşı||Çekirge||Demirtaş||Dosab||Emek||Hamitler||Hisar||Hüdavendigar||Hürriyet||Küplüpınar||Maksem||Osmangaziköy||Ovaakça||Panayır||Ulumahalle||Yunuseli|
-Il: Bursa, District Keles = |Keles|
-Il: Bursa, District Nilüfer = |Alaattinbey||Altınşehir||Ataevler||Balat||Beşevler||Çalı||Ertuğrul||Görükle||Hasanağa||İhsaniye||İzmiryolboyu||Konak||Nilüferköy||Nosab||Organizesanayi||Üçevler|
-Il: Bursa, District Mustafakemalpaşa = |Mustafakemalpaşa|
-Il: Bursa, District İznik = |İznik|
-Il: Bursa, District Gemlik = |Gemlik|
-Il: Bursa, District Orhaneli = |Orhaneli|
-Il: Bursa, District Karacabey = |Karacabey|
-Il: Bursa, District Yenişehir = |Yenişehir|
-Il: Bursa, District Harmancık = |Harmancık|
-Il: İzmir, District Konak = |Alsancak||Basmane||Eşrefpaşa||Gültepe||Gürçeşme||Güzelyalı||Kahramanlar||Kemeraltı||Konak||Küçükyalı||Pasaport||Yenişehir|
-Il: İzmir, District Dikili = |Dikili|
-Il: İzmir, District Seferihisar = |Doğanbey||Seferihisar||Ürkmez|
-Il: İzmir, District Güzelbahçe = |Güzelbahçe|
-Il: İzmir, District Karabağlar = |Fahrettinaltay||Hatay||Karabağlar||Kibar||Yeşilyurt||Zincirlikuyu|
-Il: İzmir, District Aliağa = |Aliağa||Helvacı|
-Il: İzmir, District Bayındır = |Bayındır||Canlı||Çırpı|
-Il: İzmir, District Buca = |Buca||Evka1||İşçievleri||Kaynaklar||Şirinyer|
-Il: İzmir, District Narlıdere = |Narlıdere|
-Il: İzmir, District Karşıyaka = |Alaybey||Cumhuriyet||Denizbostanlısı||İmbatlı||Karşıyaka||Nergiz||Yalı|
-Il: İzmir, District Menemen = |Menemen|
-Il: İzmir, District Ödemiş = |Ödemiş|
-Il: İzmir, District Torbalı = |Ayrancılar||Çaybaşı||Pancar||Subaşı||Torbalı||Yazıbaşı||Yeniköyosb|
-Il: İzmir, District Karaburun = |Karaburun||Mordoğan|
-Il: İzmir, District Urla = |Bademler||Balıklıova||Çeşmealtı||İskele||İyte||Kuşçular||Özbek||Urla||Zeytinalanı|
-Il: İzmir, District Çeşme = |Alaçatı||Çeşme||Dalyan|
-Il: İzmir, District Bayraklı = |Alpaslan||Bayraklı||Gümüşpala||Manavkuyu||Soğukkuyu|
-Il: İzmir, District Foça = |Bağarası||Foça||Yenifoça|
-Il: İzmir, District Selçuk = |Selçuk|
-Il: İzmir, District Kemalpaşa = |Armutlu||Bağyurdu||Kemalpaşa||Ören||Ulucak|
-Il: İzmir, District Beydağ = |Beydağ|
-Il: İzmir, District Gaziemir = |Gaziemir|
-Il: İzmir, District Bornova = |Altındağ||Atatürk||Bornova||Çamdibi||Işıkkent||Kazımdirik||Naldöken||Pınarbaşı|
-Il: İzmir, District Kınık = |Kınık|
-Il: İzmir, District Tire = |Tire|
-Il: İzmir, District Çiğli = |Büyükçiğli||Çiğli||Egekent||Harmandalı|
-Il: İzmir, District Bergama = |Bergama|
-Il: İzmir, District Menderes = |Ataköy||Değirmendere||Develi||Görece||Gümüldür||Kısık||Menderes||Özdere||Tekeli|
-Il: İzmir, District Balçova = |Balçova|
-Il: İzmir, District Kiraz = |Kiraz|
-Il: Eskişehir, District Sarıcakaya = |Sarıcakaya|
-Il: Eskişehir, District Mihalgazi = |Mihalgazi|
-Il: Eskişehir, District Mahmudiye = |Mahmudiye|
-Il: Eskişehir, District Seyitgazi = |Seyitgazi|
-Il: Eskişehir, District Tepebaşı = |Bahçelievler||Cumhuriye||Çamlıca||Çukurhisar||Fatih||Fevziçakmak||Hacıalibey||Muttalip||Sazova||Tepebaşıköy||Uluönder||Yeşiltepe|
-Il: Eskişehir, District Sivrihisar = |Sivrihisar|
-Il: Eskişehir, District Alpu = |Alpu|
-Il: Eskişehir, District Odunpazarı = |Alanönü||Arifiye||Büyükdere||Emek||Gökmeydan||Huzur||Kanlıpınar||Kurtuluş||Odunpazarıköy||Orhangazi||Sultandere||Sümer||Vadişehir||Vişnelik||Yenikent|
-Il: Eskişehir, District Beylikova = |Beylikova|
-Il: Eskişehir, District Han = |Han|
-Il: Eskişehir, District Mihalıççık = |Dinek|
-Il: Eskişehir, District Günyüzü = |Günyüzü|
-Il: Eskişehir, District İnönü = |İnönü|
-Il: Eskişehir, District Çifteler = |Çifteler|
-Il: Erzincan, District Kemaliye = |Başpınar||Dutluca||Kemaliye||Merkezköyler|
-Il: Erzincan, District Refahiye = |Merkezköyler||Refahiye|
-Il: Erzincan, District İliç = |İliç||Merkezköyler|
-Il: Erzincan, District Tercan = |Merkezköyler||Tercan|
-Il: Erzincan, District Çayırlı = |Çayırlı||Merkezköyler|
-Il: Erzincan, District Kemah = |Kemah||Merkezköyler|
-Il: Erzincan, District Üzümlü = |Altınbaşak||Merkezköyler||Üzümlü|
-Il: Erzincan, District Otlukbeli = |Otlukbeli|
-Il: Erzincan, District Merkez = |Akşemsettin||Bahçelievler||Merkezköyler|
-Il: Kırklareli, District Babaeski = |Alpullu||Babaeski||Merkezköyler|
-Il: Kırklareli, District Vize = |Merkezköyler||Sergen||Vize|
-Il: Kırklareli, District Kofçaz = |Kofçaz||Merkezköyler|
-Il: Kırklareli, District Pehlivanköy = |Merkezköyler||Pehlivanköy|
-Il: Kırklareli, District Pınarhisar = |Merkezköyler||Pınarhisar|
-Il: Kırklareli, District Lüleburgaz = |Ahmetbey||Büyükkarıştıran||Evrensekiz||Lüleburgaz||Merkezköyler|
-Il: Kırklareli, District Demirköy = |Demirköy||İğneada||Merkezköyler|
-Il: Kırklareli, District Merkez = |Dereköy||İnece||Kırklareli||Merkezköyler||Üsküp|
-Il: Erzurum, District Pasinler = |Pasinler|
-Il: Erzurum, District Aşkale = |Aşkale|
-Il: Erzurum, District Hınıs = |Hınıs|
-Il: Erzurum, District İspir = |İspir|
-Il: Erzurum, District Karayazı = |Karayazı|
-Il: Erzurum, District Pazaryolu = |Pazaryolu|
-Il: Erzurum, District Aziziye = |Ilıca|
-Il: Erzurum, District Köprüköy = |Köprüköy|
-Il: Erzurum, District Yakutiye = |Mumcu||Terminal||Yakutiye|
-Il: Erzurum, District Uzundere = |Uzundere|
-Il: Erzurum, District Horasan = |Horasan|
-Il: Erzurum, District Karaçoban = |Karaçoban|
-Il: Erzurum, District Çat = |Çat|
-Il: Erzurum, District Tekman = |Tekman|
-Il: Erzurum, District Oltu = |Oltu|
-Il: Erzurum, District Şenkaya = |Şenkaya|
-Il: Erzurum, District Narman = |Narman|
-Il: Erzurum, District Tortum = |Tortum|
-Il: Erzurum, District Palandöken = |Palandöken||Yıldızkent|
-Il: Erzurum, District Olur = |Olur|
-Il: Şırnak, District Beytüşşebap = |Beytüşşebap||Merkezköyler|
-Il: Şırnak, District Cizre = |Cizre||Merkezköyler|
-Il: Şırnak, District Güçlükonak = |Güçlükonak||Merkezköyler|
-Il: Şırnak, District İdil = |İdil||Merkezköyler|
-Il: Şırnak, District Silopi = |Merkezköyler||Silopi|
-Il: Şırnak, District Uludere = |Merkezköyler||Uludere|
-Il: Şırnak, District Merkez = |Şırnak|
-Il: Bartın, District Amasra = |Amasra||Merkezköyler|
-Il: Bartın, District Ulus = |Kumluca||Merkezköyler||Ulus|
-Il: Bartın, District Kurucaşile = |Kurucaşile||Merkezköyler|
-Il: Bartın, District Merkez = |Demirciler||Kozcağız||Merkezköyler||Yenisanayi|
-Il: Malatya, District Yazıhan = |Yazıhan|
-Il: Malatya, District Kale = |Kale|
-Il: Malatya, District Akçadağ = |Akçadağ|
-Il: Malatya, District Yeşilyurt = |Bostanbaşı||Çavuşoğlu||Dilek||Gündüzbey||Karakavak||Özalper||Şahnahan||Topsöğüt||Yakınca||Yeşiltepe||Yeşilyurt|
-Il: Malatya, District Kuluncak = |Kuluncak|
-Il: Malatya, District Pütürge = |Pötürge|
-Il: Malatya, District Battalgazi = |Battalgazi||Beydağı||Dabakhane||Hanımınçiftliği||Kanalboyu||Kapalıçarşı||Orduzu||Sıtmapınarı||Taştepe|
-Il: Malatya, District Arapgir = |Arapgir|
-Il: Malatya, District Doğanşehir = |Doğanşehir|
-Il: Malatya, District Doğanyol = |Doğanyol|
-Il: Malatya, District Hekimhan = |Hekimhan|
-Il: Malatya, District Arguvan = |Arguvan|
-Il: Malatya, District Darende = |Darende|
-Il: Hatay, District Antakya = |Esentepe||Haraparası||Kanatlı||Kışlasaray|
-Il: Hatay, District Belen = |Belen|
-Il: Hatay, District Reyhanlı = |Reyhanlı|
-Il: Hatay, District Kırıkhan = |Kırıkhan|
-Il: Hatay, District Yayladağı = |Yayladağı|
-Il: Hatay, District Hassa = |Hassa|
-Il: Hatay, District Altınözü = |Altınözü|
-Il: Hatay, District Arsuz = |Arsuz||Karaağaç|
-Il: Hatay, District Dörtyol = |Dörtyol|
-Il: Hatay, District Payas = |Payas|
-Il: Hatay, District Defne = |Defne|
-Il: Hatay, District Erzin = |Erzin|
-Il: Hatay, District İskenderun = |Azganlık||Cumhuriyet||Meydan||Sanayi||Tepeler|
-Il: Hatay, District Kumlu = |Kumlu|
-Il: Hatay, District Samandağ = |Samandağ|
-Il: Niğde, District Bor = |Bor||Merkezköyler|
-Il: Niğde, District Çiftlik = |Özyurt|
-Il: Niğde, District Altunhisar = |Altunhisar||Karakapı||Keçikalesi||Merkezköyler|
-Il: Niğde, District Çamardı = |Çamardı||Merkezköyler|
-Il: Niğde, District Merkez = |Afetevleri||Merkezköyler||Sungurbey|
-Il: Niğde, District Ulukışla = |Merkezköyler||Ulukışla|
-Il: Sinop, District Ayancık = |Ayancık||Merkezköyler|
-Il: Sinop, District Dikmen = |Dikmen||Merkezköyler|
-Il: Sinop, District Erfelek = |Erfelek||Merkezköyler|
-Il: Sinop, District Gerze = |Gerze||Merkezköyler|
-Il: Sinop, District Türkeli = |Merkezköyler||Türkeli|
-Il: Sinop, District Durağan = |Durağan||Merkezköyler|
-Il: Sinop, District Boyabat = |Boyabat||Merkezköyler|
-Il: Sinop, District Saraydüzü = |Merkezköyler||Saraydüzü|
-Il: Sinop, District Merkez = |Sinop|
-Il: Ağrı, District Eleşkirt = |Eleşkirt||Merkezköyler||Tahir|
-Il: Ağrı, District Hamur = |Hamur||Merkezköyler|
-Il: Ağrı, District Diyadin = |Diyadin||Merkezköyler|
-Il: Ağrı, District Tutak = |Merkezköyler||Tutak|
-Il: Ağrı, District Doğubayazıt = |Doğubayazıt||Merkezköyler|
-Il: Ağrı, District Taşlıçay = |Merkezköyler||Taşlıçay|
-Il: Ağrı, District Merkez = |Fevziçakmak||Kazımkarabekir||Merkezköyler|
-Il: Ağrı, District Patnos = |Dedeli||Merkezköyler||Patnos||Sarısu|
-Il: Karabük, District Safranbolu = |Merkezköyler||Safranbolu|
-Il: Karabük, District Eskipazar = |Eskipazar||Merkezköyler|
-Il: Karabük, District Ovacık = |Merkezköyler||Ovacık|
-Il: Karabük, District Yenice = |Merkezköyler||Yenice|
-Il: Karabük, District Eflani = |Eflani||Merkezköyler|
-Il: Karabük, District Merkez = |100.yıl||Bayır||Beşbinevler||Kayabaşı||Merkezköyler||Yenişehir|
-Il: Yozgat, District Boğazlıyan = |Boğazlıyan||Merkezköyler|
-Il: Yozgat, District Çekerek = |Çekerek||Merkezköyler|
-Il: Yozgat, District Sarıkaya = |Merkezköyler||Sarıkaya|
-Il: Yozgat, District Yerköy = |Merkezköyler||Yerköy|
-Il: Yozgat, District Çandır = |Çandır||Merkezköyler|
-Il: Yozgat, District Merkez = |Yozgat|
-Il: Yozgat, District Şefaatli = |Merkezköyler||Şefaatli|
-Il: Yozgat, District Kadışehri = |Kadışehri||Merkezköyler|
-Il: Yozgat, District Aydıncık = |Aydıncık||Merkezköyler|
-Il: Yozgat, District Saraykent = |Merkezköyler||Saraykent|
-Il: Yozgat, District Çayıralan = |Çayıralan||Merkezköyler|
-Il: Yozgat, District Sorgun = |Merkezköyler||Sorgun|
-Il: Yozgat, District Akdağmadeni = |Akdağmadeni||Merkezköyler|
-Il: Yozgat, District Yenifakılı = |Merkezköyler||Yenifakılı|
-Il: Rize, District Çayeli = |Büyükköy||Çayeli||Merkezköyler|
-Il: Rize, District Derepazarı = |Derepazarı||Merkezköyler|
-Il: Rize, District Fındıklı = |Fındıklı||Merkezköyler|
-Il: Rize, District Güneysu = |Güneysu||Merkezköyler|
-Il: Rize, District İkizdere = |İkizdere||Merkezköyler|
-Il: Rize, District İyidere = |İyidere||Merkezköyler|
-Il: Rize, District Hemşin = |Hemşin||Merkezköyler|
-Il: Rize, District Ardeşen = |Ardeşen||Merkezköyler|
-Il: Rize, District Kalkandere = |Kalkandere||Merkezköyler|
-Il: Rize, District Çamlıhemşin = |Çamlıhemşin||Merkezköyler|
-Il: Rize, District Merkez = |Gündoğdu||Merkezköyler||Rize|
-Il: Rize, District Pazar = |Merkezköyler||Pazar|
-Il: Batman, District Beşiri = |Beşiri||Merkezköyler|
-Il: Batman, District Hasankeyf = |Hasankeyf||Merkezköyler|
-Il: Batman, District Sason = |Merkezköyler||Sason|
-Il: Batman, District Kozluk = |Kozluk||Merkezköyler|
-Il: Batman, District Gercüş = |Gercüş||Merkezköyler|
-Il: Batman, District Merkez = |Çarşı||Gap||Kültür||Merkezköyler||Petrol|
-Il: Ardahan, District Damal = |Damal||Merkezköyler|
-Il: Ardahan, District Posof = |Merkezköyler||Posof|
-Il: Ardahan, District Çıldır = |Çıldır||Merkezköyler|
-Il: Ardahan, District Göle = |Göle||Merkezköyler|
-Il: Ardahan, District Hanak = |Hanak||Merkezköyler|
-Il: Ardahan, District Merkez = |Ardahan||Hasköy||Merkezköyler||Yanlızçam|
-Il: Osmaniye, District Bahçe = |Bahçe||Merkezköyler|
-Il: Osmaniye, District Düziçi = |Düziçi||Merkezköyler|
-Il: Osmaniye, District Kadirli = |Cemalpaşa||Kadirli||Merkezköyler|
-Il: Osmaniye, District Toprakkale = |Merkezköyler||Toprakkale|
-Il: Osmaniye, District Hasanbeyli = |Hasanbeyli||Merkezköyler|
-Il: Osmaniye, District Merkez = |Atatürk||Merkezköyler|
-Il: Osmaniye, District Sumbas = |Sumbas|
-Il: Kırıkkale, District Keskin = |Keskin||Merkezköyler|
-Il: Kırıkkale, District Çelebi = |Çelebi||Merkezköyler|
-Il: Kırıkkale, District Balışeyh = |Balışeyh||Merkezköyler|
-Il: Kırıkkale, District Delice = |Delice||Merkezköyler|
-Il: Kırıkkale, District Karakeçili = |Karakeçili||Merkezköyler|
-Il: Kırıkkale, District Yahşihan = |Merkezköyler||Yahşihan|
-Il: Kırıkkale, District Bahşılı = |Bahşılı||Merkezköyler|
-Il: Kırıkkale, District Merkez = |Fabrikalar||Merkezköyler||Sanayi||Tepebaşı||Yuva|
-Il: Kırıkkale, District Sulakyurt = |Merkezköyler||Sulakyurt|
-Il: Ordu, District Kabadüz = |Karadüz|
-Il: Ordu, District Çaybaşı = |Çaybaşı|
-Il: Ordu, District Mesudiye = |Mesudiye|
-Il: Ordu, District Korgan = |Korgan|
-Il: Ordu, District Ulubey = |Ulubey|
-Il: Ordu, District Akkuş = |Akkuş|
-Il: Ordu, District Gülyalı = |Gülyalı|
-Il: Ordu, District Fatsa = |Fatsa|
-Il: Ordu, District Altınordu = |Bahcelievler||Düz mahalle||Saraycık|
-Il: Ordu, District Perşembe = |Perşembe|
-Il: Ordu, District Kabataş = |Kabataş|
-Il: Ordu, District Kumru = |Kumru|
-Il: Ordu, District Çatalpınar = |Çatalpınar|
-Il: Ordu, District Çamaş = |Çamaş|
-Il: Ordu, District Gölköy = |Gölköy|
-Il: Ordu, District Gürgentepe = |Gürgentepe|
-Il: Ordu, District İkizce = |İkizce|
-Il: Ordu, District Aybastı = |Aybastı|
-Il: Ordu, District Ünye = |Ünye|
-Il: Adana, District Karataş = |Karataş|
-Il: Adana, District Ceyhan = |Büyükmangıt||Ceyhan||Mustafabeyli|
-Il: Adana, District Pozantı = |Akçatekir||Gökbez||Pozantı|
-Il: Adana, District Saimbeyli = |Saimbeyli|
-Il: Adana, District Seyhan = |Akkapı||Denizli||Emek||Fevzipaşa||Gazipaşa||Gülbahçesi||Gürselpaşa||Hadırlı||Hükümet||Karayusuflu||Kuruköprü||Küçükdikili||Mavi bulvar yurt||Meydan||Saydam||Şakirpaşa||Yağcami||Yeşilevler||Yeşiloba||Yeşilyurt||Ziyapaşa|
-Il: Adana, District Aladağ = |Aladağ||Madenli|
-Il: Adana, District Yumurtalık = |Kalemli||Yumurtalık|
-Il: Adana, District İmamoğlu = |İmamoğlu||Saygeçit|
-Il: Adana, District Kozan = |Hacıbeyli||Kahveli||Kozan|
-Il: Adana, District Feke = |Akkaya||Feke|
-Il: Adana, District Sarıçam = |Baklalı||Buruk||İncirlik||Osmangazi||Remzioğuzarık|
-Il: Adana, District Yüreğir = |Abdioğlu||Alihocalı||Bahçelievler||Doğankent||Havutlu||İncirlik||Karacaoğlan||Karşıyaka||Kazımkarabekir||Keresteciler||Pttevleri||Yakapınar||Yamaçlı||Yavuzlar|
-Il: Adana, District Tufanbeyli = |Damlalı||Tufanbeyli|
-Il: Adana, District Çukurova = |Huzurevleri||Mahfesığmaz||Salbaş|
-Il: Adana, District Karaisalı = |Karaisalı|
-Il: Tekirdağ, District Saray = |Saray|
-Il: Tekirdağ, District Şarköy = |Şarköy|
-Il: Tekirdağ, District Malkara = |Malkara|
-Il: Tekirdağ, District Süleymanpaşa = |Altınova||Aydoğdu||Eskicami||Kumbağ||Süleymanpaşa|
-Il: Tekirdağ, District Hayrabolu = |Hayrabolu|
-Il: Tekirdağ, District Ergene = |Marmaracık|
-Il: Tekirdağ, District Kapaklı = |Kapaklı|
-Il: Tekirdağ, District Muratlı = |Muratlı|
-Il: Tekirdağ, District Çorlu = |Çorlu||Silahtar|
-Il: Tekirdağ, District Çerkezköy = |Çerkezköy|
-Il: Tekirdağ, District Marmaraereğlisi = |Marmaraereğlisi|
-Il: Gaziantep, District Araban = |Araban|
-Il: Gaziantep, District İslahiye = |İslahiye|
-Il: Gaziantep, District Yavuzeli = |Yavuzeli|
-Il: Gaziantep, District Şahinbey = |Alaybey||Düztepe||Hoşgör||Karataş||Konak||Perilikaya||Şahinbey||Tabakhane|
-Il: Gaziantep, District Karkamış = |Karkamış|
-Il: Gaziantep, District Nurdağı = |Nurdağı|
-Il: Gaziantep, District Oğuzeli = |Oğuzeli||Yeşildere|
-Il: Gaziantep, District Nizip = |Nizip|
-Il: Gaziantep, District Şehitkamil = |Çıksorut||Emek||Gazikent||İbrahimli||İncilipınar||Karşıyaka||Küsget||Merve||Organize||Şehitkamil|
-Il: İstanbul, District Beşiktaş = |Abbasağa||Akatlar||Arnavutköy||Bebek||Etiler||Gayrettepe||Levazım||Levent||Ortaköy||Türkali|
-Il: İstanbul, District Adalar = |Burgazada||Büyükada||Heybeliada||Kınalıada|
-Il: İstanbul, District Bağcılar = |Bağcılar||Güneşli||Mahmutbey|
-Il: İstanbul, District Beykoz = |Anadoluhisarı||Beykoz||Çavuşbaşı||Çubuklu||Göksu||Paşabahçe||Polonezköy||Tokatköy|
-Il: İstanbul, District Şişli = |Bozkurt||Cumhuriyet||Duatepe||Esentepe||Feriköy||Halaskargazi||Harbiye||Mecidiyeköy||Meşrutiyet||Okmeydanı||Pangaltı||Teşvikiye|
-Il: İstanbul, District Esenler = |Atışalanı||Esenler||Karabayır||Sanayi|
-Il: İstanbul, District Çatalca = |Çatalca|
-Il: İstanbul, District Kadıköy = |Bostancı||Caddebostan||Caferağa||Eğitim||Erenköy||Fenerbahçe||Feneryolu||Fikirtepe||Göztepe||Koşuyolu||Kozyatağı||Merdivenköy||Ondokuzmayıs||Osmanağa||Rasimpaşa||Sahrayıcedit||Suadiye|
-Il: İstanbul, District Başakşehir = |Altınşehir||Bahçeşehir||Başakşehir||İkitelli||Şamlar|
-Il: İstanbul, District Fatih = |Aksaray||Balat||Bayazıt||Eminönü||İskenderpaşa||Karagümrük||Kocamustafapaşa||Kumkapı||Mahmutpaşa||Sirkeci||Sultanahmet||Şehremini||Tahtakale||Topkapı||Vefa||Yedikule||Zeyrek|
-Il: İstanbul, District Büyükçekmece = |Büyükçekmece||Celaliye||Kumburgaz||Mimarsinan||Tepecik|
-Il: İstanbul, District Güngören = |Akıncılar||Güngören||Sanayi||Tozkoparan|
-Il: İstanbul, District Sultanbeyli = |Mehmetakif||Mimarsinan||Necipfazıl||Turgutreis|
-Il: İstanbul, District Küçükçekmece = |Atakent||Halkalı||Küçükçekmece||Sefaköy|
-Il: İstanbul, District Beyoğlu = |Arapcami||Cihangir||Halıcıoğlu||İstiklal||Kasımpaşa||Kemankeş||Pürtelaş||Taksim||Tarlabaşı|
-Il: İstanbul, District Sancaktepe = |Eyüpsultan||Osmangazi||Sarıgazi||Yenidoğan|
-Il: İstanbul, District Ümraniye = |Aşağıdudullu||Atakent||Atatürk||Çakmak||Esenşehir||Ihlamurkuyu||İnkılap||Kazımkarabekir||Namıkkemal||Yukarıdudullu|
-Il: İstanbul, District Zeytinburnu = |Çırpıcı||Seyitnizam||Telsiz||Topkapı|
-Il: İstanbul, District Bakırköy = |Ataköy||Cevizlik||Florya||Kartaltepe||Osmaniye||Yeşilköy||Zeytinlik||Zuhuratbaba|
-Il: İstanbul, District Arnavutköy = |Arnavutköy||Baklalı||Boğazköy||Bolluca||Hadımköy||Haraççı||Taşoluk|
-Il: İstanbul, District Kartal = |Atalar||Esentepe||Kartal||Orhantepe||Soğanlık||Topselvi||Uğur mumcu||Yakacık|
-Il: İstanbul, District Şile = |Ağva||Ahmetli||Şile|
-Il: İstanbul, District Gaziosmanpaşa = |Gaziosmanpaşa||Küçükköy||Mevlana||Yıldıztabya|
-Il: İstanbul, District Sarıyer = |Bahçeköy||Büyükdere||Emirgan||İstinye||Maslak||Rumelihisarı||Sarıyer||Tarabya||Yeniköy|
-Il: İstanbul, District Avcılar = |Ambarlı||Avcılar||Firuzköy||Gümüşpala|
-Il: İstanbul, District Esenyurt = |Esenyurt||İncirtepe||Kıraç||Mehterçeşme||Saadetdere||Sanayi|
-Il: İstanbul, District Pendik = |Bahçelievler||Çamçeşme||Çarşı||Çınardere||Esenyalı||Kurna||Şeyhli||Yayalar||Yenişehir|
-Il: İstanbul, District Çekmeköy = |Alemdağ||Çekmeköy||Ömerli||Taşdelen|
-Il: İstanbul, District Sultangazi = |Sultançiftliği||Sultangazi||Zübeydehanım|
-Il: İstanbul, District Silivri = |Büyükçavuşlu||Çanta||Değirmenköy||Fener||Gümüşyaka||Kavaklı||Ortaköy||Selimpaşa||Silivri|
-Il: İstanbul, District Maltepe = |Aydınevler||Büyükbakkalköy||Cevizli||Feyzullah||Gülsuyu||İdealtepe||Küçükyalı||Yalı||Zümrütevler|
-Il: İstanbul, District Bahçelievler = |Bahçelievler||Şirinevler||Yenibosna|
-Il: İstanbul, District Beylikdüzü = |Beylikdüzü||Gürpınar||Yakuplu|
-Il: İstanbul, District Kağıthane = |Çağlayan||Çeliktepe||Gültepe||Gürsel||Hamidiye||Kağıthane merkez||Seyrantepe||Şirintepe|
-Il: İstanbul, District Tuzla = |Akfırat||Aydınlı||Çarşı||İçmeler||Mimarsinan||Orhanlı||Tersaneler|
-Il: İstanbul, District Eyüpsultan = |Alibeyköy||Çırçır||Eyüp||Göktürk||Işıklar||Kemerburgaz||Rami||Yeşilpınar|
-Il: İstanbul, District Ataşehir = |Atatürk||Ferhatpaşa||İçerenköy||Kayışdağı||Küçükbakkalköy||Mustafakemal||Örnek||Yeniçamlıca||Yenisahra|
-Il: İstanbul, District Bayrampaşa = |Altıntepsi||Muratpaşa||Numunebağ||Yıldırım|
-Il: İstanbul, District Üsküdar = |Acıbadem||Altunizade||Bahçelievler||Beylerbeyi||Bulgurlu||Cumhuriyet||Çengelköy||Ferah||Kandilli||Kirazlıtepe||Kuzguncuk||Mimarsinan||Muratreis||Selimiye||Ünalan||Yavuztürk|
-Il: Bayburt, District Demirözü = |Demirözü||Merkezköyler|
-Il: Bayburt, District Aydıntepe = |Aydıntepe||Merkezköyler|
-Il: Bayburt, District Merkez = |Bayburt||Maden||Merkezköyler|
-Il: Mersin, District Akdeniz = |Adanalıoğlu||Barış||Camiişerif||Çankaya||Dikilitaş||Evci||Gündoğdu||Hal||Huzurkent||Karacailyas||Karaduvar||Kazanlı||Nusratiye|
-Il: Mersin, District Mezitli = |Akdeniz||Atatürk||Davultepe||Fındıkpınarı||Tece|
-Il: Mersin, District Mut = |Mut|
-Il: Mersin, District Tarsus = |82evler||Akşemsettin||Altaylılar||Anıt||Aşağı köyler||Bahçe||Beydeğirmeni||Caminur||Çamlıyayla||Kavaklı||Kızılmurat||Yenice||Yolboyu||Yukarı köyler|
-Il: Mersin, District Anamur = |Anamur||Göktaş||İskele|
-Il: Mersin, District Gülnar = |Gülnar||Köseçobanlı|
-Il: Mersin, District Toroslar = |Akbelen||Arslanköy||Çavuşlu||Demirtaş||Halkkent||Sağlık||Selçuklar|
-Il: Mersin, District Aydıncık = |Aydıncık||Karadere|
-Il: Mersin, District Bozyazı = |Ardıçlıtaş||Bozyazı|
-Il: Mersin, District Silifke = |Atakent||Atayurt||Gazi||Pazarkaşı||Silifke||Taşucu|
-Il: Mersin, District Yenişehir = |Afetevler||Bahçelievler||Barbaros||Cumhuriyet||Değirmençay|
-Il: Mersin, District Erdemli = |Erdemli|
-Il: Mersin, District Çamlıyayla = |Çamlıyayla||Darıpınarı|
-Il: Siirt, District Baykan = |Baykan||Dilektepe||Merkezköyler|
-Il: Siirt, District Eruh = |Bağgöze||Eruh||Merkezköyler|
-Il: Siirt, District Şirvan = |Cevizlik||Merkezköyler||Özpınar||Şirvan|
-Il: Siirt, District Pervari = |Merkezköyler||Pervari|
-Il: Siirt, District Tillo = |Aydınlar||Merkezköyler|
-Il: Siirt, District Kurtalan = |Kurtalan||Merkezköyler|
-Il: Siirt, District Merkez = |Siirt|
-Il: Isparta, District Şarkikaraağaç = |Merkezköyler||Şarkikaraağaç|
-Il: Isparta, District Eğirdir = |Eğirdir||Merkezköyler|
-Il: Isparta, District Gelendost = |Gelendost||Merkezköyler|
-Il: Isparta, District Merkez = |Çelebıler||Kepeci||Kutlubey||Merkezköyler||Sanayi|
-Il: Isparta, District Yenişarbademli = |Merkezköyler||Yenişarbademli|
-Il: Isparta, District Yalvaç = |Merkezköyler||Yalvaç|
-Il: Isparta, District Gönen = |Gönen||Merkezköyler|
-Il: Isparta, District Aksu = |Aksu||Merkezköyler|
-Il: Isparta, District Atabey = |Atabey||Merkezköyler|
-Il: Isparta, District Uluborlu = |Merkezköyler||Uluborlu|
-Il: Isparta, District Sütçüler = |Merkezköyler||Sütçüler|
-Il: Isparta, District Keçiborlu = |Keçiborlu||Merkezköyler|
-Il: Isparta, District Senirkent = |Merkezköyler||Senirkent|
-Il: Karaman, District Başyayla = |Başyayla||Merkezköyler|
-Il: Karaman, District Sarıveliler = |Göktepe||Merkezköyler||Sarıveliler|
-Il: Karaman, District Ayrancı = |Ayrancı||Merkezköyler|
-Il: Karaman, District Ermenek = |Ermenek||Kazancı||Merkezköyler|
-Il: Karaman, District Kazımkarabekir = |Kazımkarabekir||Merkezköyler|
-Il: Karaman, District Merkez = |Akçaşehir||Hisar||Merkezköyler||Sudurağı||Sümer|
-Il: Ankara, District Çubuk = |Çubuk|
-Il: Ankara, District Elmadağ = |Elmadağ||Hasanoğlan|
-Il: Ankara, District Yenimahalle = |A.o.çiftliği||Batıkent||Demetevler||İvedik osb||Karşıyaka||Macunköy||Ostim||Şentepe||Yenimahalle|
-Il: Ankara, District Güdül = |Güdül|
-Il: Ankara, District Sincan = |Ahievran||Fatih||Sincan||Temelli||Yenikent|
-Il: Ankara, District Mamak = |Abidinpaşa||Akdere||Boğaziçi||Demirlibahçe||Gülveren||Hüseyingazi||Kayaş||Lalahan||Mamak|
-Il: Ankara, District Bala = |Bala|
-Il: Ankara, District Pursaklar = |Pursaklar|
-Il: Ankara, District Polatlı = |Polatlı|
-Il: Ankara, District Altındağ = |Altındağ||Aydınlıkevler||Hasköy||İskitler||Karacaören||Samanpazarı||Ulubey||Ulus|
-Il: Ankara, District Çamlıdere = |Çamlıdere|
-Il: Ankara, District Haymana = |Haymana|
-Il: Ankara, District Etimesgut = |30ağustos||Bahçekapı||Elvankent||Eryamanevleri||Etimesgut||Göksu||Güzelkent||Yurtçu|
-Il: Ankara, District Ayaş = |Ayaş|
-Il: Ankara, District Evren = |Evren|
-Il: Ankara, District Şereflikoçhisar = |Şereflikoçhisar|
-Il: Ankara, District Çankaya = |100.yıl||Ahlatlıbel||Bahçelievler||Balgat||Bilkent||Birlik||Cebeci||Çankaya||Çayyolu||Dikmen||Esat||Karataş||Kavaklıdere||Maltepe||Öveçler||Yenişehir||Yıldız||Zafertepe|
-Il: Ankara, District Gölbaşı = |Gölbaşı|
-Il: Ankara, District Kalecik = |Kalecik|
-Il: Ankara, District Akyurt = |Akyurt|
-Il: Ankara, District Kızılcahamam = |Kızılcahamam|
-Il: Ankara, District Beypazarı = |Beypazarı|
-Il: Ankara, District Nallıhan = |Nallıhan|
-Il: Ankara, District Keçiören = |Aktepe||Bağlum||Esertepe||Etlik||Hasköy s.evleri||Kalaba||Sanatoryum||Şenlik||Ufuktepe|
-Il: Ankara, District Kahramankazan = |Kazan|
-Il: Gümüşhane, District Şiran = |Şiran|
-Il: Gümüşhane, District Kürtün = |Kürtün||Merkezköyler|
-Il: Gümüşhane, District Köse = |Köse||Merkezköyler|
-Il: Gümüşhane, District Kelkit = |Kelkit||Merkezköyler|
-Il: Gümüşhane, District Torul = |Merkezköyler||Torul|
-Il: Gümüşhane, District Merkez = |Gümüşhane||Merkezköyler|
-Il: Kütahya, District Gediz = |Gediz||Merkezköyler|
-Il: Kütahya, District Çavdarhisar = |Çavdarhisar||Merkezköyler|
-Il: Kütahya, District Aslanapa = |Aslanapa||Merkezköyler|
-Il: Kütahya, District Simav = |Merkezköyler||Simav|
-Il: Kütahya, District Merkez = |Alipaşa||Börekçiler||Hamidiye||Merkezköyler||Seyitömer|
-Il: Kütahya, District Altıntaş = |Altıntaş||Merkezköyler|
-Il: Kütahya, District Domaniç = |Domaniç||Merkezköyler|
-Il: Kütahya, District Tavşanlı = |Merkezköyler||Tavşanlı|
-Il: Kütahya, District Pazarlar = |Merkezköyler||Pazarlar|
-Il: Kütahya, District Emet = |Emet||Merkezköyler|
-Il: Kütahya, District Hisarcık = |Hisarcık||Merkezköyler|
-Il: Kütahya, District Şaphane = |Merkezköyler||Şaphane|
-Il: Kütahya, District Dumlupınar = |Dumlupınar||Merkezköyler|
-Il: Mardin, District Nusaybin = |Nusaybin|
-Il: Mardin, District Artuklu = |Gökçe||İstasyon||Kabala||Nur||Savurkapı|
-Il: Mardin, District Yeşilli = |Yeşilli|
-Il: Mardin, District Mazıdağı = |Mazıdağı|
-Il: Mardin, District Midyat = |Eskimidyat||Hükümet|
-Il: Mardin, District Savur = |Savur|
-Il: Mardin, District Kızıltepe = |Kızıltepe|
-Il: Mardin, District Ömerli = |Ömerli|
-Il: Mardin, District Dargeçit = |Dargeçit|
-Il: Mardin, District Derik = |Derik|
-Il: Muğla, District Fethiye = |Fethiye|
-Il: Muğla, District Dalaman = |Dalaman|
-Il: Muğla, District Ortaca = |Ortaca|
-Il: Muğla, District Marmaris = |Marmaris|
-Il: Muğla, District Ula = |Ula|
-Il: Muğla, District Milas = |Milas|
-Il: Muğla, District Menteşe = |Menteşe|
-Il: Muğla, District Kavaklıdere = |Kavaklıdere|
-Il: Muğla, District Köyceğiz = |Köyceğiz|
-Il: Muğla, District Yatağan = |Yatağan|
-Il: Muğla, District Bodrum = |Bodrum|
-Il: Muğla, District Seydikemer = |Seydikemer|
-Il: Muğla, District Datça = |Datça|
-Il: Kahramanmaraş, District Andırın = |Andırın||Çokak|
-Il: Kahramanmaraş, District Türkoğlu = |Türkoğlu|
-Il: Kahramanmaraş, District Dulkadiroğlu = |Adliye||Ağabeyli||Sanayi||Sütçüimam|
-Il: Kahramanmaraş, District Çağlayancerit = |Çağlayancerit|
-Il: Kahramanmaraş, District Göksun = |Göksun|
-Il: Kahramanmaraş, District Pazarcık = |Pazarcık|
-Il: Kahramanmaraş, District Elbistan = |Elbistan|
-Il: Kahramanmaraş, District Nurhak = |Nurhak|
-Il: Kahramanmaraş, District Afşin = |Afşin|
-Il: Kahramanmaraş, District Onikişubat = |Binevler||Hacıbayram||Süleymanlı|
-Il: Kahramanmaraş, District Ekinözü = |Ekinözü|
-Il: Kocaeli, District Gölcük = |Değirmendere||Gölcük|
-Il: Kocaeli, District Derince = |Derince|
-Il: Kocaeli, District Darıca = |Darıca|
-Il: Kocaeli, District Kartepe = |Arslanbey||Büyükderbent||Köseköy||Maşukiye||Suadiye||Uzunçiftlik||Uzuntarla|
-Il: Kocaeli, District Karamürsel = |Karamürsel|
-Il: Kocaeli, District Başiskele = |Bahçecik||Başiskele||Kullar||Seymen||Yeniköy||Yuvacık|
-Il: Kocaeli, District Gebze = |Gebze|
-Il: Kocaeli, District Çayırova = |Çayırova|
-Il: Kocaeli, District İzmit = |Alikahya||Çarşı||Gündoğdu||İzmit||Sahil||Saraybahçe||Yenidoğan||Yenişehir|
-Il: Kocaeli, District Dilovası = |Dilovası|
-Il: Kocaeli, District Kandıra = |Kandıra|
-Il: Kocaeli, District Körfez = |Hereke||Körfez|
-Il: Yalova, District Armutlu = |Armutlu||Merkezköyler|
-Il: Yalova, District Çiftlikköy = |Çiftlikköy||Merkezköyler|
-Il: Yalova, District Altınova = |Altınova||Merkezköyler|
-Il: Yalova, District Termal = |Termal|
-Il: Yalova, District Çınarcık = |Çınarcık||Merkezköyler|
-Il: Yalova, District Merkez = |Bağlarbaşı||Merkezköyler|
-Il: Balıkesir, District Bigadiç = |Bigadiç||Çağış||Salmanlı|
-Il: Balıkesir, District Kepsut = |Kepsut||Servet|
-Il: Balıkesir, District Savaştepe = |Karaçam||Sarıbeyler||Savaştepe|
-Il: Balıkesir, District Bandırma = |Aksakal||Bandırma||Doğruca||Edincik|
-Il: Balıkesir, District Burhaniye = |Burhaniye||Çoruk||Pelitköy|
-Il: Balıkesir, District Havran = |Havran||Temaşalık|
-Il: Balıkesir, District Susurluk = |Göbel||Kayıkçı||Susurluk|
-Il: Balıkesir, District İvrindi = |Büyükyenice||Gökçeyazı||İvrindi||Kayapa||Korucu||Sarıca|
-Il: Balıkesir, District Edremit = |Akçay||Altınoluk||Edremit|
-Il: Balıkesir, District Sındırgı = |Mandıra||Sındırgı|
-Il: Balıkesir, District Altıeylül = |Altıeylül||Ertuğrul||Gündoğan||Konakpınar||Pamukçu||Plevne|
-Il: Balıkesir, District Gönen = |Gönen||Hasanbey||Sarıköy|
-Il: Balıkesir, District Dursunbey = |Dursunbey||Hacılar|
-Il: Balıkesir, District Karesi = |Atatürk||Karesi||Sakarya||Şamlı|
-Il: Balıkesir, District Gömeç = |Dursunlu||Gömeç||Karaağaç|
-Il: Balıkesir, District Balya = |Balya||Patlak|
-Il: Balıkesir, District Erdek = |Belkıs||Erdek|
-Il: Balıkesir, District Manyas = |Kayaca||Manyas|
-Il: Balıkesir, District Marmara = |Avşa||Marmara|
-Il: Balıkesir, District Ayvalık = |Alibeyadası||Altınova||Ayvalık||Küçükköy|
-Il: Uşak, District Karahallı = |Karahallı||Merkezköyler|
-Il: Uşak, District Eşme = |Eşme||Merkezköyler|
-Il: Uşak, District Banaz = |Banaz||Merkezköyler|
-Il: Uşak, District Sivaslı = |Sivaslı|
-Il: Uşak, District Ulubey = |Merkezköyler||Ulubey|
-Il: Uşak, District Merkez = |Cumhuriyet||Merkezköyler|
+Adana#Aladağ#Aladağ
+Adana#Aladağ#Madenli
+Adana#Ceyhan#Büyükmangıt
+Adana#Ceyhan#Ceyhan
+Adana#Ceyhan#Mustafabeyli
+Adana#Çukurova#Huzurevleri
+Adana#Çukurova#Mahfesığmaz
+Adana#Çukurova#Salbaş
+Adana#Feke#Akkaya
+Adana#Feke#Feke
+Adana#İmamoğlu#İmamoğlu
+Adana#İmamoğlu#Saygeçit
+Adana#Karaisalı#Karaisalı
+Adana#Karataş#Karataş
+Adana#Kozan#Hacıbeyli
+Adana#Kozan#Kahveli
+Adana#Kozan#Kozan
+Adana#Pozantı#Akçatekir
+Adana#Pozantı#Gökbez
+Adana#Pozantı#Pozantı
+Adana#Saimbeyli#Saimbeyli
+Adana#Sarıçam#Baklalı
+Adana#Sarıçam#Buruk
+Adana#Sarıçam#İncirlik
+Adana#Sarıçam#Osmangazi
+Adana#Sarıçam#Remzioğuzarık
+Adana#Seyhan#Akkapı
+Adana#Seyhan#Denizli
+Adana#Seyhan#Emek
+Adana#Seyhan#Fevzipaşa
+Adana#Seyhan#Gazipaşa
+Adana#Seyhan#Gülbahçesi
+Adana#Seyhan#Gürselpaşa
+Adana#Seyhan#Hadırlı
+Adana#Seyhan#Hükümet
+Adana#Seyhan#Karayusuflu
+Adana#Seyhan#Kuruköprü
+Adana#Seyhan#Küçükdikili
+Adana#Seyhan#Mavi bulvar yurt
+Adana#Seyhan#Meydan
+Adana#Seyhan#Saydam
+Adana#Seyhan#Şakirpaşa
+Adana#Seyhan#Yağcami
+Adana#Seyhan#Yeşilevler
+Adana#Seyhan#Yeşiloba
+Adana#Seyhan#Yeşilyurt
+Adana#Seyhan#Ziyapaşa
+Adana#Tufanbeyli#Damlalı
+Adana#Tufanbeyli#Tufanbeyli
+Adana#Yumurtalık#Kalemli
+Adana#Yumurtalık#Yumurtalık
+Adana#Yüreğir#Abdioğlu
+Adana#Yüreğir#Alihocalı
+Adana#Yüreğir#Bahçelievler
+Adana#Yüreğir#Doğankent
+Adana#Yüreğir#Havutlu
+Adana#Yüreğir#İncirlik
+Adana#Yüreğir#Karacaoğlan
+Adana#Yüreğir#Karşıyaka
+Adana#Yüreğir#Kazımkarabekir
+Adana#Yüreğir#Keresteciler
+Adana#Yüreğir#Pttevleri
+Adana#Yüreğir#Yakapınar
+Adana#Yüreğir#Yamaçlı
+Adana#Yüreğir#Yavuzlar
+Adıyaman#Besni#Besni
+Adıyaman#Besni#Çakırhüyük
+Adıyaman#Besni#Merkezköyler
+Adıyaman#Besni#Suvarlı
+Adıyaman#Besni#Şambayat
+Adıyaman#Çelikhan#Çelikhan
+Adıyaman#Çelikhan#Merkezköyler
+Adıyaman#Gerger#Gerger
+Adıyaman#Gerger#Merkezköyler
+Adıyaman#Gölbaşı#Belören
+Adıyaman#Gölbaşı#Gölbaşı
+Adıyaman#Gölbaşı#Harmanlı
+Adıyaman#Gölbaşı#Merkezköyler
+Adıyaman#Kahta#Akıncılar
+Adıyaman#Kahta#Kahta
+Adıyaman#Kahta#Merkezköyler
+Adıyaman#Merkez#Akpınar
+Adıyaman#Merkez#Eskisaray
+Adıyaman#Merkez#İmamağa
+Adıyaman#Merkez#Kömür
+Adıyaman#Merkez#Kuyucak
+Adıyaman#Merkez#Merkez köyler
+Adıyaman#Merkez#Sümerevler
+Adıyaman#Merkez#Yenisanayi
+Adıyaman#Samsat#Merkezköyler
+Adıyaman#Samsat#Samsat
+Adıyaman#Sincik#Merkezköyler
+Adıyaman#Sincik#Sincik
+Adıyaman#Tut#Merkezköyler
+Adıyaman#Tut#Tut
+Afyonkarahisar#Başmakçı#Başmakçı
+Afyonkarahisar#Başmakçı#Merkezköyler
+Afyonkarahisar#Bayat#Bayat
+Afyonkarahisar#Bayat#Merkezköyler
+Afyonkarahisar#Bolvadin#Bolvadin
+Afyonkarahisar#Bolvadin#Merkezköyler
+Afyonkarahisar#Çay#Çay
+Afyonkarahisar#Çay#Karacaören
+Afyonkarahisar#Çay#Merkezköyler
+Afyonkarahisar#Çobanlar#Çobanlar
+Afyonkarahisar#Çobanlar#Merkezköyler
+Afyonkarahisar#Dazkırı#Dazkırı
+Afyonkarahisar#Dazkırı#Merkezköyler
+Afyonkarahisar#Dinar#Dinar
+Afyonkarahisar#Dinar#Haydarlı
+Afyonkarahisar#Dinar#Merkezköyler
+Afyonkarahisar#Dinar#Tatarlı
+Afyonkarahisar#Emirdağ#Emirdağ
+Afyonkarahisar#Emirdağ#Merkezköyler
+Afyonkarahisar#Evciler#Evciler
+Afyonkarahisar#Evciler#Merkezköyler
+Afyonkarahisar#Hocalar#Hocalar
+Afyonkarahisar#Hocalar#Merkezköyler
+Afyonkarahisar#İhsaniye#Döğer
+Afyonkarahisar#İhsaniye#İhsaniye
+Afyonkarahisar#İhsaniye#Merkezköyler
+Afyonkarahisar#İscehisar#İscehisar
+Afyonkarahisar#İscehisar#Merkezköyler
+Afyonkarahisar#Kızılören#Kızılören
+Afyonkarahisar#Kızılören#Merkezköyler
+Afyonkarahisar#Merkez#Adliye
+Afyonkarahisar#Merkez#Çarşı
+Afyonkarahisar#Merkez#Fatih
+Afyonkarahisar#Merkez#Kale
+Afyonkarahisar#Merkez#Merkezköyler
+Afyonkarahisar#Merkez#Uydukent
+Afyonkarahisar#Sandıklı#Merkezköyler
+Afyonkarahisar#Sandıklı#Sandıklı
+Afyonkarahisar#Sinanpaşa#Merkezköyler
+Afyonkarahisar#Sinanpaşa#Sinanpaşa
+Afyonkarahisar#Sinanpaşa#Taşoluk
+Afyonkarahisar#Sinanpaşa#Tınaztepe
+Afyonkarahisar#Sultandağı#Merkezköyler
+Afyonkarahisar#Sultandağı#Sultandağı
+Afyonkarahisar#Şuhut#Karaadilli
+Afyonkarahisar#Şuhut#Merkezköyler
+Afyonkarahisar#Şuhut#Şuhut
+Ağrı#Diyadin#Diyadin
+Ağrı#Diyadin#Merkezköyler
+Ağrı#Doğubayazıt#Doğubayazıt
+Ağrı#Doğubayazıt#Merkezköyler
+Ağrı#Eleşkirt#Eleşkirt
+Ağrı#Eleşkirt#Merkezköyler
+Ağrı#Eleşkirt#Tahir
+Ağrı#Hamur#Hamur
+Ağrı#Hamur#Merkezköyler
+Ağrı#Merkez#Fevziçakmak
+Ağrı#Merkez#Kazımkarabekir
+Ağrı#Merkez#Merkezköyler
+Ağrı#Patnos#Dedeli
+Ağrı#Patnos#Merkezköyler
+Ağrı#Patnos#Patnos
+Ağrı#Patnos#Sarısu
+Ağrı#Taşlıçay#Merkezköyler
+Ağrı#Taşlıçay#Taşlıçay
+Ağrı#Tutak#Merkezköyler
+Ağrı#Tutak#Tutak
+Aksaray#Ağaçören#Ağaçören
+Aksaray#Ağaçören#Merkezköyler
+Aksaray#Eskil#Eskil
+Aksaray#Eskil#Merkezköyler
+Aksaray#Gülağaç#Gülağaç
+Aksaray#Gülağaç#Merkezköyler
+Aksaray#Güzelyurt#Güzelyurt
+Aksaray#Güzelyurt#Merkezköyler
+Aksaray#Merkez#Bağlıkaya
+Aksaray#Merkez#Çarşı
+Aksaray#Merkez#Helvadere
+Aksaray#Merkez#Merkezköyler
+Aksaray#Merkez#Sanayi
+Aksaray#Merkez#Taşpınar
+Aksaray#Merkez#Yeşilova
+Aksaray#Ortaköy#Balcı
+Aksaray#Ortaköy#Merkezköyler
+Aksaray#Ortaköy#Ortaköy
+Aksaray#Sarıyahşi#Merkezköyler
+Aksaray#Sarıyahşi#Sarıyahşi
+Aksaray#Sultanhanı#Sultanhanı
+Amasya#Göynücek#Göynücek
+Amasya#Göynücek#Merkezköyler
+Amasya#Gümüşhacıköy#Gümüşhacıköy
+Amasya#Gümüşhacıköy#Merkezköyler
+Amasya#Hamamözü#Hamamözü
+Amasya#Hamamözü#Merkezköyler
+Amasya#Merkez#Dereboyu
+Amasya#Merkez#Gen.hikmetakıncı
+Amasya#Merkez#Gökmedrese
+Amasya#Merkez#Merkezköyler
+Amasya#Merzifon#Merzifon
+Amasya#Suluova#Merkezköyler
+Amasya#Suluova#Suluova
+Amasya#Taşova#Merkezköyler
+Amasya#Taşova#Taşova
+Ankara#Akyurt#Akyurt
+Ankara#Altındağ#Altındağ
+Ankara#Altındağ#Aydınlıkevler
+Ankara#Altındağ#Hasköy
+Ankara#Altındağ#İskitler
+Ankara#Altındağ#Karacaören
+Ankara#Altındağ#Samanpazarı
+Ankara#Altındağ#Ulubey
+Ankara#Altındağ#Ulus
+Ankara#Ayaş#Ayaş
+Ankara#Bala#Bala
+Ankara#Beypazarı#Beypazarı
+Ankara#Çamlıdere#Çamlıdere
+Ankara#Çankaya#100.yıl
+Ankara#Çankaya#Ahlatlıbel
+Ankara#Çankaya#Bahçelievler
+Ankara#Çankaya#Balgat
+Ankara#Çankaya#Bilkent
+Ankara#Çankaya#Birlik
+Ankara#Çankaya#Cebeci
+Ankara#Çankaya#Çankaya
+Ankara#Çankaya#Çayyolu
+Ankara#Çankaya#Dikmen
+Ankara#Çankaya#Esat
+Ankara#Çankaya#Karataş
+Ankara#Çankaya#Kavaklıdere
+Ankara#Çankaya#Maltepe
+Ankara#Çankaya#Öveçler
+Ankara#Çankaya#Yenişehir
+Ankara#Çankaya#Yıldız
+Ankara#Çankaya#Zafertepe
+Ankara#Çubuk#Çubuk
+Ankara#Elmadağ#Elmadağ
+Ankara#Elmadağ#Hasanoğlan
+Ankara#Etimesgut#30ağustos
+Ankara#Etimesgut#Bahçekapı
+Ankara#Etimesgut#Elvankent
+Ankara#Etimesgut#Eryamanevleri
+Ankara#Etimesgut#Etimesgut
+Ankara#Etimesgut#Göksu
+Ankara#Etimesgut#Güzelkent
+Ankara#Etimesgut#Yurtçu
+Ankara#Evren#Evren
+Ankara#Gölbaşı#Gölbaşı
+Ankara#Güdül#Güdül
+Ankara#Haymana#Haymana
+Ankara#Kahramankazan#Kazan
+Ankara#Kalecik#Kalecik
+Ankara#Keçiören#Aktepe
+Ankara#Keçiören#Bağlum
+Ankara#Keçiören#Esertepe
+Ankara#Keçiören#Etlik
+Ankara#Keçiören#Hasköy s.evleri
+Ankara#Keçiören#Kalaba
+Ankara#Keçiören#Sanatoryum
+Ankara#Keçiören#Şenlik
+Ankara#Keçiören#Ufuktepe
+Ankara#Kızılcahamam#Kızılcahamam
+Ankara#Mamak#Abidinpaşa
+Ankara#Mamak#Akdere
+Ankara#Mamak#Boğaziçi
+Ankara#Mamak#Demirlibahçe
+Ankara#Mamak#Gülveren
+Ankara#Mamak#Hüseyingazi
+Ankara#Mamak#Kayaş
+Ankara#Mamak#Lalahan
+Ankara#Mamak#Mamak
+Ankara#Nallıhan#Nallıhan
+Ankara#Polatlı#Polatlı
+Ankara#Pursaklar#Pursaklar
+Ankara#Sincan#Ahievran
+Ankara#Sincan#Fatih
+Ankara#Sincan#Sincan
+Ankara#Sincan#Temelli
+Ankara#Sincan#Yenikent
+Ankara#Şereflikoçhisar#Şereflikoçhisar
+Ankara#Yenimahalle#A.o.çiftliği
+Ankara#Yenimahalle#Batıkent
+Ankara#Yenimahalle#Demetevler
+Ankara#Yenimahalle#İvedik osb
+Ankara#Yenimahalle#Karşıyaka
+Ankara#Yenimahalle#Macunköy
+Ankara#Yenimahalle#Ostim
+Ankara#Yenimahalle#Şentepe
+Ankara#Yenimahalle#Yenimahalle
+Antalya#Akseki#Akseki
+Antalya#Akseki#Cevizli
+Antalya#Aksu#Aksu
+Antalya#Alanya#Alanya
+Antalya#Alanya#Avsallar
+Antalya#Alanya#Demirtaş
+Antalya#Alanya#Kestel
+Antalya#Alanya#Mahmutlar
+Antalya#Demre#Davazlar
+Antalya#Demre#Demre
+Antalya#Demre#Kale
+Antalya#Döşemealtı#Döşemealtı
+Antalya#Elmalı#Akçay
+Antalya#Elmalı#Elmalı
+Antalya#Finike#Finike
+Antalya#Gazipaşa#Gazipaşa
+Antalya#Gündoğmuş#Gündoğmuş
+Antalya#İbradı#Aydınkent
+Antalya#Kaş#Cemre
+Antalya#Kaş#Gömbe
+Antalya#Kaş#Kalkan
+Antalya#Kaş#Kaş
+Antalya#Kaş#Kınık
+Antalya#Kaş#Ova
+Antalya#Kaş#Yeşilköy
+Antalya#Kemer#Beldibi
+Antalya#Kemer#Beycik
+Antalya#Kemer#Çamyuva
+Antalya#Kemer#Göynük
+Antalya#Kemer#Kemer
+Antalya#Kemer#Tekirova
+Antalya#Kepez#Ahatlı
+Antalya#Kepez#Altınova
+Antalya#Kepez#Dokuma
+Antalya#Kepez#Duraliler
+Antalya#Kepez#Düdenbaşı
+Antalya#Kepez#Erenköy
+Antalya#Kepez#Sütçüler
+Antalya#Kepez#Varsak
+Antalya#Kepez#Yeniemek
+Antalya#Konyaaltı#Arapsuyu
+Antalya#Konyaaltı#Liman
+Antalya#Korkuteli#Korkuteli
+Antalya#Kumluca#Kumluca
+Antalya#Kumluca#Mavikent
+Antalya#Manavgat#Çolaklı
+Antalya#Manavgat#Manavgat
+Antalya#Manavgat#Side
+Antalya#Manavgat#Taşağıl
+Antalya#Muratpaşa#Bahçelievler
+Antalya#Muratpaşa#Çarşı
+Antalya#Muratpaşa#Eskisanayi
+Antalya#Muratpaşa#Fener
+Antalya#Muratpaşa#Gençlik
+Antalya#Muratpaşa#Kızıltoprak
+Antalya#Muratpaşa#Lara
+Antalya#Muratpaşa#Meltem
+Antalya#Muratpaşa#Meydankavağı
+Antalya#Serik#Serik
+Ardahan#Çıldır#Çıldır
+Ardahan#Çıldır#Merkezköyler
+Ardahan#Damal#Damal
+Ardahan#Damal#Merkezköyler
+Ardahan#Göle#Göle
+Ardahan#Göle#Merkezköyler
+Ardahan#Hanak#Hanak
+Ardahan#Hanak#Merkezköyler
+Ardahan#Merkez#Ardahan
+Ardahan#Merkez#Hasköy
+Ardahan#Merkez#Merkezköyler
+Ardahan#Merkez#Yanlızçam
+Ardahan#Posof#Merkezköyler
+Ardahan#Posof#Posof
+Artvin#Ardanuç#Ardanuç
+Artvin#Ardanuç#Merkezköyler
+Artvin#Arhavi#Arhavi
+Artvin#Arhavi#Merkezköyler
+Artvin#Borçka#Borçka
+Artvin#Borçka#Merkezköyler
+Artvin#Hopa#Hopa
+Artvin#Hopa#Merkezköyler
+Artvin#Kemalpaşa#Kemalpaşa
+Artvin#Kemalpaşa#Merkezköyler
+Artvin#Merkez#Artvin
+Artvin#Merkez#Merkezköyler
+Artvin#Murgul#Göktaş
+Artvin#Murgul#Merkezköyler
+Artvin#Şavşat#Şavşat
+Artvin#Yusufeli#Merkezköyler
+Artvin#Yusufeli#Yusufeli
+Aydın#Bozdoğan#Bozdoğan
+Aydın#Buharkent#Çubukdağı
+Aydın#Çine#Çine
+Aydın#Didim#Akyeniköy
+Aydın#Didim#Yenihisar
+Aydın#Efeler#Çarşı
+Aydın#Efeler#Kurtuluş
+Aydın#Efeler#Sanayi
+Aydın#Efeler#Umurlu
+Aydın#Germencik#Germencik
+Aydın#Germencik#Ortaklar
+Aydın#İncirliova#İncirliova
+Aydın#Karacasu#Karacasu
+Aydın#Karpuzlu#Karpuzlu
+Aydın#Koçarlı#Koçarlı
+Aydın#Köşk#Köşk
+Aydın#Kuşadası#Kuşadası
+Aydın#Kuyucak#Kuyucak
+Aydın#Nazilli#Nazilli
+Aydın#Nazilli#Sümer
+Aydın#Söke#Söke
+Aydın#Sultanhisar#Sultanhisar
+Aydın#Yenipazar#Yenipazar
+Balıkesir#Altıeylül#Altıeylül
+Balıkesir#Altıeylül#Ertuğrul
+Balıkesir#Altıeylül#Gündoğan
+Balıkesir#Altıeylül#Konakpınar
+Balıkesir#Altıeylül#Pamukçu
+Balıkesir#Altıeylül#Plevne
+Balıkesir#Ayvalık#Alibeyadası
+Balıkesir#Ayvalık#Altınova
+Balıkesir#Ayvalık#Ayvalık
+Balıkesir#Ayvalık#Küçükköy
+Balıkesir#Balya#Balya
+Balıkesir#Balya#Patlak
+Balıkesir#Bandırma#Aksakal
+Balıkesir#Bandırma#Bandırma
+Balıkesir#Bandırma#Doğruca
+Balıkesir#Bandırma#Edincik
+Balıkesir#Bigadiç#Bigadiç
+Balıkesir#Bigadiç#Çağış
+Balıkesir#Bigadiç#Salmanlı
+Balıkesir#Burhaniye#Burhaniye
+Balıkesir#Burhaniye#Çoruk
+Balıkesir#Burhaniye#Pelitköy
+Balıkesir#Dursunbey#Dursunbey
+Balıkesir#Dursunbey#Hacılar
+Balıkesir#Edremit#Akçay
+Balıkesir#Edremit#Altınoluk
+Balıkesir#Edremit#Edremit
+Balıkesir#Erdek#Belkıs
+Balıkesir#Erdek#Erdek
+Balıkesir#Gömeç#Dursunlu
+Balıkesir#Gömeç#Gömeç
+Balıkesir#Gömeç#Karaağaç
+Balıkesir#Gönen#Gönen
+Balıkesir#Gönen#Hasanbey
+Balıkesir#Gönen#Sarıköy
+Balıkesir#Havran#Havran
+Balıkesir#Havran#Temaşalık
+Balıkesir#İvrindi#Büyükyenice
+Balıkesir#İvrindi#Gökçeyazı
+Balıkesir#İvrindi#İvrindi
+Balıkesir#İvrindi#Kayapa
+Balıkesir#İvrindi#Korucu
+Balıkesir#İvrindi#Sarıca
+Balıkesir#Karesi#Atatürk
+Balıkesir#Karesi#Karesi
+Balıkesir#Karesi#Sakarya
+Balıkesir#Karesi#Şamlı
+Balıkesir#Kepsut#Kepsut
+Balıkesir#Kepsut#Servet
+Balıkesir#Manyas#Kayaca
+Balıkesir#Manyas#Manyas
+Balıkesir#Marmara#Avşa
+Balıkesir#Marmara#Marmara
+Balıkesir#Savaştepe#Karaçam
+Balıkesir#Savaştepe#Sarıbeyler
+Balıkesir#Savaştepe#Savaştepe
+Balıkesir#Sındırgı#Mandıra
+Balıkesir#Sındırgı#Sındırgı
+Balıkesir#Susurluk#Göbel
+Balıkesir#Susurluk#Kayıkçı
+Balıkesir#Susurluk#Susurluk
+Bartın#Amasra#Amasra
+Bartın#Amasra#Merkezköyler
+Bartın#Kurucaşile#Kurucaşile
+Bartın#Kurucaşile#Merkezköyler
+Bartın#Merkez#Demirciler
+Bartın#Merkez#Kozcağız
+Bartın#Merkez#Merkezköyler
+Bartın#Merkez#Yenisanayi
+Bartın#Ulus#Kumluca
+Bartın#Ulus#Merkezköyler
+Bartın#Ulus#Ulus
+Batman#Beşiri#Beşiri
+Batman#Beşiri#Merkezköyler
+Batman#Gercüş#Gercüş
+Batman#Gercüş#Merkezköyler
+Batman#Hasankeyf#Hasankeyf
+Batman#Hasankeyf#Merkezköyler
+Batman#Kozluk#Kozluk
+Batman#Kozluk#Merkezköyler
+Batman#Merkez#Çarşı
+Batman#Merkez#Gap
+Batman#Merkez#Kültür
+Batman#Merkez#Merkezköyler
+Batman#Merkez#Petrol
+Batman#Sason#Merkezköyler
+Batman#Sason#Sason
+Bayburt#Aydıntepe#Aydıntepe
+Bayburt#Aydıntepe#Merkezköyler
+Bayburt#Demirözü#Demirözü
+Bayburt#Demirözü#Merkezköyler
+Bayburt#Merkez#Bayburt
+Bayburt#Merkez#Maden
+Bayburt#Merkez#Merkezköyler
+Bilecik#Bozüyük#Bozüyük
+Bilecik#Bozüyük#Dodurga
+Bilecik#Bozüyük#Merkezköyler
+Bilecik#Gölpazarı#Gölpazarı
+Bilecik#Gölpazarı#Merkezköyler
+Bilecik#İnhisar#İnhisar
+Bilecik#İnhisar#Merkezköyler
+Bilecik#Merkez#Bilecik
+Bilecik#Merkez#Merkezköyler
+Bilecik#Osmaneli#Osmaneli
+Bilecik#Pazaryeri#Merkezköyler
+Bilecik#Pazaryeri#Pazaryeri
+Bilecik#Söğüt#Merkezköyler
+Bilecik#Söğüt#Söğüt
+Bilecik#Yenipazar#Merkezköyler
+Bilecik#Yenipazar#Yenipazar
+Bingöl#Adaklı#Adaklı
+Bingöl#Adaklı#Merkezköyler
+Bingöl#Genç#Genç
+Bingöl#Genç#Merkezköyler
+Bingöl#Karlıova#Karlıova
+Bingöl#Karlıova#Merkezköyler
+Bingöl#Kiğı#Kiğı
+Bingöl#Kiğı#Merkezköyler
+Bingöl#Merkez#Ağaçeli
+Bingöl#Merkez#Bingöl
+Bingöl#Merkez#Merkezköyler
+Bingöl#Merkez#Sancak
+Bingöl#Solhan#Merkezköyler
+Bingöl#Solhan#Solhan
+Bingöl#Yayladere#Merkezköyler
+Bingöl#Yayladere#Yayladere
+Bingöl#Yedisu#Merkezköyler
+Bingöl#Yedisu#Yedisu
+Bitlis#Adilcevaz#Adilcevaz
+Bitlis#Adilcevaz#Merkezköyler
+Bitlis#Ahlat#Ahlat
+Bitlis#Ahlat#Merkezköyler
+Bitlis#Ahlat#Ovakışla
+Bitlis#Güroymak#Güroymak
+Bitlis#Güroymak#Merkezköyler
+Bitlis#Hizan#Hizan
+Bitlis#Hizan#Merkezköyler
+Bitlis#Merkez#Bitlis
+Bitlis#Merkez#Bölükyazı
+Bitlis#Merkez#Merkezköyler
+Bitlis#Mutki#Geyikpınar
+Bitlis#Mutki#Merkezköyler
+Bitlis#Mutki#Meydan
+Bitlis#Mutki#Mutki
+Bitlis#Tatvan#Merkezköyler
+Bitlis#Tatvan#Tatvan
+Bitlis#Tatvan#Yelkenli
+Bolu#Dörtdivan#Dörtdivan
+Bolu#Dörtdivan#Merkezköyler
+Bolu#Gerede#Gerede
+Bolu#Gerede#Merkezköyler
+Bolu#Göynük#Göynük
+Bolu#Göynük#Merkezköyler
+Bolu#Kıbrıscık#Kıbrıscık
+Bolu#Kıbrıscık#Merkezköyler
+Bolu#Mengen#Gökçesu
+Bolu#Mengen#Mengen
+Bolu#Mengen#Merkezköyler
+Bolu#Merkez#Aşağısoku
+Bolu#Merkez#İhsaniye
+Bolu#Merkez#Karacasu
+Bolu#Merkez#Karamanlı
+Bolu#Merkez#Merkezköyler
+Bolu#Mudurnu#Mudurnu
+Bolu#Seben#Merkezköyler
+Bolu#Seben#Seben
+Bolu#Yeniçağa#Merkezköyler
+Bolu#Yeniçağa#Yeniçağa
+Burdur#Ağlasun#Ağlasun
+Burdur#Ağlasun#Merkezköyler
+Burdur#Altınyayla#Dirmil
+Burdur#Altınyayla#Merkezköyler
+Burdur#Bucak#Bucak
+Burdur#Bucak#Kızılkaya
+Burdur#Bucak#Kocaaliler
+Burdur#Bucak#Merkezköyler
+Burdur#Çavdır#Çavdır
+Burdur#Çavdır#Merkezköyler
+Burdur#Çeltikçi#Çeltikçi
+Burdur#Çeltikçi#Merkezköyler
+Burdur#Gölhisar#Gölhisar
+Burdur#Gölhisar#Merkezköyler
+Burdur#Karamanlı#Karamanlı
+Burdur#Karamanlı#Merkezköyler
+Burdur#Kemer#Kemer
+Burdur#Kemer#Merkezköyler
+Burdur#Merkez#Bahçelievler
+Burdur#Merkez#Çeşmedamı
+Burdur#Merkez#Merkezköyler
+Burdur#Merkez#Sanayi
+Burdur#Merkez#Yenice
+Burdur#Tefenni#Merkezköyler
+Burdur#Tefenni#Tefenni
+Burdur#Yeşilova#Merkezköyler
+Burdur#Yeşilova#Yeşilova
+Bursa#Büyükorhan#Büyükorhan
+Bursa#Gemlik#Gemlik
+Bursa#Gürsu#Gürsu
+Bursa#Harmancık#Harmancık
+Bursa#İnegöl#İnegöl
+Bursa#İznik#İznik
+Bursa#Karacabey#Karacabey
+Bursa#Keles#Keles
+Bursa#Kestel#Kestel
+Bursa#Mudanya#Mudanya
+Bursa#Mustafakemalpaşa#Mustafakemalpaşa
+Bursa#Nilüfer#Alaattinbey
+Bursa#Nilüfer#Altınşehir
+Bursa#Nilüfer#Ataevler
+Bursa#Nilüfer#Balat
+Bursa#Nilüfer#Beşevler
+Bursa#Nilüfer#Çalı
+Bursa#Nilüfer#Ertuğrul
+Bursa#Nilüfer#Görükle
+Bursa#Nilüfer#Hasanağa
+Bursa#Nilüfer#İhsaniye
+Bursa#Nilüfer#İzmiryolboyu
+Bursa#Nilüfer#Konak
+Bursa#Nilüfer#Nilüferköy
+Bursa#Nilüfer#Nosab
+Bursa#Nilüfer#Organizesanayi
+Bursa#Nilüfer#Üçevler
+Bursa#Orhaneli#Orhaneli
+Bursa#Orhangazi#Orhangazi
+Bursa#Osmangazi#Alemdar
+Bursa#Osmangazi#Altıparmak
+Bursa#Osmangazi#Bağlarbaşı
+Bursa#Osmangazi#Bahar
+Bursa#Osmangazi#Balıklı
+Bursa#Osmangazi#Çarşı
+Bursa#Osmangazi#Çekirge
+Bursa#Osmangazi#Demirtaş
+Bursa#Osmangazi#Dosab
+Bursa#Osmangazi#Emek
+Bursa#Osmangazi#Hamitler
+Bursa#Osmangazi#Hisar
+Bursa#Osmangazi#Hüdavendigar
+Bursa#Osmangazi#Hürriyet
+Bursa#Osmangazi#Küplüpınar
+Bursa#Osmangazi#Maksem
+Bursa#Osmangazi#Osmangaziköy
+Bursa#Osmangazi#Ovaakça
+Bursa#Osmangazi#Panayır
+Bursa#Osmangazi#Ulumahalle
+Bursa#Osmangazi#Yunuseli
+Bursa#Yenişehir#Yenişehir
+Bursa#Yıldırım#Arabayatağı
+Bursa#Yıldırım#Beyazıt
+Bursa#Yıldırım#Davutkadı
+Bursa#Yıldırım#Duaçınar
+Bursa#Yıldırım#Esenevler
+Bursa#Yıldırım#Ortabağlar
+Bursa#Yıldırım#Setbaşı
+Bursa#Yıldırım#Yıldırım
+Çanakkale#Ayvacık#Ayvacık
+Çanakkale#Ayvacık#Küçükkuyu
+Çanakkale#Ayvacık#Merkezköyler
+Çanakkale#Bayramiç#Bayramiç
+Çanakkale#Bayramiç#Evciler
+Çanakkale#Bayramiç#Merkezköyler
+Çanakkale#Bayramiç#Yiğitler
+Çanakkale#Biga#Biga
+Çanakkale#Biga#Gümüşçay
+Çanakkale#Biga#Karabiga
+Çanakkale#Biga#Merkezköyler
+Çanakkale#Bozcaada#Bozcaada
+Çanakkale#Çan#Çan
+Çanakkale#Çan#Merkezköyler
+Çanakkale#Eceabat#Eceabat
+Çanakkale#Eceabat#Merkezköyler
+Çanakkale#Ezine#Ezine
+Çanakkale#Ezine#Geyikli
+Çanakkale#Ezine#Merkezköyler
+Çanakkale#Gelibolu#Evreşe
+Çanakkale#Gelibolu#Gelibolu
+Çanakkale#Gelibolu#Merkezköyler
+Çanakkale#Gökçeada#İmroz
+Çanakkale#Gökçeada#Merkezköyler
+Çanakkale#Lapseki#Lapseki
+Çanakkale#Lapseki#Merkezköyler
+Çanakkale#Lapseki#Umurbey
+Çanakkale#Merkez#Barbaros
+Çanakkale#Merkez#Cevatpaşa
+Çanakkale#Merkez#Kepez
+Çanakkale#Merkez#Merkezköyler
+Çanakkale#Yenice#Kalkım
+Çanakkale#Yenice#Merkezköyler
+Çanakkale#Yenice#Yenice
+Çankırı#Atkaracalar#Atkaracalar
+Çankırı#Atkaracalar#Merkezköyler
+Çankırı#Bayramören#Bayramören
+Çankırı#Bayramören#Merkezköyler
+Çankırı#Çerkeş#Çerkeş
+Çankırı#Çerkeş#Merkezköyler
+Çankırı#Eldivan#Eldivan
+Çankırı#Eldivan#Merkezköyler
+Çankırı#Ilgaz#Ilgaz
+Çankırı#Ilgaz#Merkezköyler
+Çankırı#Kızılırmak#Kızılırmak
+Çankırı#Kızılırmak#Merkezköyler
+Çankırı#Korgun#Korgun
+Çankırı#Korgun#Merkezköyler
+Çankırı#Kurşunlu#Kurşunlu
+Çankırı#Kurşunlu#Merkezköyler
+Çankırı#Merkez#Çarşı
+Çankırı#Merkez#Merkezköyler
+Çankırı#Merkez#Taşmescit
+Çankırı#Orta#Merkezköyler
+Çankırı#Orta#Orta
+Çankırı#Şabanözü#Merkezköyler
+Çankırı#Şabanözü#Şabanözü
+Çankırı#Yapraklı#Merkezköyler
+Çankırı#Yapraklı#Yapraklı
+Çorum#Alaca#Alaca
+Çorum#Alaca#Merkezköyler
+Çorum#Bayat#Bayat
+Çorum#Bayat#Merkezköyler
+Çorum#Boğazkale#Boğazkale
+Çorum#Boğazkale#Merkezköyler
+Çorum#Dodurga#Dodurga
+Çorum#Dodurga#Merkezköyler
+Çorum#İskilip#İskilip
+Çorum#İskilip#Merkezköyler
+Çorum#Kargı#Kargı
+Çorum#Kargı#Merkezköyler
+Çorum#Laçin#Laçin
+Çorum#Laçin#Merkezköyler
+Çorum#Mecitözü#Mecitözü
+Çorum#Mecitözü#Merkezköyler
+Çorum#Merkez#Gülabibey
+Çorum#Merkez#Karakeçili
+Çorum#Merkez#Merkezköyler
+Çorum#Merkez#Ulukavak
+Çorum#Merkez#Yeniyol
+Çorum#Oğuzlar#Karaören
+Çorum#Oğuzlar#Merkezköyler
+Çorum#Ortaköy#Ortaköy
+Çorum#Osmancık#Merkezköyler
+Çorum#Osmancık#Osmancık
+Çorum#Sungurlu#Merkezköyler
+Çorum#Sungurlu#Sungurlu
+Çorum#Uğurludağ#Merkezköyler
+Çorum#Uğurludağ#Uğurludağ
+Denizli#Acıpayam#Acıpayam
+Denizli#Babadağ#Babadağ
+Denizli#Baklan#Baklan
+Denizli#Bekilli#Bekilli
+Denizli#Beyağaç#Beyağaç
+Denizli#Bozkurt#Bozkurt
+Denizli#Buldan#Buldan
+Denizli#Çal#Çal
+Denizli#Çameli#Çameli
+Denizli#Çardak#Çardak
+Denizli#Çivril#Çivril
+Denizli#Güney#Güney
+Denizli#Honaz#Honaz
+Denizli#Kale#Kale
+Denizli#Merkezefendi#Adalet
+Denizli#Merkezefendi#Gümüşler
+Denizli#Merkezefendi#Saraylar
+Denizli#Merkezefendi#Sümer
+Denizli#Merkezefendi#Üçler
+Denizli#Merkezefendi#Üzerlik
+Denizli#Pamukkale#Akköy
+Denizli#Pamukkale#Çeşmebaşı
+Denizli#Pamukkale#İstiklal
+Denizli#Pamukkale#Karşıyaka
+Denizli#Pamukkale#Kınıklı
+Denizli#Sarayköy#Sarayköy
+Denizli#Serinhisar#Serinhisar
+Denizli#Tavas#Tavas
+Diyarbakır#Bağlar#Alipınar
+Diyarbakır#Bağlar#Körhat
+Diyarbakır#Bağlar#Selahattineyyubi
+Diyarbakır#Bismil#Bismil
+Diyarbakır#Çermik#Çermik
+Diyarbakır#Çınar#Çınar
+Diyarbakır#Çüngüş#Çüngüş
+Diyarbakır#Dicle#Dicle
+Diyarbakır#Eğil#Eğil
+Diyarbakır#Ergani#Ergani
+Diyarbakır#Hani#Hani
+Diyarbakır#Hazro#Hazro
+Diyarbakır#Kayapınar#Kayapınar
+Diyarbakır#Kocaköy#Kocaköy
+Diyarbakır#Kulp#Kulp
+Diyarbakır#Lice#Lice
+Diyarbakır#Silvan#Silvan
+Diyarbakır#Sur#Balıkçılarbaşı
+Diyarbakır#Sur#Suriçi
+Diyarbakır#Yenişehir#Cumhuriyet
+Diyarbakır#Yenişehir#Şehitlik
+Diyarbakır#Yenişehir#Yenişehir
+Düzce#Akçakoca#Akçakoca
+Düzce#Akçakoca#Merkezköyler
+Düzce#Cumayeri#Cumayeri
+Düzce#Cumayeri#Merkezköyler
+Düzce#Çilimli#Çilimli
+Düzce#Çilimli#Merkezköyler
+Düzce#Gölyaka#Gölyaka
+Düzce#Gölyaka#Merkez köyler
+Düzce#Gümüşova#Gümüşova
+Düzce#Gümüşova#Merkezköyler
+Düzce#Kaynaşlı#Kaynaşlı
+Düzce#Kaynaşlı#Merkezköyler
+Düzce#Merkez#Aziziyegünlü
+Düzce#Merkez#Beyciler
+Düzce#Merkez#Beyköy
+Düzce#Merkez#Boğaziçi
+Düzce#Merkez#Kalıcıkonutlar
+Düzce#Merkez#Konuralp
+Düzce#Yığılca#Merkezköyler
+Düzce#Yığılca#Yığılca
+Edirne#Enez#Enez
+Edirne#Enez#Merkezköyler
+Edirne#Havsa#Hasköy
+Edirne#Havsa#Havsa
+Edirne#Havsa#Merkezköyler
+Edirne#İpsala#İpsala
+Edirne#İpsala#Merkezköyler
+Edirne#Keşan#Keşan
+Edirne#Keşan#Mecidiye
+Edirne#Keşan#Merkezköyler
+Edirne#Keşan#Yerlisu
+Edirne#Lalapaşa#Lalapaşa
+Edirne#Lalapaşa#Merkezköyler
+Edirne#Meriç#Küplü
+Edirne#Meriç#Meriç
+Edirne#Meriç#Merkezköyler
+Edirne#Merkez#Edirne
+Edirne#Merkez#Merkezköyler
+Edirne#Süloğlu#Süloğlu
+Edirne#Uzunköprü#Aşçıoğlu
+Edirne#Uzunköprü#Çöpköy
+Edirne#Uzunköprü#Hamidiye
+Edirne#Uzunköprü#Kırcasalih
+Edirne#Uzunköprü#Merkezköyler
+Edirne#Uzunköprü#Uzunköprü
+Elazığ#Ağın#Ağın
+Elazığ#Ağın#Merkezköyler
+Elazığ#Alacakaya#Alacakaya
+Elazığ#Alacakaya#Merkezköyler
+Elazığ#Arıcak#Arıcak
+Elazığ#Arıcak#Merkezköyler
+Elazığ#Baskil#Baskil
+Elazığ#Baskil#Merkezköyler
+Elazığ#Karakoçan#Karakoçan
+Elazığ#Karakoçan#Merkezköyler
+Elazığ#Keban#Keban
+Elazığ#Keban#Merkezköyler
+Elazığ#Kovancılar#Kovancılar
+Elazığ#Kovancılar#Merkezköyler
+Elazığ#Maden#Maden
+Elazığ#Maden#Merkezköyler
+Elazığ#Merkez#Abdullahpaşa
+Elazığ#Merkez#Aksaray
+Elazığ#Merkez#Doğukent
+Elazığ#Merkez#Hankendi
+Elazığ#Merkez#Harput
+Elazığ#Merkez#İzzetpaşa
+Elazığ#Merkez#Merkezköyler
+Elazığ#Merkez#Mollakendi
+Elazığ#Merkez#Mustafapaşa
+Elazığ#Merkez#Nailbey
+Elazığ#Merkez#Sürsürü
+Elazığ#Palu#Beyhanı
+Elazığ#Palu#Merkezköyler
+Elazığ#Palu#Palu
+Elazığ#Sivrice#Merkezköyler
+Elazığ#Sivrice#Sivrice
+Erzincan#Çayırlı#Çayırlı
+Erzincan#Çayırlı#Merkezköyler
+Erzincan#İliç#İliç
+Erzincan#İliç#Merkezköyler
+Erzincan#Kemah#Kemah
+Erzincan#Kemah#Merkezköyler
+Erzincan#Kemaliye#Başpınar
+Erzincan#Kemaliye#Dutluca
+Erzincan#Kemaliye#Kemaliye
+Erzincan#Kemaliye#Merkezköyler
+Erzincan#Merkez#Akşemsettin
+Erzincan#Merkez#Bahçelievler
+Erzincan#Merkez#Merkezköyler
+Erzincan#Otlukbeli#Otlukbeli
+Erzincan#Refahiye#Merkezköyler
+Erzincan#Refahiye#Refahiye
+Erzincan#Tercan#Merkezköyler
+Erzincan#Tercan#Tercan
+Erzincan#Üzümlü#Altınbaşak
+Erzincan#Üzümlü#Merkezköyler
+Erzincan#Üzümlü#Üzümlü
+Erzurum#Aşkale#Aşkale
+Erzurum#Aziziye#Ilıca
+Erzurum#Çat#Çat
+Erzurum#Hınıs#Hınıs
+Erzurum#Horasan#Horasan
+Erzurum#İspir#İspir
+Erzurum#Karaçoban#Karaçoban
+Erzurum#Karayazı#Karayazı
+Erzurum#Köprüköy#Köprüköy
+Erzurum#Narman#Narman
+Erzurum#Oltu#Oltu
+Erzurum#Olur#Olur
+Erzurum#Palandöken#Palandöken
+Erzurum#Palandöken#Yıldızkent
+Erzurum#Pasinler#Pasinler
+Erzurum#Pazaryolu#Pazaryolu
+Erzurum#Şenkaya#Şenkaya
+Erzurum#Tekman#Tekman
+Erzurum#Tortum#Tortum
+Erzurum#Uzundere#Uzundere
+Erzurum#Yakutiye#Mumcu
+Erzurum#Yakutiye#Terminal
+Erzurum#Yakutiye#Yakutiye
+Eskişehir#Alpu#Alpu
+Eskişehir#Beylikova#Beylikova
+Eskişehir#Çifteler#Çifteler
+Eskişehir#Günyüzü#Günyüzü
+Eskişehir#Han#Han
+Eskişehir#İnönü#İnönü
+Eskişehir#Mahmudiye#Mahmudiye
+Eskişehir#Mihalgazi#Mihalgazi
+Eskişehir#Mihalıççık#Dinek
+Eskişehir#Odunpazarı#Alanönü
+Eskişehir#Odunpazarı#Arifiye
+Eskişehir#Odunpazarı#Büyükdere
+Eskişehir#Odunpazarı#Emek
+Eskişehir#Odunpazarı#Gökmeydan
+Eskişehir#Odunpazarı#Huzur
+Eskişehir#Odunpazarı#Kanlıpınar
+Eskişehir#Odunpazarı#Kurtuluş
+Eskişehir#Odunpazarı#Odunpazarıköy
+Eskişehir#Odunpazarı#Orhangazi
+Eskişehir#Odunpazarı#Sultandere
+Eskişehir#Odunpazarı#Sümer
+Eskişehir#Odunpazarı#Vadişehir
+Eskişehir#Odunpazarı#Vişnelik
+Eskişehir#Odunpazarı#Yenikent
+Eskişehir#Sarıcakaya#Sarıcakaya
+Eskişehir#Seyitgazi#Seyitgazi
+Eskişehir#Sivrihisar#Sivrihisar
+Eskişehir#Tepebaşı#Bahçelievler
+Eskişehir#Tepebaşı#Cumhuriye
+Eskişehir#Tepebaşı#Çamlıca
+Eskişehir#Tepebaşı#Çukurhisar
+Eskişehir#Tepebaşı#Fatih
+Eskişehir#Tepebaşı#Fevziçakmak
+Eskişehir#Tepebaşı#Hacıalibey
+Eskişehir#Tepebaşı#Muttalip
+Eskişehir#Tepebaşı#Sazova
+Eskişehir#Tepebaşı#Tepebaşıköy
+Eskişehir#Tepebaşı#Uluönder
+Eskişehir#Tepebaşı#Yeşiltepe
+Gaziantep#Araban#Araban
+Gaziantep#İslahiye#İslahiye
+Gaziantep#Karkamış#Karkamış
+Gaziantep#Nizip#Nizip
+Gaziantep#Nurdağı#Nurdağı
+Gaziantep#Oğuzeli#Oğuzeli
+Gaziantep#Oğuzeli#Yeşildere
+Gaziantep#Şahinbey#Alaybey
+Gaziantep#Şahinbey#Düztepe
+Gaziantep#Şahinbey#Hoşgör
+Gaziantep#Şahinbey#Karataş
+Gaziantep#Şahinbey#Konak
+Gaziantep#Şahinbey#Perilikaya
+Gaziantep#Şahinbey#Şahinbey
+Gaziantep#Şahinbey#Tabakhane
+Gaziantep#Şehitkamil#Çıksorut
+Gaziantep#Şehitkamil#Emek
+Gaziantep#Şehitkamil#Gazikent
+Gaziantep#Şehitkamil#İbrahimli
+Gaziantep#Şehitkamil#İncilipınar
+Gaziantep#Şehitkamil#Karşıyaka
+Gaziantep#Şehitkamil#Küsget
+Gaziantep#Şehitkamil#Merve
+Gaziantep#Şehitkamil#Organize
+Gaziantep#Şehitkamil#Şehitkamil
+Gaziantep#Yavuzeli#Yavuzeli
+Giresun#Alucra#Alucra
+Giresun#Alucra#Merkezköyler
+Giresun#Bulancak#Bulancak
+Giresun#Bulancak#Kovanlık
+Giresun#Bulancak#Merkezköyler
+Giresun#Çamoluk#Çamoluk
+Giresun#Çamoluk#Merkezköyler
+Giresun#Çanakçı#Çanakçı
+Giresun#Dereli#Dereli
+Giresun#Dereli#Merkezköyler
+Giresun#Doğankent#Doğankent
+Giresun#Doğankent#Merkezköyler
+Giresun#Espiye#Espiye
+Giresun#Espiye#Merkezköyler
+Giresun#Eynesil#Eynesil
+Giresun#Eynesil#Merkezköyler
+Giresun#Görele#Görele
+Giresun#Görele#Merkezköyler
+Giresun#Güce#Güce
+Giresun#Güce#Merkezköyler
+Giresun#Keşap#Keşap
+Giresun#Keşap#Merkezköyler
+Giresun#Merkez#Aksu
+Giresun#Merkez#Batlama
+Giresun#Merkez#Merkezköyler
+Giresun#Piraziz#Piraziz
+Giresun#Şebinkarahisar#Merkezköyler
+Giresun#Şebinkarahisar#Şebinkarahisar
+Giresun#Tirebolu#Merkezköyler
+Giresun#Tirebolu#Tirebolu
+Giresun#Yağlıdere#Merkezköyler
+Giresun#Yağlıdere#Yağlıdere
+Gümüşhane#Kelkit#Kelkit
+Gümüşhane#Kelkit#Merkezköyler
+Gümüşhane#Köse#Köse
+Gümüşhane#Köse#Merkezköyler
+Gümüşhane#Kürtün#Kürtün
+Gümüşhane#Kürtün#Merkezköyler
+Gümüşhane#Merkez#Gümüşhane
+Gümüşhane#Merkez#Merkezköyler
+Gümüşhane#Şiran#Şiran
+Gümüşhane#Torul#Merkezköyler
+Gümüşhane#Torul#Torul
+Hakkari#Çukurca#Çığlı
+Hakkari#Çukurca#Çukurca
+Hakkari#Çukurca#Merkezköyler
+Hakkari#Derecik#Derecik
+Hakkari#Derecik#Merkezköyler
+Hakkari#Merkez#Hakkari
+Hakkari#Merkez#Merkezköyler
+Hakkari#Şemdinli#Şemdinli
+Hakkari#Yüksekova#Esendere
+Hakkari#Yüksekova#Merkezköyler
+Hakkari#Yüksekova#Yüksekova
+Hatay#Altınözü#Altınözü
+Hatay#Antakya#Esentepe
+Hatay#Antakya#Haraparası
+Hatay#Antakya#Kanatlı
+Hatay#Antakya#Kışlasaray
+Hatay#Arsuz#Arsuz
+Hatay#Arsuz#Karaağaç
+Hatay#Belen#Belen
+Hatay#Defne#Defne
+Hatay#Dörtyol#Dörtyol
+Hatay#Erzin#Erzin
+Hatay#Hassa#Hassa
+Hatay#İskenderun#Azganlık
+Hatay#İskenderun#Cumhuriyet
+Hatay#İskenderun#Meydan
+Hatay#İskenderun#Sanayi
+Hatay#İskenderun#Tepeler
+Hatay#Kırıkhan#Kırıkhan
+Hatay#Kumlu#Kumlu
+Hatay#Payas#Payas
+Hatay#Reyhanlı#Reyhanlı
+Hatay#Samandağ#Samandağ
+Hatay#Yayladağı#Yayladağı
+Iğdır#Aralık#Aralık
+Iğdır#Aralık#Merkezköyler
+Iğdır#Karakoyunlu#Karakoyunlu
+Iğdır#Karakoyunlu#Merkezköyler
+Iğdır#Merkez#Iğdır
+Iğdır#Merkez#Merkezköyler
+Iğdır#Tuzluca#Tuzluca
+Isparta#Aksu#Aksu
+Isparta#Aksu#Merkezköyler
+Isparta#Atabey#Atabey
+Isparta#Atabey#Merkezköyler
+Isparta#Eğirdir#Eğirdir
+Isparta#Eğirdir#Merkezköyler
+Isparta#Gelendost#Gelendost
+Isparta#Gelendost#Merkezköyler
+Isparta#Gönen#Gönen
+Isparta#Gönen#Merkezköyler
+Isparta#Keçiborlu#Keçiborlu
+Isparta#Keçiborlu#Merkezköyler
+Isparta#Merkez#Çelebıler
+Isparta#Merkez#Kepeci
+Isparta#Merkez#Kutlubey
+Isparta#Merkez#Merkezköyler
+Isparta#Merkez#Sanayi
+Isparta#Senirkent#Merkezköyler
+Isparta#Senirkent#Senirkent
+Isparta#Sütçüler#Merkezköyler
+Isparta#Sütçüler#Sütçüler
+Isparta#Şarkikaraağaç#Merkezköyler
+Isparta#Şarkikaraağaç#Şarkikaraağaç
+Isparta#Uluborlu#Merkezköyler
+Isparta#Uluborlu#Uluborlu
+Isparta#Yalvaç#Merkezköyler
+Isparta#Yalvaç#Yalvaç
+Isparta#Yenişarbademli#Merkezköyler
+Isparta#Yenişarbademli#Yenişarbademli
+İstanbul#Adalar#Burgazada
+İstanbul#Adalar#Büyükada
+İstanbul#Adalar#Heybeliada
+İstanbul#Adalar#Kınalıada
+İstanbul#Arnavutköy#Arnavutköy
+İstanbul#Arnavutköy#Baklalı
+İstanbul#Arnavutköy#Boğazköy
+İstanbul#Arnavutköy#Bolluca
+İstanbul#Arnavutköy#Hadımköy
+İstanbul#Arnavutköy#Haraççı
+İstanbul#Arnavutköy#Taşoluk
+İstanbul#Ataşehir#Atatürk
+İstanbul#Ataşehir#Ferhatpaşa
+İstanbul#Ataşehir#İçerenköy
+İstanbul#Ataşehir#Kayışdağı
+İstanbul#Ataşehir#Küçükbakkalköy
+İstanbul#Ataşehir#Mustafakemal
+İstanbul#Ataşehir#Örnek
+İstanbul#Ataşehir#Yeniçamlıca
+İstanbul#Ataşehir#Yenisahra
+İstanbul#Avcılar#Ambarlı
+İstanbul#Avcılar#Avcılar
+İstanbul#Avcılar#Firuzköy
+İstanbul#Avcılar#Gümüşpala
+İstanbul#Bağcılar#Bağcılar
+İstanbul#Bağcılar#Güneşli
+İstanbul#Bağcılar#Mahmutbey
+İstanbul#Bahçelievler#Bahçelievler
+İstanbul#Bahçelievler#Şirinevler
+İstanbul#Bahçelievler#Yenibosna
+İstanbul#Bakırköy#Ataköy
+İstanbul#Bakırköy#Cevizlik
+İstanbul#Bakırköy#Florya
+İstanbul#Bakırköy#Kartaltepe
+İstanbul#Bakırköy#Osmaniye
+İstanbul#Bakırköy#Yeşilköy
+İstanbul#Bakırköy#Zeytinlik
+İstanbul#Bakırköy#Zuhuratbaba
+İstanbul#Başakşehir#Altınşehir
+İstanbul#Başakşehir#Bahçeşehir
+İstanbul#Başakşehir#Başakşehir
+İstanbul#Başakşehir#İkitelli
+İstanbul#Başakşehir#Şamlar
+İstanbul#Bayrampaşa#Altıntepsi
+İstanbul#Bayrampaşa#Muratpaşa
+İstanbul#Bayrampaşa#Numunebağ
+İstanbul#Bayrampaşa#Yıldırım
+İstanbul#Beşiktaş#Abbasağa
+İstanbul#Beşiktaş#Akatlar
+İstanbul#Beşiktaş#Arnavutköy
+İstanbul#Beşiktaş#Bebek
+İstanbul#Beşiktaş#Etiler
+İstanbul#Beşiktaş#Gayrettepe
+İstanbul#Beşiktaş#Levazım
+İstanbul#Beşiktaş#Levent
+İstanbul#Beşiktaş#Ortaköy
+İstanbul#Beşiktaş#Türkali
+İstanbul#Beykoz#Anadoluhisarı
+İstanbul#Beykoz#Beykoz
+İstanbul#Beykoz#Çavuşbaşı
+İstanbul#Beykoz#Çubuklu
+İstanbul#Beykoz#Göksu
+İstanbul#Beykoz#Paşabahçe
+İstanbul#Beykoz#Polonezköy
+İstanbul#Beykoz#Tokatköy
+İstanbul#Beylikdüzü#Beylikdüzü
+İstanbul#Beylikdüzü#Gürpınar
+İstanbul#Beylikdüzü#Yakuplu
+İstanbul#Beyoğlu#Arapcami
+İstanbul#Beyoğlu#Cihangir
+İstanbul#Beyoğlu#Halıcıoğlu
+İstanbul#Beyoğlu#İstiklal
+İstanbul#Beyoğlu#Kasımpaşa
+İstanbul#Beyoğlu#Kemankeş
+İstanbul#Beyoğlu#Pürtelaş
+İstanbul#Beyoğlu#Taksim
+İstanbul#Beyoğlu#Tarlabaşı
+İstanbul#Büyükçekmece#Büyükçekmece
+İstanbul#Büyükçekmece#Celaliye
+İstanbul#Büyükçekmece#Kumburgaz
+İstanbul#Büyükçekmece#Mimarsinan
+İstanbul#Büyükçekmece#Tepecik
+İstanbul#Çatalca#Çatalca
+İstanbul#Çekmeköy#Alemdağ
+İstanbul#Çekmeköy#Çekmeköy
+İstanbul#Çekmeköy#Ömerli
+İstanbul#Çekmeköy#Taşdelen
+İstanbul#Esenler#Atışalanı
+İstanbul#Esenler#Esenler
+İstanbul#Esenler#Karabayır
+İstanbul#Esenler#Sanayi
+İstanbul#Esenyurt#Esenyurt
+İstanbul#Esenyurt#İncirtepe
+İstanbul#Esenyurt#Kıraç
+İstanbul#Esenyurt#Mehterçeşme
+İstanbul#Esenyurt#Saadetdere
+İstanbul#Esenyurt#Sanayi
+İstanbul#Eyüpsultan#Alibeyköy
+İstanbul#Eyüpsultan#Çırçır
+İstanbul#Eyüpsultan#Eyüp
+İstanbul#Eyüpsultan#Göktürk
+İstanbul#Eyüpsultan#Işıklar
+İstanbul#Eyüpsultan#Kemerburgaz
+İstanbul#Eyüpsultan#Rami
+İstanbul#Eyüpsultan#Yeşilpınar
+İstanbul#Fatih#Aksaray
+İstanbul#Fatih#Balat
+İstanbul#Fatih#Bayazıt
+İstanbul#Fatih#Eminönü
+İstanbul#Fatih#İskenderpaşa
+İstanbul#Fatih#Karagümrük
+İstanbul#Fatih#Kocamustafapaşa
+İstanbul#Fatih#Kumkapı
+İstanbul#Fatih#Mahmutpaşa
+İstanbul#Fatih#Sirkeci
+İstanbul#Fatih#Sultanahmet
+İstanbul#Fatih#Şehremini
+İstanbul#Fatih#Tahtakale
+İstanbul#Fatih#Topkapı
+İstanbul#Fatih#Vefa
+İstanbul#Fatih#Yedikule
+İstanbul#Fatih#Zeyrek
+İstanbul#Gaziosmanpaşa#Gaziosmanpaşa
+İstanbul#Gaziosmanpaşa#Küçükköy
+İstanbul#Gaziosmanpaşa#Mevlana
+İstanbul#Gaziosmanpaşa#Yıldıztabya
+İstanbul#Güngören#Akıncılar
+İstanbul#Güngören#Güngören
+İstanbul#Güngören#Sanayi
+İstanbul#Güngören#Tozkoparan
+İstanbul#Kadıköy#Bostancı
+İstanbul#Kadıköy#Caddebostan
+İstanbul#Kadıköy#Caferağa
+İstanbul#Kadıköy#Eğitim
+İstanbul#Kadıköy#Erenköy
+İstanbul#Kadıköy#Fenerbahçe
+İstanbul#Kadıköy#Feneryolu
+İstanbul#Kadıköy#Fikirtepe
+İstanbul#Kadıköy#Göztepe
+İstanbul#Kadıköy#Koşuyolu
+İstanbul#Kadıköy#Kozyatağı
+İstanbul#Kadıköy#Merdivenköy
+İstanbul#Kadıköy#Ondokuzmayıs
+İstanbul#Kadıköy#Osmanağa
+İstanbul#Kadıköy#Rasimpaşa
+İstanbul#Kadıköy#Sahrayıcedit
+İstanbul#Kadıköy#Suadiye
+İstanbul#Kağıthane#Çağlayan
+İstanbul#Kağıthane#Çeliktepe
+İstanbul#Kağıthane#Gültepe
+İstanbul#Kağıthane#Gürsel
+İstanbul#Kağıthane#Hamidiye
+İstanbul#Kağıthane#Kağıthane merkez
+İstanbul#Kağıthane#Seyrantepe
+İstanbul#Kağıthane#Şirintepe
+İstanbul#Kartal#Atalar
+İstanbul#Kartal#Esentepe
+İstanbul#Kartal#Kartal
+İstanbul#Kartal#Orhantepe
+İstanbul#Kartal#Soğanlık
+İstanbul#Kartal#Topselvi
+İstanbul#Kartal#Uğur mumcu
+İstanbul#Kartal#Yakacık
+İstanbul#Küçükçekmece#Atakent
+İstanbul#Küçükçekmece#Halkalı
+İstanbul#Küçükçekmece#Küçükçekmece
+İstanbul#Küçükçekmece#Sefaköy
+İstanbul#Maltepe#Aydınevler
+İstanbul#Maltepe#Büyükbakkalköy
+İstanbul#Maltepe#Cevizli
+İstanbul#Maltepe#Feyzullah
+İstanbul#Maltepe#Gülsuyu
+İstanbul#Maltepe#İdealtepe
+İstanbul#Maltepe#Küçükyalı
+İstanbul#Maltepe#Yalı
+İstanbul#Maltepe#Zümrütevler
+İstanbul#Pendik#Bahçelievler
+İstanbul#Pendik#Çamçeşme
+İstanbul#Pendik#Çarşı
+İstanbul#Pendik#Çınardere
+İstanbul#Pendik#Esenyalı
+İstanbul#Pendik#Kurna
+İstanbul#Pendik#Şeyhli
+İstanbul#Pendik#Yayalar
+İstanbul#Pendik#Yenişehir
+İstanbul#Sancaktepe#Eyüpsultan
+İstanbul#Sancaktepe#Osmangazi
+İstanbul#Sancaktepe#Sarıgazi
+İstanbul#Sancaktepe#Yenidoğan
+İstanbul#Sarıyer#Bahçeköy
+İstanbul#Sarıyer#Büyükdere
+İstanbul#Sarıyer#Emirgan
+İstanbul#Sarıyer#İstinye
+İstanbul#Sarıyer#Maslak
+İstanbul#Sarıyer#Rumelihisarı
+İstanbul#Sarıyer#Sarıyer
+İstanbul#Sarıyer#Tarabya
+İstanbul#Sarıyer#Yeniköy
+İstanbul#Silivri#Büyükçavuşlu
+İstanbul#Silivri#Çanta
+İstanbul#Silivri#Değirmenköy
+İstanbul#Silivri#Fener
+İstanbul#Silivri#Gümüşyaka
+İstanbul#Silivri#Kavaklı
+İstanbul#Silivri#Ortaköy
+İstanbul#Silivri#Selimpaşa
+İstanbul#Silivri#Silivri
+İstanbul#Sultanbeyli#Mehmetakif
+İstanbul#Sultanbeyli#Mimarsinan
+İstanbul#Sultanbeyli#Necipfazıl
+İstanbul#Sultanbeyli#Turgutreis
+İstanbul#Sultangazi#Sultançiftliği
+İstanbul#Sultangazi#Sultangazi
+İstanbul#Sultangazi#Zübeydehanım
+İstanbul#Şile#Ağva
+İstanbul#Şile#Ahmetli
+İstanbul#Şile#Şile
+İstanbul#Şişli#Bozkurt
+İstanbul#Şişli#Cumhuriyet
+İstanbul#Şişli#Duatepe
+İstanbul#Şişli#Esentepe
+İstanbul#Şişli#Feriköy
+İstanbul#Şişli#Halaskargazi
+İstanbul#Şişli#Harbiye
+İstanbul#Şişli#Mecidiyeköy
+İstanbul#Şişli#Meşrutiyet
+İstanbul#Şişli#Okmeydanı
+İstanbul#Şişli#Pangaltı
+İstanbul#Şişli#Teşvikiye
+İstanbul#Tuzla#Akfırat
+İstanbul#Tuzla#Aydınlı
+İstanbul#Tuzla#Çarşı
+İstanbul#Tuzla#İçmeler
+İstanbul#Tuzla#Mimarsinan
+İstanbul#Tuzla#Orhanlı
+İstanbul#Tuzla#Tersaneler
+İstanbul#Ümraniye#Aşağıdudullu
+İstanbul#Ümraniye#Atakent
+İstanbul#Ümraniye#Atatürk
+İstanbul#Ümraniye#Çakmak
+İstanbul#Ümraniye#Esenşehir
+İstanbul#Ümraniye#Ihlamurkuyu
+İstanbul#Ümraniye#İnkılap
+İstanbul#Ümraniye#Kazımkarabekir
+İstanbul#Ümraniye#Namıkkemal
+İstanbul#Ümraniye#Yukarıdudullu
+İstanbul#Üsküdar#Acıbadem
+İstanbul#Üsküdar#Altunizade
+İstanbul#Üsküdar#Bahçelievler
+İstanbul#Üsküdar#Beylerbeyi
+İstanbul#Üsküdar#Bulgurlu
+İstanbul#Üsküdar#Cumhuriyet
+İstanbul#Üsküdar#Çengelköy
+İstanbul#Üsküdar#Ferah
+İstanbul#Üsküdar#Kandilli
+İstanbul#Üsküdar#Kirazlıtepe
+İstanbul#Üsküdar#Kuzguncuk
+İstanbul#Üsküdar#Mimarsinan
+İstanbul#Üsküdar#Muratreis
+İstanbul#Üsküdar#Selimiye
+İstanbul#Üsküdar#Ünalan
+İstanbul#Üsküdar#Yavuztürk
+İstanbul#Zeytinburnu#Çırpıcı
+İstanbul#Zeytinburnu#Seyitnizam
+İstanbul#Zeytinburnu#Telsiz
+İstanbul#Zeytinburnu#Topkapı
+İzmir#Aliağa#Aliağa
+İzmir#Aliağa#Helvacı
+İzmir#Balçova#Balçova
+İzmir#Bayındır#Bayındır
+İzmir#Bayındır#Canlı
+İzmir#Bayındır#Çırpı
+İzmir#Bayraklı#Alpaslan
+İzmir#Bayraklı#Bayraklı
+İzmir#Bayraklı#Gümüşpala
+İzmir#Bayraklı#Manavkuyu
+İzmir#Bayraklı#Soğukkuyu
+İzmir#Bergama#Bergama
+İzmir#Beydağ#Beydağ
+İzmir#Bornova#Altındağ
+İzmir#Bornova#Atatürk
+İzmir#Bornova#Bornova
+İzmir#Bornova#Çamdibi
+İzmir#Bornova#Işıkkent
+İzmir#Bornova#Kazımdirik
+İzmir#Bornova#Naldöken
+İzmir#Bornova#Pınarbaşı
+İzmir#Buca#Buca
+İzmir#Buca#Evka1
+İzmir#Buca#İşçievleri
+İzmir#Buca#Kaynaklar
+İzmir#Buca#Şirinyer
+İzmir#Çeşme#Alaçatı
+İzmir#Çeşme#Çeşme
+İzmir#Çeşme#Dalyan
+İzmir#Çiğli#Büyükçiğli
+İzmir#Çiğli#Çiğli
+İzmir#Çiğli#Egekent
+İzmir#Çiğli#Harmandalı
+İzmir#Dikili#Dikili
+İzmir#Foça#Bağarası
+İzmir#Foça#Foça
+İzmir#Foça#Yenifoça
+İzmir#Gaziemir#Gaziemir
+İzmir#Güzelbahçe#Güzelbahçe
+İzmir#Karabağlar#Fahrettinaltay
+İzmir#Karabağlar#Hatay
+İzmir#Karabağlar#Karabağlar
+İzmir#Karabağlar#Kibar
+İzmir#Karabağlar#Yeşilyurt
+İzmir#Karabağlar#Zincirlikuyu
+İzmir#Karaburun#Karaburun
+İzmir#Karaburun#Mordoğan
+İzmir#Karşıyaka#Alaybey
+İzmir#Karşıyaka#Cumhuriyet
+İzmir#Karşıyaka#Denizbostanlısı
+İzmir#Karşıyaka#İmbatlı
+İzmir#Karşıyaka#Karşıyaka
+İzmir#Karşıyaka#Nergiz
+İzmir#Karşıyaka#Yalı
+İzmir#Kemalpaşa#Armutlu
+İzmir#Kemalpaşa#Bağyurdu
+İzmir#Kemalpaşa#Kemalpaşa
+İzmir#Kemalpaşa#Ören
+İzmir#Kemalpaşa#Ulucak
+İzmir#Kınık#Kınık
+İzmir#Kiraz#Kiraz
+İzmir#Konak#Alsancak
+İzmir#Konak#Basmane
+İzmir#Konak#Eşrefpaşa
+İzmir#Konak#Gültepe
+İzmir#Konak#Gürçeşme
+İzmir#Konak#Güzelyalı
+İzmir#Konak#Kahramanlar
+İzmir#Konak#Kemeraltı
+İzmir#Konak#Konak
+İzmir#Konak#Küçükyalı
+İzmir#Konak#Pasaport
+İzmir#Konak#Yenişehir
+İzmir#Menderes#Ataköy
+İzmir#Menderes#Değirmendere
+İzmir#Menderes#Develi
+İzmir#Menderes#Görece
+İzmir#Menderes#Gümüldür
+İzmir#Menderes#Kısık
+İzmir#Menderes#Menderes
+İzmir#Menderes#Özdere
+İzmir#Menderes#Tekeli
+İzmir#Menemen#Menemen
+İzmir#Narlıdere#Narlıdere
+İzmir#Ödemiş#Ödemiş
+İzmir#Seferihisar#Doğanbey
+İzmir#Seferihisar#Seferihisar
+İzmir#Seferihisar#Ürkmez
+İzmir#Selçuk#Selçuk
+İzmir#Tire#Tire
+İzmir#Torbalı#Ayrancılar
+İzmir#Torbalı#Çaybaşı
+İzmir#Torbalı#Pancar
+İzmir#Torbalı#Subaşı
+İzmir#Torbalı#Torbalı
+İzmir#Torbalı#Yazıbaşı
+İzmir#Torbalı#Yeniköyosb
+İzmir#Urla#Bademler
+İzmir#Urla#Balıklıova
+İzmir#Urla#Çeşmealtı
+İzmir#Urla#İskele
+İzmir#Urla#İyte
+İzmir#Urla#Kuşçular
+İzmir#Urla#Özbek
+İzmir#Urla#Urla
+İzmir#Urla#Zeytinalanı
+Kahramanmaraş#Afşin#Afşin
+Kahramanmaraş#Andırın#Andırın
+Kahramanmaraş#Andırın#Çokak
+Kahramanmaraş#Çağlayancerit#Çağlayancerit
+Kahramanmaraş#Dulkadiroğlu#Adliye
+Kahramanmaraş#Dulkadiroğlu#Ağabeyli
+Kahramanmaraş#Dulkadiroğlu#Sanayi
+Kahramanmaraş#Dulkadiroğlu#Sütçüimam
+Kahramanmaraş#Ekinözü#Ekinözü
+Kahramanmaraş#Elbistan#Elbistan
+Kahramanmaraş#Göksun#Göksun
+Kahramanmaraş#Nurhak#Nurhak
+Kahramanmaraş#Onikişubat#Binevler
+Kahramanmaraş#Onikişubat#Hacıbayram
+Kahramanmaraş#Onikişubat#Süleymanlı
+Kahramanmaraş#Pazarcık#Pazarcık
+Kahramanmaraş#Türkoğlu#Türkoğlu
+Karabük#Eflani#Eflani
+Karabük#Eflani#Merkezköyler
+Karabük#Eskipazar#Eskipazar
+Karabük#Eskipazar#Merkezköyler
+Karabük#Merkez#100.yıl
+Karabük#Merkez#Bayır
+Karabük#Merkez#Beşbinevler
+Karabük#Merkez#Kayabaşı
+Karabük#Merkez#Merkezköyler
+Karabük#Merkez#Yenişehir
+Karabük#Ovacık#Merkezköyler
+Karabük#Ovacık#Ovacık
+Karabük#Safranbolu#Merkezköyler
+Karabük#Safranbolu#Safranbolu
+Karabük#Yenice#Merkezköyler
+Karabük#Yenice#Yenice
+Karaman#Ayrancı#Ayrancı
+Karaman#Ayrancı#Merkezköyler
+Karaman#Başyayla#Başyayla
+Karaman#Başyayla#Merkezköyler
+Karaman#Ermenek#Ermenek
+Karaman#Ermenek#Kazancı
+Karaman#Ermenek#Merkezköyler
+Karaman#Kazımkarabekir#Kazımkarabekir
+Karaman#Kazımkarabekir#Merkezköyler
+Karaman#Merkez#Akçaşehir
+Karaman#Merkez#Hisar
+Karaman#Merkez#Merkezköyler
+Karaman#Merkez#Sudurağı
+Karaman#Merkez#Sümer
+Karaman#Sarıveliler#Göktepe
+Karaman#Sarıveliler#Merkezköyler
+Karaman#Sarıveliler#Sarıveliler
+Kars#Akyaka#Akyaka
+Kars#Akyaka#Merkezköyler
+Kars#Arpaçay#Arpaçay
+Kars#Arpaçay#Merkezköyler
+Kars#Digor#Digor
+Kars#Digor#Merkezköyler
+Kars#Kağızman#Kağızman
+Kars#Kağızman#Merkezköyler
+Kars#Merkez#Kars
+Kars#Merkez#Merkezköyler
+Kars#Sarıkamış#Sarıkamış
+Kars#Selim#Merkezköyler
+Kars#Selim#Selim
+Kars#Susuz#Merkezköyler
+Kars#Susuz#Susuz
+Kastamonu#Abana#Abana
+Kastamonu#Abana#Merkezköyler
+Kastamonu#Ağlı#Ağlı
+Kastamonu#Ağlı#Merkezköyler
+Kastamonu#Araç#Araç
+Kastamonu#Araç#Merkezköyler
+Kastamonu#Azdavay#Azdavay
+Kastamonu#Azdavay#Merkezköyler
+Kastamonu#Bozkurt#Bozkurt
+Kastamonu#Bozkurt#Merkezköyler
+Kastamonu#Cide#Cide
+Kastamonu#Cide#Merkezköyler
+Kastamonu#Çatalzeytin#Çatalzeytin
+Kastamonu#Çatalzeytin#Merkezköyler
+Kastamonu#Daday#Daday
+Kastamonu#Daday#Merkezköyler
+Kastamonu#Devrekani#Devrekani
+Kastamonu#Devrekani#Merkezköyler
+Kastamonu#Doğanyurt#Doğanyurt
+Kastamonu#Doğanyurt#Merkezköyler
+Kastamonu#Hanönü#Gökçeağaç
+Kastamonu#Hanönü#Merkezköyler
+Kastamonu#İhsangazi#İhsangazi
+Kastamonu#İhsangazi#Merkezköyler
+Kastamonu#İnebolu#İnebolu
+Kastamonu#İnebolu#Merkezköyler
+Kastamonu#Küre#Küre
+Kastamonu#Küre#Merkezköyler
+Kastamonu#Merkez#Akmescit
+Kastamonu#Merkez#Cebrail
+Kastamonu#Merkez#Kuzeykent
+Kastamonu#Merkez#Merkezköyler
+Kastamonu#Pınarbaşı#Pınarbaşı
+Kastamonu#Seydiler#Merkezköyler
+Kastamonu#Seydiler#Seydiler
+Kastamonu#Şenpazar#Merkezköyler
+Kastamonu#Şenpazar#Şenpazar
+Kastamonu#Taşköprü#Merkezköyler
+Kastamonu#Taşköprü#Taşköprü
+Kastamonu#Tosya#Merkezköyler
+Kastamonu#Tosya#Tosya
+Kayseri#Akkışla#Akkışla
+Kayseri#Bünyan#Bünyan
+Kayseri#Develi#Develi
+Kayseri#Felahiye#Felahiye
+Kayseri#Hacılar#Hacılar
+Kayseri#Hacılar#Hacılar köyler
+Kayseri#İncesu#İncesu
+Kayseri#Kocasinan#Ankarayoluköyler
+Kayseri#Kocasinan#Argıncık
+Kayseri#Kocasinan#Beyazşehir
+Kayseri#Kocasinan#Erkilet
+Kayseri#Kocasinan#Erkilet köyler
+Kayseri#Kocasinan#Fevzi çakmak
+Kayseri#Kocasinan#Güneşli
+Kayseri#Kocasinan#Kazım karabekir
+Kayseri#Kocasinan#Sanayi
+Kayseri#Kocasinan#Valilik
+Kayseri#Kocasinan#Yeni mahalle
+Kayseri#Kocasinan#Yenişehir
+Kayseri#Melikgazi#Battalgazi
+Kayseri#Melikgazi#Belsin
+Kayseri#Melikgazi#Çarşı
+Kayseri#Melikgazi#Gesi
+Kayseri#Melikgazi#Gürpınar
+Kayseri#Melikgazi#Hisarcık
+Kayseri#Melikgazi#Hürriyet
+Kayseri#Melikgazi#İldem
+Kayseri#Melikgazi#Kazım karabekir
+Kayseri#Melikgazi#Kılıçaslan
+Kayseri#Melikgazi#Mimarsinan
+Kayseri#Özvatan#Çukur
+Kayseri#Pınarbaşı#Pınarbaşı
+Kayseri#Sarıoğlan#Sarıoğlan
+Kayseri#Sarız#Sarız
+Kayseri#Talas#Talas
+Kayseri#Talas#Talas köyler
+Kayseri#Tomarza#Tomarza
+Kayseri#Yahyalı#Yahyalı
+Kayseri#Yeşilhisar#Yeşilhisar
+Kırıkkale#Bahşılı#Bahşılı
+Kırıkkale#Bahşılı#Merkezköyler
+Kırıkkale#Balışeyh#Balışeyh
+Kırıkkale#Balışeyh#Merkezköyler
+Kırıkkale#Çelebi#Çelebi
+Kırıkkale#Çelebi#Merkezköyler
+Kırıkkale#Delice#Delice
+Kırıkkale#Delice#Merkezköyler
+Kırıkkale#Karakeçili#Karakeçili
+Kırıkkale#Karakeçili#Merkezköyler
+Kırıkkale#Keskin#Keskin
+Kırıkkale#Keskin#Merkezköyler
+Kırıkkale#Merkez#Fabrikalar
+Kırıkkale#Merkez#Merkezköyler
+Kırıkkale#Merkez#Sanayi
+Kırıkkale#Merkez#Tepebaşı
+Kırıkkale#Merkez#Yuva
+Kırıkkale#Sulakyurt#Merkezköyler
+Kırıkkale#Sulakyurt#Sulakyurt
+Kırıkkale#Yahşihan#Merkezköyler
+Kırıkkale#Yahşihan#Yahşihan
+Kırklareli#Babaeski#Alpullu
+Kırklareli#Babaeski#Babaeski
+Kırklareli#Babaeski#Merkezköyler
+Kırklareli#Demirköy#Demirköy
+Kırklareli#Demirköy#İğneada
+Kırklareli#Demirköy#Merkezköyler
+Kırklareli#Kofçaz#Kofçaz
+Kırklareli#Kofçaz#Merkezköyler
+Kırklareli#Lüleburgaz#Ahmetbey
+Kırklareli#Lüleburgaz#Büyükkarıştıran
+Kırklareli#Lüleburgaz#Evrensekiz
+Kırklareli#Lüleburgaz#Lüleburgaz
+Kırklareli#Lüleburgaz#Merkezköyler
+Kırklareli#Merkez#Dereköy
+Kırklareli#Merkez#İnece
+Kırklareli#Merkez#Kırklareli
+Kırklareli#Merkez#Merkezköyler
+Kırklareli#Merkez#Üsküp
+Kırklareli#Pehlivanköy#Merkezköyler
+Kırklareli#Pehlivanköy#Pehlivanköy
+Kırklareli#Pınarhisar#Merkezköyler
+Kırklareli#Pınarhisar#Pınarhisar
+Kırklareli#Vize#Merkezköyler
+Kırklareli#Vize#Sergen
+Kırklareli#Vize#Vize
+Kırşehir#Akçakent#Akçakent
+Kırşehir#Akçakent#Kösefakılı
+Kırşehir#Akçakent#Merkezköyler
+Kırşehir#Akpınar#Akpınar
+Kırşehir#Akpınar#Merkezköyler
+Kırşehir#Boztepe#Boztepe
+Kırşehir#Boztepe#Merkezköyler
+Kırşehir#Çiçekdağı#Çiçekdağı
+Kırşehir#Çiçekdağı#Merkezköyler
+Kırşehir#Kaman#Kaman
+Kırşehir#Kaman#Merkezköyler
+Kırşehir#Merkez#Çarşı
+Kırşehir#Merkez#Merkezköyler
+Kırşehir#Mucur#Mucur
+Kilis#Elbeyli#Elbeyli
+Kilis#Elbeyli#Merkezköyler
+Kilis#Merkez#Kilis
+Kilis#Merkez#Merkezköyler
+Kilis#Musabeyli#Musabeyli
+Kilis#Polateli#Merkezköyler
+Kilis#Polateli#Polateli
+Kocaeli#Başiskele#Bahçecik
+Kocaeli#Başiskele#Başiskele
+Kocaeli#Başiskele#Kullar
+Kocaeli#Başiskele#Seymen
+Kocaeli#Başiskele#Yeniköy
+Kocaeli#Başiskele#Yuvacık
+Kocaeli#Çayırova#Çayırova
+Kocaeli#Darıca#Darıca
+Kocaeli#Derince#Derince
+Kocaeli#Dilovası#Dilovası
+Kocaeli#Gebze#Gebze
+Kocaeli#Gölcük#Değirmendere
+Kocaeli#Gölcük#Gölcük
+Kocaeli#İzmit#Alikahya
+Kocaeli#İzmit#Çarşı
+Kocaeli#İzmit#Gündoğdu
+Kocaeli#İzmit#İzmit
+Kocaeli#İzmit#Sahil
+Kocaeli#İzmit#Saraybahçe
+Kocaeli#İzmit#Yenidoğan
+Kocaeli#İzmit#Yenişehir
+Kocaeli#Kandıra#Kandıra
+Kocaeli#Karamürsel#Karamürsel
+Kocaeli#Kartepe#Arslanbey
+Kocaeli#Kartepe#Büyükderbent
+Kocaeli#Kartepe#Köseköy
+Kocaeli#Kartepe#Maşukiye
+Kocaeli#Kartepe#Suadiye
+Kocaeli#Kartepe#Uzunçiftlik
+Kocaeli#Kartepe#Uzuntarla
+Kocaeli#Körfez#Hereke
+Kocaeli#Körfez#Körfez
+Konya#Ahırlı#Ahırlı
+Konya#Ahırlı#Akkise
+Konya#Akören#Akören
+Konya#Akşehir#Akşehir
+Konya#Akşehir#Kızılca
+Konya#Akşehir#Nasreddin
+Konya#Altınekin#Altınekin
+Konya#Beyşehir#Beyşehir
+Konya#Beyşehir#Hamidiye
+Konya#Bozkır#Bozkır
+Konya#Cihanbeyli#Cihanbeyli
+Konya#Cihanbeyli#Cumhuriyet
+Konya#Cihanbeyli#Yeniceoba
+Konya#Çeltik#Çeltik
+Konya#Çumra#Bardakçı
+Konya#Çumra#Çumra
+Konya#Çumra#İçeri çumra
+Konya#Derbent#Derbent
+Konya#Derebucak#Derebucak
+Konya#Doğanhisar#Başköy
+Konya#Doğanhisar#Doğanhisar
+Konya#Doğanhisar#Karaağa
+Konya#Emirgazi#Emirgazi
+Konya#Ereğli#Ereğli
+Konya#Ereğli#Gülbahçe
+Konya#Ereğli#Sümer
+Konya#Güneysınır#Güneysınır
+Konya#Hadim#Hadim
+Konya#Halkapınar#Halkapınar
+Konya#Hüyük#Hüyük
+Konya#Hüyük#İmrenler
+Konya#Hüyük#Kıreli
+Konya#Ilgın#Argıthanı
+Konya#Ilgın#Camiatik
+Konya#Ilgın#Çiğil
+Konya#Ilgın#Ilgın
+Konya#Kadınhanı#Kadınhanı
+Konya#Karapınar#Karapınar
+Konya#Karatay#Erenler
+Konya#Karatay#Fevziçakmak
+Konya#Karatay#Karatay
+Konya#Karatay#Mevlana
+Konya#Karatay#Selimiye
+Konya#Kulu#Alparslan
+Konya#Kulu#Kulu
+Konya#Kulu#Ömeranlı
+Konya#Meram#Alaaddin
+Konya#Meram#Gödene
+Konya#Meram#Kaşınhanı
+Konya#Meram#Lalebahçe
+Konya#Meram#Meram
+Konya#Meram#Taşcami
+Konya#Meram#Yaka
+Konya#Sarayönü#İstasyon
+Konya#Sarayönü#Sarayönü
+Konya#Selçuklu#Aydınlık
+Konya#Selçuklu#Bosna
+Konya#Selçuklu#Büyükkayacık
+Konya#Selçuklu#Cumhuriyet
+Konya#Selçuklu#Fatih
+Konya#Selçuklu#Horozluhan
+Konya#Selçuklu#Kampüs
+Konya#Selçuklu#Mimar sinan
+Konya#Selçuklu#Nalçacı
+Konya#Selçuklu#Selçuklu
+Konya#Selçuklu#Sille
+Konya#Selçuklu#Tatköy
+Konya#Selçuklu#Yazır
+Konya#Seydişehir#Alaylar
+Konya#Seydişehir#Seydişehir
+Konya#Seydişehir#Seyitharun
+Konya#Taşkent#Taşkent
+Konya#Tuzlukçu#Tuzlukçu
+Konya#Yalıhüyük#Yalıhüyük
+Konya#Yunak#Yunak
+Kütahya#Altıntaş#Altıntaş
+Kütahya#Altıntaş#Merkezköyler
+Kütahya#Aslanapa#Aslanapa
+Kütahya#Aslanapa#Merkezköyler
+Kütahya#Çavdarhisar#Çavdarhisar
+Kütahya#Çavdarhisar#Merkezköyler
+Kütahya#Domaniç#Domaniç
+Kütahya#Domaniç#Merkezköyler
+Kütahya#Dumlupınar#Dumlupınar
+Kütahya#Dumlupınar#Merkezköyler
+Kütahya#Emet#Emet
+Kütahya#Emet#Merkezköyler
+Kütahya#Gediz#Gediz
+Kütahya#Gediz#Merkezköyler
+Kütahya#Hisarcık#Hisarcık
+Kütahya#Hisarcık#Merkezköyler
+Kütahya#Merkez#Alipaşa
+Kütahya#Merkez#Börekçiler
+Kütahya#Merkez#Hamidiye
+Kütahya#Merkez#Merkezköyler
+Kütahya#Merkez#Seyitömer
+Kütahya#Pazarlar#Merkezköyler
+Kütahya#Pazarlar#Pazarlar
+Kütahya#Simav#Merkezköyler
+Kütahya#Simav#Simav
+Kütahya#Şaphane#Merkezköyler
+Kütahya#Şaphane#Şaphane
+Kütahya#Tavşanlı#Merkezköyler
+Kütahya#Tavşanlı#Tavşanlı
+Malatya#Akçadağ#Akçadağ
+Malatya#Arapgir#Arapgir
+Malatya#Arguvan#Arguvan
+Malatya#Battalgazi#Battalgazi
+Malatya#Battalgazi#Beydağı
+Malatya#Battalgazi#Dabakhane
+Malatya#Battalgazi#Hanımınçiftliği
+Malatya#Battalgazi#Kanalboyu
+Malatya#Battalgazi#Kapalıçarşı
+Malatya#Battalgazi#Orduzu
+Malatya#Battalgazi#Sıtmapınarı
+Malatya#Battalgazi#Taştepe
+Malatya#Darende#Darende
+Malatya#Doğanşehir#Doğanşehir
+Malatya#Doğanyol#Doğanyol
+Malatya#Hekimhan#Hekimhan
+Malatya#Kale#Kale
+Malatya#Kuluncak#Kuluncak
+Malatya#Pütürge#Pötürge
+Malatya#Yazıhan#Yazıhan
+Malatya#Yeşilyurt#Bostanbaşı
+Malatya#Yeşilyurt#Çavuşoğlu
+Malatya#Yeşilyurt#Dilek
+Malatya#Yeşilyurt#Gündüzbey
+Malatya#Yeşilyurt#Karakavak
+Malatya#Yeşilyurt#Özalper
+Malatya#Yeşilyurt#Şahnahan
+Malatya#Yeşilyurt#Topsöğüt
+Malatya#Yeşilyurt#Yakınca
+Malatya#Yeşilyurt#Yeşiltepe
+Malatya#Yeşilyurt#Yeşilyurt
+Manisa#Ahmetli#Ahmetli
+Manisa#Ahmetli#Gökkaya
+Manisa#Akhisar#Akhisar
+Manisa#Alaşehir#Alaşehir
+Manisa#Alaşehir#Kavaklıdere
+Manisa#Alaşehir#Kemaliye
+Manisa#Alaşehir#Killik
+Manisa#Alaşehir#Piyadeler
+Manisa#Alaşehir#Uluderbent
+Manisa#Alaşehir#Yeşilyurt
+Manisa#Demirci#Demirci
+Manisa#Demirci#Durhasan
+Manisa#Demirci#Mahmutlar
+Manisa#Gölmarmara#Gölmarmara
+Manisa#Gördes#Çiçekli
+Manisa#Gördes#Gördes
+Manisa#Gördes#Güneşli
+Manisa#Gördes#Kayacık
+Manisa#Kırkağaç#Bakır
+Manisa#Kırkağaç#Gelenbe
+Manisa#Kırkağaç#İlyaslar
+Manisa#Kırkağaç#Karakurt
+Manisa#Kırkağaç#Kırkağaç
+Manisa#Köprübaşı#Köprübaşı
+Manisa#Kula#Kula
+Manisa#Salihli#Adala
+Manisa#Salihli#Durasıllı
+Manisa#Salihli#Poyraz
+Manisa#Salihli#Salihli
+Manisa#Salihli#Sart
+Manisa#Sarıgöl#Sarıgöl
+Manisa#Saruhanlı#Alibeyli
+Manisa#Saruhanlı#Büyükbelen
+Manisa#Saruhanlı#Dilek
+Manisa#Saruhanlı#Gökçeköy
+Manisa#Saruhanlı#Gümülceli
+Manisa#Saruhanlı#Hacırahmanlı
+Manisa#Saruhanlı#Halitpaşa
+Manisa#Saruhanlı#İshakçelebi
+Manisa#Saruhanlı#Koldere
+Manisa#Saruhanlı#Kumkuyucak
+Manisa#Saruhanlı#Mütevelli
+Manisa#Saruhanlı#Nuriye
+Manisa#Saruhanlı#Paşaköy
+Manisa#Saruhanlı#Saruhanlı
+Manisa#Selendi#Selendi
+Manisa#Soma#Avdan
+Manisa#Soma#Cenkyeri
+Manisa#Soma#Soma
+Manisa#Soma#Turgutalp
+Manisa#Soma#Yağcılı
+Manisa#Şehzadeler#Aşağıçobanisa
+Manisa#Şehzadeler#Çarşı
+Manisa#Şehzadeler#Hacıhaliller
+Manisa#Şehzadeler#Karaağaçlı
+Manisa#Şehzadeler#Karaköy
+Manisa#Şehzadeler#Karaoğlanlı
+Manisa#Şehzadeler#Kuzey
+Manisa#Şehzadeler#Sancaklıbozköy
+Manisa#Şehzadeler#Şehzadeler
+Manisa#Turgutlu#Derbent
+Manisa#Turgutlu#Turgutlu
+Manisa#Turgutlu#Urganlı
+Manisa#Yunusemre#50.yıl
+Manisa#Yunusemre#Laleli
+Manisa#Yunusemre#Muradiye
+Manisa#Yunusemre#Tevfikiye
+Manisa#Yunusemre#Üçpınar
+Manisa#Yunusemre#Yunusemre
+Mardin#Artuklu#Gökçe
+Mardin#Artuklu#İstasyon
+Mardin#Artuklu#Kabala
+Mardin#Artuklu#Nur
+Mardin#Artuklu#Savurkapı
+Mardin#Dargeçit#Dargeçit
+Mardin#Derik#Derik
+Mardin#Kızıltepe#Kızıltepe
+Mardin#Mazıdağı#Mazıdağı
+Mardin#Midyat#Eskimidyat
+Mardin#Midyat#Hükümet
+Mardin#Nusaybin#Nusaybin
+Mardin#Ömerli#Ömerli
+Mardin#Savur#Savur
+Mardin#Yeşilli#Yeşilli
+Mersin#Akdeniz#Adanalıoğlu
+Mersin#Akdeniz#Barış
+Mersin#Akdeniz#Camiişerif
+Mersin#Akdeniz#Çankaya
+Mersin#Akdeniz#Dikilitaş
+Mersin#Akdeniz#Evci
+Mersin#Akdeniz#Gündoğdu
+Mersin#Akdeniz#Hal
+Mersin#Akdeniz#Huzurkent
+Mersin#Akdeniz#Karacailyas
+Mersin#Akdeniz#Karaduvar
+Mersin#Akdeniz#Kazanlı
+Mersin#Akdeniz#Nusratiye
+Mersin#Anamur#Anamur
+Mersin#Anamur#Göktaş
+Mersin#Anamur#İskele
+Mersin#Aydıncık#Aydıncık
+Mersin#Aydıncık#Karadere
+Mersin#Bozyazı#Ardıçlıtaş
+Mersin#Bozyazı#Bozyazı
+Mersin#Çamlıyayla#Çamlıyayla
+Mersin#Çamlıyayla#Darıpınarı
+Mersin#Erdemli#Erdemli
+Mersin#Gülnar#Gülnar
+Mersin#Gülnar#Köseçobanlı
+Mersin#Mezitli#Akdeniz
+Mersin#Mezitli#Atatürk
+Mersin#Mezitli#Davultepe
+Mersin#Mezitli#Fındıkpınarı
+Mersin#Mezitli#Tece
+Mersin#Mut#Mut
+Mersin#Silifke#Atakent
+Mersin#Silifke#Atayurt
+Mersin#Silifke#Gazi
+Mersin#Silifke#Pazarkaşı
+Mersin#Silifke#Silifke
+Mersin#Silifke#Taşucu
+Mersin#Tarsus#82evler
+Mersin#Tarsus#Akşemsettin
+Mersin#Tarsus#Altaylılar
+Mersin#Tarsus#Anıt
+Mersin#Tarsus#Aşağı köyler
+Mersin#Tarsus#Bahçe
+Mersin#Tarsus#Beydeğirmeni
+Mersin#Tarsus#Caminur
+Mersin#Tarsus#Çamlıyayla
+Mersin#Tarsus#Kavaklı
+Mersin#Tarsus#Kızılmurat
+Mersin#Tarsus#Yenice
+Mersin#Tarsus#Yolboyu
+Mersin#Tarsus#Yukarı köyler
+Mersin#Toroslar#Akbelen
+Mersin#Toroslar#Arslanköy
+Mersin#Toroslar#Çavuşlu
+Mersin#Toroslar#Demirtaş
+Mersin#Toroslar#Halkkent
+Mersin#Toroslar#Sağlık
+Mersin#Toroslar#Selçuklar
+Mersin#Yenişehir#Afetevler
+Mersin#Yenişehir#Bahçelievler
+Mersin#Yenişehir#Barbaros
+Mersin#Yenişehir#Cumhuriyet
+Mersin#Yenişehir#Değirmençay
+Muğla#Bodrum#Bodrum
+Muğla#Dalaman#Dalaman
+Muğla#Datça#Datça
+Muğla#Fethiye#Fethiye
+Muğla#Kavaklıdere#Kavaklıdere
+Muğla#Köyceğiz#Köyceğiz
+Muğla#Marmaris#Marmaris
+Muğla#Menteşe#Menteşe
+Muğla#Milas#Milas
+Muğla#Ortaca#Ortaca
+Muğla#Seydikemer#Seydikemer
+Muğla#Ula#Ula
+Muğla#Yatağan#Yatağan
+Muş#Bulanık#Bulanık
+Muş#Bulanık#Erentepe
+Muş#Bulanık#Merkezköyler
+Muş#Hasköy#Hasköy
+Muş#Hasköy#Merkezköyler
+Muş#Korkut#Korkut
+Muş#Korkut#Merkezköyler
+Muş#Malazgirt#Aktuzla
+Muş#Malazgirt#Karahasan
+Muş#Malazgirt#Malazgirt
+Muş#Malazgirt#Merkezköyler
+Muş#Malazgirt#Nurettin
+Muş#Merkez#Merkez
+Muş#Merkez#Merkezköyler
+Muş#Varto#Çaylar
+Muş#Varto#Merkezköyler
+Muş#Varto#Varto
+Nevşehir#Acıgöl#Acıgöl
+Nevşehir#Acıgöl#Karapınar
+Nevşehir#Acıgöl#Merkezköyler
+Nevşehir#Acıgöl#Tatlarin
+Nevşehir#Avanos#Avanos
+Nevşehir#Avanos#Çalış
+Nevşehir#Avanos#Kalaba
+Nevşehir#Avanos#Merkezköyler
+Nevşehir#Avanos#Özkonak
+Nevşehir#Derinkuyu#Derinkuyu
+Nevşehir#Derinkuyu#Merkezköyler
+Nevşehir#Gülşehir#Gülşehir
+Nevşehir#Gülşehir#Merkezköyler
+Nevşehir#Hacıbektaş#Hacıbektaş
+Nevşehir#Hacıbektaş#Merkezköyler
+Nevşehir#Kozaklı#Kozaklı
+Nevşehir#Kozaklı#Merkezköyler
+Nevşehir#Merkez#Camicedit
+Nevşehir#Merkez#Çarşı
+Nevşehir#Merkez#Göre
+Nevşehir#Merkez#Göreme
+Nevşehir#Merkez#Kavak
+Nevşehir#Merkez#Kaymaklı
+Nevşehir#Merkez#Merkezköyler
+Nevşehir#Merkez#Nar
+Nevşehir#Merkez#Sulusaray
+Nevşehir#Merkez#Uçhisar
+Nevşehir#Ürgüp#Merkezköyler
+Nevşehir#Ürgüp#Ortahisar
+Nevşehir#Ürgüp#Ürgüp
+Niğde#Altunhisar#Altunhisar
+Niğde#Altunhisar#Karakapı
+Niğde#Altunhisar#Keçikalesi
+Niğde#Altunhisar#Merkezköyler
+Niğde#Bor#Bor
+Niğde#Bor#Merkezköyler
+Niğde#Çamardı#Çamardı
+Niğde#Çamardı#Merkezköyler
+Niğde#Çiftlik#Özyurt
+Niğde#Merkez#Afetevleri
+Niğde#Merkez#Merkezköyler
+Niğde#Merkez#Sungurbey
+Niğde#Ulukışla#Merkezköyler
+Niğde#Ulukışla#Ulukışla
+Ordu#Akkuş#Akkuş
+Ordu#Altınordu#Bahcelievler
+Ordu#Altınordu#Düz mahalle
+Ordu#Altınordu#Saraycık
+Ordu#Aybastı#Aybastı
+Ordu#Çamaş#Çamaş
+Ordu#Çatalpınar#Çatalpınar
+Ordu#Çaybaşı#Çaybaşı
+Ordu#Fatsa#Fatsa
+Ordu#Gölköy#Gölköy
+Ordu#Gülyalı#Gülyalı
+Ordu#Gürgentepe#Gürgentepe
+Ordu#İkizce#İkizce
+Ordu#Kabadüz#Karadüz
+Ordu#Kabataş#Kabataş
+Ordu#Korgan#Korgan
+Ordu#Kumru#Kumru
+Ordu#Mesudiye#Mesudiye
+Ordu#Perşembe#Perşembe
+Ordu#Ulubey#Ulubey
+Ordu#Ünye#Ünye
+Osmaniye#Bahçe#Bahçe
+Osmaniye#Bahçe#Merkezköyler
+Osmaniye#Düziçi#Düziçi
+Osmaniye#Düziçi#Merkezköyler
+Osmaniye#Hasanbeyli#Hasanbeyli
+Osmaniye#Hasanbeyli#Merkezköyler
+Osmaniye#Kadirli#Cemalpaşa
+Osmaniye#Kadirli#Kadirli
+Osmaniye#Kadirli#Merkezköyler
+Osmaniye#Merkez#Atatürk
+Osmaniye#Merkez#Merkezköyler
+Osmaniye#Sumbas#Sumbas
+Osmaniye#Toprakkale#Merkezköyler
+Osmaniye#Toprakkale#Toprakkale
+Rize#Ardeşen#Ardeşen
+Rize#Ardeşen#Merkezköyler
+Rize#Çamlıhemşin#Çamlıhemşin
+Rize#Çamlıhemşin#Merkezköyler
+Rize#Çayeli#Büyükköy
+Rize#Çayeli#Çayeli
+Rize#Çayeli#Merkezköyler
+Rize#Derepazarı#Derepazarı
+Rize#Derepazarı#Merkezköyler
+Rize#Fındıklı#Fındıklı
+Rize#Fındıklı#Merkezköyler
+Rize#Güneysu#Güneysu
+Rize#Güneysu#Merkezköyler
+Rize#Hemşin#Hemşin
+Rize#Hemşin#Merkezköyler
+Rize#İkizdere#İkizdere
+Rize#İkizdere#Merkezköyler
+Rize#İyidere#İyidere
+Rize#İyidere#Merkezköyler
+Rize#Kalkandere#Kalkandere
+Rize#Kalkandere#Merkezköyler
+Rize#Merkez#Gündoğdu
+Rize#Merkez#Merkezköyler
+Rize#Merkez#Rize
+Rize#Pazar#Merkezköyler
+Rize#Pazar#Pazar
+Sakarya#Adapazarı#Adapazarı
+Sakarya#Adapazarı#Karaman
+Sakarya#Akyazı#Akyazı
+Sakarya#Arifiye#Arifiye
+Sakarya#Erenler#Erenler
+Sakarya#Ferizli#Ferizli
+Sakarya#Geyve#Geyve
+Sakarya#Hendek#Hendek
+Sakarya#Karapürçek#Karapürçek
+Sakarya#Karasu#Karasu
+Sakarya#Kaynarca#Kaynarca
+Sakarya#Kocaali#Kocaali
+Sakarya#Pamukova#Pamukova
+Sakarya#Sapanca#Sapanca
+Sakarya#Serdivan#Serdivan
+Sakarya#Serdivan#Yazlık
+Sakarya#Söğütlü#Söğütlü
+Sakarya#Taraklı#Taraklı
+Samsun#19 mayıs#19 mayıs ballıca
+Samsun#Alaçam#Alaçam
+Samsun#Asarcık#Asarcık
+Samsun#Atakum#Atakum
+Samsun#Atakum#Kurupelit
+Samsun#Ayvacık#Ayvacık
+Samsun#Bafra#Bafra
+Samsun#Canik#Canik
+Samsun#Çarşamba#Çarşamba
+Samsun#Havza#Havza
+Samsun#İlkadım#Bahçelievler
+Samsun#İlkadım#İstasyon
+Samsun#İlkadım#Kadıköy
+Samsun#İlkadım#Kale
+Samsun#İlkadım#Liman
+Samsun#İlkadım#Rasathane
+Samsun#İlkadım#Unkapanı
+Samsun#İlkadım#Yeşilkent
+Samsun#Kavak#Kavak
+Samsun#Ladik#Ladik
+Samsun#Salıpazarı#Salıpazarı
+Samsun#Tekkeköy#Aşağıçinik
+Samsun#Tekkeköy#Büyüklü
+Samsun#Tekkeköy#Kutlukent
+Samsun#Tekkeköy#Tekkeköy
+Samsun#Terme#Terme
+Samsun#Vezirköprü#Merkezköyler
+Samsun#Vezirköprü#Vezirköprü
+Samsun#Yakakent#Yakakent
+Siirt#Baykan#Baykan
+Siirt#Baykan#Dilektepe
+Siirt#Baykan#Merkezköyler
+Siirt#Eruh#Bağgöze
+Siirt#Eruh#Eruh
+Siirt#Eruh#Merkezköyler
+Siirt#Kurtalan#Kurtalan
+Siirt#Kurtalan#Merkezköyler
+Siirt#Merkez#Siirt
+Siirt#Pervari#Merkezköyler
+Siirt#Pervari#Pervari
+Siirt#Şirvan#Cevizlik
+Siirt#Şirvan#Merkezköyler
+Siirt#Şirvan#Özpınar
+Siirt#Şirvan#Şirvan
+Siirt#Tillo#Aydınlar
+Siirt#Tillo#Merkezköyler
+Sinop#Ayancık#Ayancık
+Sinop#Ayancık#Merkezköyler
+Sinop#Boyabat#Boyabat
+Sinop#Boyabat#Merkezköyler
+Sinop#Dikmen#Dikmen
+Sinop#Dikmen#Merkezköyler
+Sinop#Durağan#Durağan
+Sinop#Durağan#Merkezköyler
+Sinop#Erfelek#Erfelek
+Sinop#Erfelek#Merkezköyler
+Sinop#Gerze#Gerze
+Sinop#Gerze#Merkezköyler
+Sinop#Merkez#Sinop
+Sinop#Saraydüzü#Merkezköyler
+Sinop#Saraydüzü#Saraydüzü
+Sinop#Türkeli#Merkezköyler
+Sinop#Türkeli#Türkeli
+Sivas#Akıncılar#Akıncılar
+Sivas#Akıncılar#Merkezköyler
+Sivas#Altınyayla#Altınyayla
+Sivas#Altınyayla#Merkezköyler
+Sivas#Divriği#Divriği
+Sivas#Divriği#Merkezköyler
+Sivas#Doğanşar#Doğanşar
+Sivas#Doğanşar#Merkezköyler
+Sivas#Gemerek#Çepni
+Sivas#Gemerek#Eğerci
+Sivas#Gemerek#Gemerek
+Sivas#Gemerek#İnkışla
+Sivas#Gemerek#Merkezköyler
+Sivas#Gemerek#Sızır
+Sivas#Gemerek#Yeniçubuk
+Sivas#Gölova#Gölova
+Sivas#Gölova#Merkezköyler
+Sivas#Gürün#Gürün
+Sivas#Gürün#Merkezköyler
+Sivas#Hafik#Hafik
+Sivas#Hafik#Merkezköyler
+Sivas#İmranlı#İmranlı
+Sivas#İmranlı#Merkezköyler
+Sivas#Kangal#Kangal
+Sivas#Kangal#Merkezköyler
+Sivas#Koyulhisar#Koyulhisar
+Sivas#Koyulhisar#Merkezköyler
+Sivas#Merkez#Alibaba
+Sivas#Merkez#Aydoğan
+Sivas#Merkez#Çarşı
+Sivas#Merkez#Kümbet
+Sivas#Merkez#Merkez-köyler
+Sivas#Merkez#Yenişehir
+Sivas#Suşehri#Merkezköyler
+Sivas#Suşehri#Suşehri
+Sivas#Şarkışla#Merkezköyler
+Sivas#Şarkışla#Şarkışla
+Sivas#Ulaş#Merkezköyler
+Sivas#Ulaş#Ulaş
+Sivas#Yıldızeli#Merkezköyler
+Sivas#Yıldızeli#Yıldızeli
+Sivas#Zara#Merkezköyler
+Sivas#Zara#Zara
+Şanlıurfa#Akçakale#Akçakale
+Şanlıurfa#Birecik#Birecik
+Şanlıurfa#Bozova#Bozova
+Şanlıurfa#Bozova#Yaylak
+Şanlıurfa#Ceylanpınar#Ceylanpınar
+Şanlıurfa#Eyyübiye#Çarşı
+Şanlıurfa#Eyyübiye#Eyyübiye
+Şanlıurfa#Halfeti#Halfeti
+Şanlıurfa#Haliliye#Bağlarbaşı
+Şanlıurfa#Haliliye#Bahçelievler
+Şanlıurfa#Haliliye#Şairnabi
+Şanlıurfa#Haliliye#Yenişehir
+Şanlıurfa#Harran#Harran
+Şanlıurfa#Hilvan#Hilvan
+Şanlıurfa#Karaköprü#Karaköprü
+Şanlıurfa#Siverek#Siverek
+Şanlıurfa#Suruç#Suruç
+Şanlıurfa#Viranşehir#Viranşehir
+Şırnak#Beytüşşebap#Beytüşşebap
+Şırnak#Beytüşşebap#Merkezköyler
+Şırnak#Cizre#Cizre
+Şırnak#Cizre#Merkezköyler
+Şırnak#Güçlükonak#Güçlükonak
+Şırnak#Güçlükonak#Merkezköyler
+Şırnak#İdil#İdil
+Şırnak#İdil#Merkezköyler
+Şırnak#Merkez#Şırnak
+Şırnak#Silopi#Merkezköyler
+Şırnak#Silopi#Silopi
+Şırnak#Uludere#Merkezköyler
+Şırnak#Uludere#Uludere
+Tekirdağ#Çerkezköy#Çerkezköy
+Tekirdağ#Çorlu#Çorlu
+Tekirdağ#Çorlu#Silahtar
+Tekirdağ#Ergene#Marmaracık
+Tekirdağ#Hayrabolu#Hayrabolu
+Tekirdağ#Kapaklı#Kapaklı
+Tekirdağ#Malkara#Malkara
+Tekirdağ#Marmaraereğlisi#Marmaraereğlisi
+Tekirdağ#Muratlı#Muratlı
+Tekirdağ#Saray#Saray
+Tekirdağ#Süleymanpaşa#Altınova
+Tekirdağ#Süleymanpaşa#Aydoğdu
+Tekirdağ#Süleymanpaşa#Eskicami
+Tekirdağ#Süleymanpaşa#Kumbağ
+Tekirdağ#Süleymanpaşa#Süleymanpaşa
+Tekirdağ#Şarköy#Şarköy
+Tokat#Almus#Almus
+Tokat#Almus#Merkezköyler
+Tokat#Artova#Artova
+Tokat#Artova#Merkezköyler
+Tokat#Başçiftlik#Başçiftlik
+Tokat#Başçiftlik#Merkezköyler
+Tokat#Erbaa#Erbaa
+Tokat#Erbaa#Karayaka
+Tokat#Erbaa#Merkezköyler
+Tokat#Merkez#Geyras
+Tokat#Merkez#Gökdere
+Tokat#Merkez#Karşıyaka
+Tokat#Merkez#Merkezköyler
+Tokat#Niksar#Gökçeli
+Tokat#Niksar#Merkezköyler
+Tokat#Niksar#Niksar
+Tokat#Pazar#Merkezköyler
+Tokat#Pazar#Pazar
+Tokat#Reşadiye#Bereketli
+Tokat#Reşadiye#Merkezköyler
+Tokat#Reşadiye#Reşadiye
+Tokat#Sulusaray#Merkezköyler
+Tokat#Sulusaray#Sulusaray
+Tokat#Turhal#Merkezköyler
+Tokat#Turhal#Turhal
+Tokat#Yeşilyurt#Merkezköyler
+Tokat#Yeşilyurt#Yeşilyurt
+Tokat#Zile#Merkezköyler
+Tokat#Zile#Zile
+Trabzon#Akçaabat#Akçaabat
+Trabzon#Araklı#Araklı
+Trabzon#Arsin#Arsin
+Trabzon#Beşikdüzü#Beşikdüzü
+Trabzon#Çarşıbaşı#Çarşıbaşı
+Trabzon#Çaykara#Çaykara
+Trabzon#Dernekpazarı#Dernekpazarı
+Trabzon#Düzköy#Düzköy
+Trabzon#Hayrat#Hayrat
+Trabzon#Köprübaşı#Köprübaşı
+Trabzon#Maçka#Maçka
+Trabzon#Of#Of
+Trabzon#Ortahisar#Beşirli
+Trabzon#Ortahisar#Bostancı
+Trabzon#Ortahisar#Boztepe
+Trabzon#Ortahisar#Çarşı
+Trabzon#Ortahisar#Erdoğdu
+Trabzon#Sürmene#Sürmene
+Trabzon#Şalpazarı#Şalpazarı
+Trabzon#Tonya#Tonya
+Trabzon#Vakfıkebir#Vakfıkebir
+Trabzon#Yomra#Yomra
+Tunceli#Çemişgezek#Çemişgezek
+Tunceli#Çemişgezek#Merkezköyler
+Tunceli#Hozat#Hozat
+Tunceli#Hozat#Merkezköyler
+Tunceli#Mazgirt#Mazgirt
+Tunceli#Mazgirt#Merkezköyler
+Tunceli#Merkez#Tunceli
+Tunceli#Nazımiye#Merkezköyler
+Tunceli#Nazımiye#Nazımiye
+Tunceli#Ovacık#Merkezköyler
+Tunceli#Ovacık#Ovacık
+Tunceli#Pertek#Merkezköyler
+Tunceli#Pertek#Pertek
+Tunceli#Pülümür#Merkezköyler
+Tunceli#Pülümür#Pülümür
+Uşak#Banaz#Banaz
+Uşak#Banaz#Merkezköyler
+Uşak#Eşme#Eşme
+Uşak#Eşme#Merkezköyler
+Uşak#Karahallı#Karahallı
+Uşak#Karahallı#Merkezköyler
+Uşak#Merkez#Cumhuriyet
+Uşak#Merkez#Merkezköyler
+Uşak#Sivaslı#Sivaslı
+Uşak#Ulubey#Merkezköyler
+Uşak#Ulubey#Ulubey
+Van#Bahçesaray#Bahçesaray
+Van#Başkale#Başkale
+Van#Çaldıran#Çaldıran
+Van#Çatak#Çatak
+Van#Edremit#Gümüşdere
+Van#Edremit#Süphan
+Van#Erciş#Erciş
+Van#Gevaş#Gevaş
+Van#Gürpınar#Gürpınar
+Van#İpekyolu#Erçek
+Van#İpekyolu#Valimitatbey
+Van#Muradiye#Muradiye
+Van#Özalp#Özalp
+Van#Saray#Saray
+Van#Tuşba#İskele
+Van#Tuşba#İstasyon
+Yalova#Altınova#Altınova
+Yalova#Altınova#Merkezköyler
+Yalova#Armutlu#Armutlu
+Yalova#Armutlu#Merkezköyler
+Yalova#Çınarcık#Çınarcık
+Yalova#Çınarcık#Merkezköyler
+Yalova#Çiftlikköy#Çiftlikköy
+Yalova#Çiftlikköy#Merkezköyler
+Yalova#Merkez#Bağlarbaşı
+Yalova#Merkez#Merkezköyler
+Yalova#Termal#Termal
+Yozgat#Akdağmadeni#Akdağmadeni
+Yozgat#Akdağmadeni#Merkezköyler
+Yozgat#Aydıncık#Aydıncık
+Yozgat#Aydıncık#Merkezköyler
+Yozgat#Boğazlıyan#Boğazlıyan
+Yozgat#Boğazlıyan#Merkezköyler
+Yozgat#Çandır#Çandır
+Yozgat#Çandır#Merkezköyler
+Yozgat#Çayıralan#Çayıralan
+Yozgat#Çayıralan#Merkezköyler
+Yozgat#Çekerek#Çekerek
+Yozgat#Çekerek#Merkezköyler
+Yozgat#Kadışehri#Kadışehri
+Yozgat#Kadışehri#Merkezköyler
+Yozgat#Merkez#Yozgat
+Yozgat#Saraykent#Merkezköyler
+Yozgat#Saraykent#Saraykent
+Yozgat#Sarıkaya#Merkezköyler
+Yozgat#Sarıkaya#Sarıkaya
+Yozgat#Sorgun#Merkezköyler
+Yozgat#Sorgun#Sorgun
+Yozgat#Şefaatli#Merkezköyler
+Yozgat#Şefaatli#Şefaatli
+Yozgat#Yenifakılı#Merkezköyler
+Yozgat#Yenifakılı#Yenifakılı
+Yozgat#Yerköy#Merkezköyler
+Yozgat#Yerköy#Yerköy
+Zonguldak#Alaplı#Alaplı
+Zonguldak#Alaplı#Merkezköyler
+Zonguldak#Çaycuma#Çaycuma
+Zonguldak#Çaycuma#Hisarönü(filyos)
+Zonguldak#Çaycuma#Merkezköyler
+Zonguldak#Çaycuma#Perşembe
+Zonguldak#Çaycuma#Saltukova
+Zonguldak#Devrek#Devrek
+Zonguldak#Devrek#Eğerci
+Zonguldak#Devrek#Merkezköyler
+Zonguldak#Ereğli#Karadenizereğli
+Zonguldak#Ereğli#Merkezköyler
+Zonguldak#Ereğli#Ormanlı
+Zonguldak#Gökçebey#Gökçebey
+Zonguldak#Gökçebey#Merkezköyler
+Zonguldak#Kilimli#Kilimli
+Zonguldak#Kilimli#Merkezköyler
+Zonguldak#Kozlu#Kozlu
+Zonguldak#Kozlu#Merkezköyler
+Zonguldak#Merkez#Beycuma
+Zonguldak#Merkez#Merkezköyler
+Zonguldak#Merkez#Zonguldak

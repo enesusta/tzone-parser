@@ -19,7 +19,7 @@ public class TownGenerator extends Generator {
 
         Cell province = TemporaryCell.of();
 
-        try (PrintStream printStream = new PrintStream(new FileOutputStream("town.txt"))) {
+        try (PrintStream printStream = new PrintStream(new FileOutputStream("towns.txt"))) {
 
             for (Row row : parser.parse()) {
 

@@ -26,9 +26,10 @@ public class TownTextConsumer implements TextConsumer<TownPOJO> {
 
                 TownPOJO townPOJO = new TownPOJO();
                 townPOJO.setProvinceName(arr[0]);
-                townPOJO.setDistrictName(arr[1]);
+                townPOJO.setCountyName(arr[1]);
                 townPOJO.setTownName(arr[2]);
                 list.add(townPOJO);
+
             }
 
 

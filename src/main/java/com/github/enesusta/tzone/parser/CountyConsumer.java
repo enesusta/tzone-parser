@@ -73,10 +73,7 @@ public class CountyConsumer implements Consumer {
 
         MultiMap<String, CountyPOJO> mapSectionOne = new MultiValueMap<>();
 
-        for (CountyPOJO countyPOJO : list) {
-            mapSectionOne.put(countyPOJO.getProvinceName(), countyPOJO);
-        }
-
+        for (CountyPOJO countyPOJO : list) mapSectionOne.put(countyPOJO.getProvinceName(), countyPOJO);
 
         Set<AllBean> allBeans = new TreeSet<>();
 
@@ -88,9 +85,7 @@ public class CountyConsumer implements Consumer {
             Set<CountyPOJO> s1 = new HashSet<>(c1);
             MultiMap<String, CountyPOJO> mapSectionTwo = new MultiValueMap<>();
 
-            for (CountyPOJO countyPOJO : s1) {
-                mapSectionTwo.put(countyPOJO.getCountyName(), countyPOJO);
-            }
+            for (CountyPOJO countyPOJO : s1) mapSectionTwo.put(countyPOJO.getCountyName(), countyPOJO);
             Set<CountyBean> countyBeans = new TreeSet<>();
 
             mapSectionTwo.forEach((k2, v2) -> {
