@@ -7,6 +7,5 @@ import java.io.IOException;
 
 public abstract class Generator {
     protected final Parser parser = new Parser();
-    protected final ObjectMapper objectMapper = new ObjectMapper();
     public abstract void generate() throws IOException;
 }
