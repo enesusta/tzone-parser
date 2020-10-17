@@ -3,6 +3,7 @@ package com.github.enesusta.tzone.parser.generator;
 import com.github.enesusta.tzone.parser.capitalizer.Capitalizer;
 import com.github.enesusta.tzone.parser.cell.TemporaryCell;
 import com.github.enesusta.tzone.parser.util.CellUtilityFactory;
+import com.github.enesusta.tzone.parser.util.StringUtils;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 
@@ -45,13 +46,17 @@ public class VillageGenerator extends Generator {
                     String provinceName = CellUtilityFactory.cellToString(cells.get(0));
                     String countyName = CellUtilityFactory.cellToString(cells.get(1));
                     String townName = CellUtilityFactory.cellToString(cells.get(2));
-                    String villageName = CellUtilityFactory.cellToString(cells.get(3));
+                    //                   String villageName = CellUtilityFactory.cellToString(cells.get(3));
+                   String villageName = capitalizer.capitalize(cells.get(3).getStringCellValue());
+
                     int zipCode = Integer.parseInt(cells.get(4).getStringCellValue());
 
                     System.out.println(row.getRowNum());
-                    System.out.println("villageName = " + capitalizer.capitalize(villageName));
+                    System.out.println("villageName = " + villageName);
+ //                   System.out.println(cells.get(3).getStringCellValue());
 
-                    printStream.printf("%s#%s#%s#%s#%d\n", provinceName, countyName, townName, villageName, 10);
+
+                    printStream.printf("%s#%s#%s#%s#%d\n", provinceName, countyName, townName, null, 10);
                 }
 
                 town = cells.get(3);
