@@ -67,7 +67,7 @@ public final class Main {
 
         TextConsumer<VillagePOJO> villagePOJOTextConsumer = new VillageTextConsumer();
         Consumer villageConsumer = new ComplexVillageConsumer(villagePOJOTextConsumer);
-        // villageConsumer.consume();
+         villageConsumer.consume();
 
         /** Village End */
 

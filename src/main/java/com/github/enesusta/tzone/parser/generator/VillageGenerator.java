@@ -46,17 +46,11 @@ public class VillageGenerator extends Generator {
                     String provinceName = CellUtilityFactory.cellToString(cells.get(0));
                     String countyName = CellUtilityFactory.cellToString(cells.get(1));
                     String townName = CellUtilityFactory.cellToString(cells.get(2));
-                    //                   String villageName = CellUtilityFactory.cellToString(cells.get(3));
-                   String villageName = capitalizer.capitalize(cells.get(3).getStringCellValue());
-
+                    String villageName = capitalizer.capitalize(cells.get(3).getStringCellValue());
                     int zipCode = Integer.parseInt(cells.get(4).getStringCellValue());
 
-                    System.out.println(row.getRowNum());
-                    System.out.println("villageName = " + villageName);
- //                   System.out.println(cells.get(3).getStringCellValue());
 
-
-                    printStream.printf("%s#%s#%s#%s#%d\n", provinceName, countyName, townName, null, 10);
+                    printStream.printf("%s#%s#%s#%s#%d\n", provinceName, countyName, townName, villageName, zipCode);
                 }
 
                 town = cells.get(3);
