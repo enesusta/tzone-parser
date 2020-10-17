@@ -1,5 +1,7 @@
 package com.github.enesusta.tzone.parser;
 
+import com.github.enesusta.tzone.parser.capitalizer.Capitalizer;
+import com.github.enesusta.tzone.parser.capitalizer.DefaultCapitalizer;
 import com.github.enesusta.tzone.parser.generator.CountyGenerator;
 import com.github.enesusta.tzone.parser.generator.Generator;
 import com.github.enesusta.tzone.parser.generator.ProvinceGenerator;
@@ -25,11 +27,11 @@ public final class Main {
         /** Province Start */
 
         Generator generator = new ProvinceGenerator();
-        generator.generate();
+        //       generator.generate();
 
         TextConsumer<ProvincePOJO> textConsumer = new ProvinceTextConsumer();
         Consumer consumer = new ProvinceConsumer(textConsumer);
-        consumer.consume();
+        //consumer.consume();
 
         /** Province End */
 
@@ -58,12 +60,14 @@ public final class Main {
 
         /** Village Start */
 
-        Generator villageGenerator = new VillageGenerator();
-//        villageGenerator.generate();
+        Capitalizer capitalizer = new DefaultCapitalizer();
+
+        Generator villageGenerator = new VillageGenerator(capitalizer);
+        villageGenerator.generate();
 
         TextConsumer<VillagePOJO> villagePOJOTextConsumer = new VillageTextConsumer();
         Consumer villageConsumer = new ComplexVillageConsumer(villagePOJOTextConsumer);
-        // villageConsumer.consume();
+         villageConsumer.consume();
 
         /** Village End */
 
